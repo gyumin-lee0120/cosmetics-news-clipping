@@ -65,14 +65,26 @@ def run():
         "tblId": "DT_1KE10071",
     }
 
-    resp = requests.get(API_URL, params=params, timeout=15)
-    if resp.status_code != 200:
-        print(f"[오류] KOSIS API 요청 실패: {resp.status_code} {resp.text[:300]}", file=sys.stderr)
-        sys.exit(1)
+import time
+    resp = None
+    last_error = None
+    for attempt in range(3):
+        try:
+            resp = requests.get(API_URL, params=params, timeout=30)
+            break
+        except requests.exceptions.RequestException as e:
+            last_error = e
+            print(f"[재시도 {attempt + 1}/3] 연결 실패: {e}", file=sys.stderr)
+            time.sleep(5)
 
-    data = resp.json()
-    if isinstance(data, dict):
-        print(f"[오류] KOSIS API 응답 이상: {data}", file=sys.stderr)
+    if resp is None:
+        print(
+            f"[오류] KOSIS API 연결 3회 시도 모두 실패: {last_error}\n"
+            "타임아웃이 아니라 접속 자체가 막히는 경우, GitHub Actions 서버(해외 IP)를\n"
+            "KOSIS가 차단하고 있을 가능성이 있습니다. 이 경우 자동 수집 대신\n"
+            "수동 갱신 방식 전환이 필요할 수 있습니다.",
+            file=sys.stderr,
+        )
         sys.exit(1)
 
     points = []
