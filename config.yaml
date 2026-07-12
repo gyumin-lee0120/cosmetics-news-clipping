@@ -112,8 +112,9 @@ sources:
       months_back: 24
 
   customs_trade_stats:
-    enabled: false     # TODO: 다음 단계 — 관세청 수출입통계 오픈API (HS Code 33류)
-
+      enabled: true      # 관세청 품목별 수출입실적(GW) - HS Code 3304(화장품) 월별 수출입 금액
+      months_back: 12
+    
   mfds_production_stats:
     enabled: false     # TODO: 다음 단계 — 식약처 화장품 생산실적 통계 (연 1회 수동 갱신도 가능)
 
