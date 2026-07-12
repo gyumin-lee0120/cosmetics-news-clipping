@@ -65,7 +65,7 @@ def run():
         "tblId": "DT_1KE10071",
     }
 
-import time
+    import time
     resp = None
     last_error = None
     for attempt in range(3):
@@ -85,6 +85,15 @@ import time
             "수동 갱신 방식 전환이 필요할 수 있습니다.",
             file=sys.stderr,
         )
+        sys.exit(1)
+
+    if resp.status_code != 200:
+        print(f"[오류] KOSIS API 요청 실패: {resp.status_code} {resp.text[:300]}", file=sys.stderr)
+        sys.exit(1)
+
+    data = resp.json()
+    if isinstance(data, dict):
+        print(f"[오류] KOSIS API 응답 이상: {data}", file=sys.stderr)
         sys.exit(1)
 
     points = []
