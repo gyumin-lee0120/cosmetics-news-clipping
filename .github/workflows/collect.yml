@@ -38,6 +38,13 @@ jobs:
           KOSIS_API_KEY: ${{ secrets.KOSIS_API_KEY }}
         run: python kosis_online_shopping.py
 
+       - name: 관세청 화장품 수출입 금액 수집
+         working-directory: collectors
+        continue-on-error: true
+        env:
+          DATA_GO_KR_SERVICE_KEY: ${{ secrets.DATA_GO_KR_SERVICE_KEY }}
+        run: python customs_trade.py
+
       - name: 이메일 브리핑 발송
         working-directory: collectors
         env:
