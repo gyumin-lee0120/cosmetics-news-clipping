@@ -33,6 +33,7 @@ jobs:
 
       - name: 통계청 온라인쇼핑 거래액 수집
         working-directory: collectors
+        continue-on-error: true
         env:
           KOSIS_API_KEY: ${{ secrets.KOSIS_API_KEY }}
         run: python kosis_online_shopping.py
