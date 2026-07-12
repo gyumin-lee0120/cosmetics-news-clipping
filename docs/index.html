@@ -1,344 +1,127 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>화장품 시장 뉴스 클리핑</title>
-<style>
-  :root {
-    --bg: #ffffff;
-    --surface-1: #f4f4f2;
-    --text-primary: #1a1a1a;
-    --text-secondary: #666660;
-    --text-muted: #999990;
-    --border: #e2e2dd;
-    --accent-bg: #e6f1fb;
-    --accent-text: #0c447c;
-    --accent-border: #378add;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #171715;
-      --surface-1: #232320;
-      --text-primary: #f0f0ec;
-      --text-secondary: #a8a89f;
-      --text-muted: #77776e;
-      --border: #33332e;
-      --accent-bg: #0c447c;
-      --accent-text: #b5d4f4;
-      --accent-border: #378add;
-    }
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; padding: 24px 16px 60px;
-    background: var(--bg); color: var(--text-primary);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Malgun Gothic", sans-serif;
-    font-size: 15px; line-height: 1.6;
-  }
-  .wrap { max-width: 900px; margin: 0 auto; }
-  .row { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
-  h1 { font-size: 18px; font-weight: 600; margin: 0; }
-  .muted { color: var(--text-secondary); font-size: 13px; }
-  button, .btn {
-    font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 8px;
-    border: 1px solid var(--border); background: var(--bg); color: var(--text-primary); cursor: pointer;
-  }
-  button:hover { background: var(--surface-1); }
-  .tabs { display: flex; gap: 8px; margin: 16px 0 12px; }
-  .tab { font-size: 13px; font-weight: 500; padding: 6px 14px; border-radius: 8px; cursor: pointer; color: var(--text-secondary); }
-  .tab.active { background: var(--surface-1); color: var(--text-primary); border-bottom: 2px solid var(--accent-border); }
-  .period-toggle { display: flex; gap: 4px; background: var(--surface-1); border-radius: 8px; padding: 3px; }
-  .period-toggle span { font-size: 12px; padding: 4px 10px; border-radius: 6px; cursor: pointer; color: var(--text-secondary); }
-  .period-toggle span.active { background: var(--bg); color: var(--text-primary); }
-  .briefing { background: var(--surface-1); border-radius: 12px; padding: 16px 20px; margin-bottom: 16px; }
-  .briefing p.label { font-size: 13px; font-weight: 600; margin: 0 0 8px; }
-  .briefing p.body { font-size: 13px; color: var(--text-secondary); margin: 0; }
-  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
-  .chip { font-size: 12px; padding: 4px 12px; border-radius: 12px; background: var(--surface-1); color: var(--text-secondary); cursor: pointer; }
-  .chip.active { background: var(--accent-bg); color: var(--accent-text); }
-  .metrics { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 10px; margin-bottom: 16px; }
-  .metric { background: var(--surface-1); border-radius: 8px; padding: 14px; }
-  .metric .m-label { font-size: 12px; color: var(--text-secondary); margin: 0 0 6px; }
-  .metric .m-value { font-size: 20px; font-weight: 600; margin: 0; }
-  .news-list { border-top: 1px solid var(--border); margin-bottom: 20px; }
-  .news-item { display: flex; justify-content: space-between; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; }
-  .news-item .n-title { font-size: 14px; margin: 0 0 3px; }
-  .news-item .n-meta { font-size: 12px; color: var(--text-secondary); margin: 0; }
-  .badge-overseas { background: var(--surface-1); color: var(--text-secondary); font-size: 11px; padding: 2px 8px; border-radius: 10px; margin-right: 6px; white-space: nowrap; }
-  .section-title { font-size: 13px; font-weight: 600; margin: 0 0 10px; }
-  .trend-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 10px; margin-bottom: 16px; }
-  .trend-card { background: var(--surface-1); border-radius: 12px; padding: 14px; min-height: 110px; }
-  .trend-card .t-label { font-size: 11px; color: var(--text-secondary); margin: 0 0 8px; }
-  .trend-card .t-pending { font-size: 12px; color: var(--text-muted); }
-  .cal-list-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-  .cal-card, .list-card { background: var(--surface-1); border-radius: 12px; padding: 14px; }
-  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; text-align: center; }
-  .cal-grid span { font-size: 11px; padding: 3px 0; }
-  .cal-grid .dow { color: var(--text-muted); font-size: 10px; }
-  .cal-grid .hit { background: var(--accent-bg); color: var(--accent-text); border-radius: 4px; }
-  .exh-row { display: flex; justify-content: space-between; font-size: 13px; padding: 5px 0; }
-  .exh-row .exh-date { color: var(--text-secondary); }
-  .empty { color: var(--text-muted); font-size: 13px; padding: 20px 0; text-align: center; }
-  @media (max-width: 640px) {
-    .metrics, .trend-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
-    .cal-list-grid { grid-template-columns: 1fr; }
-  }
-</style>
-</head>
-<body>
-<div class="wrap">
+# 화장품 시장 뉴스 클리핑 설정 파일
+# 아래 TODO 표시된 항목은 실제 값으로 반드시 채워주세요.
 
-  <div class="row">
-    <div>
-      <h1>화장품 시장 뉴스 클리핑</h1>
-      <p class="muted" id="lastUpdated">불러오는 중...</p>
-    </div>
-    <button onclick="location.reload()">새로고침</button>
-  </div>
+brand:
+  own:
+    - "Oligio"
+    - "올리지오"
+  competitors:
+    - "에이피알"
+    - "APR"
+    - "메디큐브"
+    - "Medicube"
+    - "클래시스"
+    - "Classys"
 
-  <div class="row">
-    <div class="tabs">
-      <div class="tab active" data-topic="main">더마 스킨케어 · 홈뷰티 디바이스</div>
-      <div class="tab" data-topic="sub">화장품 시장 전체</div>
-    </div>
-    <div class="period-toggle">
-      <span class="active" data-period="1">오늘</span>
-      <span data-period="7">주간</span>
-      <span data-period="30">월간</span>
-    </div>
-  </div>
+# 메인 주제(더마 스킨케어 · 홈뷰티 디바이스) vs 서브 주제(그 외 화장품 시장) 분류 키워드
+# 기사 제목+요약에 아래 키워드가 하나라도 포함되면 해당 주제로 태그됩니다.
+# main과 sub에 동시에 걸리면 main 우선.
+topics:
+  main:
+    - 더마코스메틱
+    - 더마 스킨케어
+    - PDRN
+    - 엑소좀
+    - 펩타이드
+    - 스킨부스터
+    - 나이아신아마이드
+    - 홈뷰티
+    - 홈케어 디바이스
+    - LED마스크
+    - 리프팅기기
+    - 뷰티디바이스
+    - 뷰티테크
+  sub:
+    - 향수
+    - 바디로션
+    - 메이크업
+    - 색조화장품
+    - 립스틱
+    - 파운데이션
 
-  <div class="briefing">
-    <p class="label">브리핑 요약</p>
-    <p class="body" id="briefingText">데이터를 불러오는 중입니다...</p>
-  </div>
+# 뉴스를 세부 카테고리로 태깅하기 위한 키워드 (제목+요약 기준 매칭, 다중 태그 가능)
+categories:
+  원료:
+    - 원료
+    - 성분
+    - 스킨부스터
+    - PDRN
+    - 엑소좀
+    - 펩타이드
+    - 콜라겐
+  디바이스·기술:
+    - 디바이스
+    - LED마스크
+    - 리프팅기기
+    - 뷰티테크
+    - 홈케어
+    - AI
+  특허:
+    - 특허
+    - 키프리스
+    - 출원
+  패키지:
+    - 패키지
+    - 용기
+    - 리필
+    - 포장
+  마케팅:
+    - 마케팅
+    - 광고
+    - 캠페인
+    - 인플루언서
+  규제:
+    - 식약처
+    - 규제
+    - 허가
+    - 고시
+    - 개정안
 
-  <div class="chips" id="categoryChips">
-    <span class="chip active" data-category="전체">전체</span>
-  </div>
+# 소스별 설정. enabled: false 인 항목은 이번 1차 구현에서 아직 코드가 없고,
+# config만 미리 잡아둔 상태입니다 (README의 로드맵 참고).
+sources:
+  naver_news:
+    enabled: true
+    display: 100      # 1회 호출당 최대 결과 수 (네이버 API 한도)
+    max_pages: 2       # 키워드당 조회 페이지 수 (100건 x 2 = 최대 200건/키워드)
+    sort: date
 
-  <div class="metrics">
-    <div class="metric"><p class="m-label">자사 브랜드 언급</p><p class="m-value" id="mOwn">–</p></div>
-    <div class="metric"><p class="m-label">경쟁사 언급</p><p class="m-value" id="mCompetitor">–</p></div>
-    <div class="metric"><p class="m-label">메인 주제 비중</p><p class="m-value" id="mMainShare">–</p></div>
-    <div class="metric"><p class="m-label">최다 카테고리</p><p class="m-value" id="mTopCategory">–</p></div>
-  </div>
+  bigkinds:
+    enabled: false     # TODO: 다음 단계 — 빅카인즈 오픈API 연동
 
-  <div class="news-list" id="newsList">
-    <p class="empty">불러오는 중...</p>
-  </div>
+  cosmetics_trade_press_rss:
+    enabled: false     # TODO: 다음 단계 — 코스인/코스모닝/CMN 등 RSS 확인 후 연동
 
-  <p class="section-title">데이터 · 트렌드</p>
-  <div class="trend-grid">
-    <div class="trend-card">
-      <p class="t-label">온라인쇼핑 거래액 (통계청, 월별)</p>
-      <p class="t-pending">연동 예정 — 통계청 KOSIS 오픈API 추가 시 표시됩니다.</p>
-    </div>
-    <div class="trend-card">
-      <p class="t-label">국내 생산실적 (식약처, 연도별)</p>
-      <p class="t-pending">연동 예정 — 식약처 화장품 생산실적 통계는 연 1회 발표됩니다.</p>
-    </div>
-    <div class="trend-card">
-      <p class="t-label">수출입 금액 (관세청, 월별)</p>
-      <p class="t-pending">연동 예정 — 관세청 수출입통계 오픈API 추가 시 표시됩니다.</p>
-    </div>
-  </div>
+  mfds_cosmetics_regulation:
+    enabled: false     # TODO: 다음 단계 — 식약처 화장품 규제정보 공공데이터 API
 
-  <div class="cal-list-grid">
-    <div class="cal-card">
-      <p class="t-label" id="calTitle">전시회 캘린더</p>
-      <div class="cal-grid" id="calGrid"></div>
-    </div>
-    <div class="list-card">
-      <p class="t-label">다가오는 전시회 · 박람회</p>
-      <div id="exhList"></div>
-    </div>
-  </div>
+  mfds_medical_device:
+    enabled: false     # TODO: 다음 단계 — 식약처 의료기기 품목허가정보 API (홈뷰티 디바이스용)
 
-</div>
+  kipris_patents:
+    enabled: false     # TODO: 다음 단계 — 특허청 키프리스 오픈API
 
-<script>
-const DATA_URL = "data/news.json";
-const EXH_URL = "data/exhibitions.json";
+  wipo_patentscope:
+    enabled: false     # TODO: 다음 단계 — WIPO PatentScope RSS 알림
 
-let allNews = [];
-let state = { topic: "main", periodDays: 1, category: "전체" };
+  overseas_media:
+    enabled: false     # TODO: 다음 단계 — Global Cosmetics News, CosmeticsDesign 등 (RSS 제공 여부 확인 필요)
 
-async function loadData() {
-  try {
-    const res = await fetch(DATA_URL, { cache: "no-store" });
-    allNews = res.ok ? await res.json() : [];
-  } catch (e) {
-    allNews = [];
-  }
-  render();
-}
+  kosis_online_shopping:
+    enabled: false     # TODO: 다음 단계 — 통계청 온라인쇼핑동향조사 (화장품 거래액)
 
-function withinPeriod(item, days) {
-  const d = new Date(item.pub_date);
-  if (isNaN(d)) return true;
-  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
-  return d.getTime() >= cutoff;
-}
+  customs_trade_stats:
+    enabled: false     # TODO: 다음 단계 — 관세청 수출입통계 오픈API (HS Code 33류)
 
-function filteredNews() {
-  return allNews.filter(item =>
-    item.topic === state.topic &&
-    withinPeriod(item, state.periodDays) &&
-    (state.category === "전체" || (item.categories || []).includes(state.category))
-  );
-}
+  mfds_production_stats:
+    enabled: false     # TODO: 다음 단계 — 식약처 화장품 생산실적 통계 (연 1회 수동 갱신도 가능)
 
-function relTime(dateStr) {
-  const d = new Date(dateStr);
-  if (isNaN(d)) return "";
-  const diffMin = Math.round((Date.now() - d.getTime()) / 60000);
-  if (diffMin < 60) return `${diffMin}분 전`;
-  if (diffMin < 60 * 24) return `${Math.round(diffMin / 60)}시간 전`;
-  return `${Math.round(diffMin / 1440)}일 전`;
-}
+  exhibitions:
+    enabled: true
+    # 자동 수집 대신 수동으로 관리하는 전시회 일정 (data/exhibitions.json)
 
-function renderChips() {
-  const cats = new Set();
-  allNews.filter(i => i.topic === state.topic).forEach(i => (i.categories || []).forEach(c => cats.add(c)));
-  const el = document.getElementById("categoryChips");
-  el.innerHTML = "";
-  ["전체", ...Array.from(cats).sort()].forEach(cat => {
-    const span = document.createElement("span");
-    span.className = "chip" + (state.category === cat ? " active" : "");
-    span.textContent = cat;
-    span.onclick = () => { state.category = cat; render(); };
-    el.appendChild(span);
-  });
-}
-
-function renderMetrics(items) {
-  const ownCount = items.filter(i => (i.own_brand_mentions || []).length > 0).length;
-  const compCount = items.filter(i => (i.competitor_mentions || []).length > 0).length;
-  const allTodayTopicItems = allNews.filter(i => withinPeriod(i, state.periodDays));
-  const mainCount = allTodayTopicItems.filter(i => i.topic === "main").length;
-  const mainShare = allTodayTopicItems.length ? Math.round((mainCount / allTodayTopicItems.length) * 100) : 0;
-
-  const catCounts = {};
-  items.forEach(i => (i.categories || []).forEach(c => { catCounts[c] = (catCounts[c] || 0) + 1; }));
-  const topCat = Object.entries(catCounts).sort((a, b) => b[1] - a[1])[0];
-
-  document.getElementById("mOwn").textContent = `${ownCount}건`;
-  document.getElementById("mCompetitor").textContent = `${compCount}건`;
-  document.getElementById("mMainShare").textContent = `${mainShare}%`;
-  document.getElementById("mTopCategory").textContent = topCat ? `${topCat[0]} ${topCat[1]}건` : "–";
-}
-
-function renderBriefing(items) {
-  const el = document.getElementById("briefingText");
-  if (!allNews.length) {
-    el.textContent = "아직 수집된 데이터가 없습니다. GitHub Actions 수집 스크립트가 처음 실행되면 여기에 요약이 표시됩니다.";
-    return;
-  }
-  if (!items.length) {
-    el.textContent = "선택한 기간·카테고리에 해당하는 기사가 없습니다.";
-    return;
-  }
-  const catCounts = {};
-  items.forEach(i => (i.categories || []).forEach(c => { catCounts[c] = (catCounts[c] || 0) + 1; }));
-  const topCat = Object.entries(catCounts).sort((a, b) => b[1] - a[1])[0];
-  el.textContent = `이 기간 총 ${items.length}건 수집되었고, "${topCat ? topCat[0] : "미분류"}" 카테고리 언급이 가장 많았습니다. (요약문은 1차 버전으로 단순 집계 기반입니다 — 다음 단계에서 자연어 브리핑 생성 추가 예정)`;
-}
-
-function renderNewsList(items) {
-  const el = document.getElementById("newsList");
-  el.innerHTML = "";
-  if (!items.length) {
-    el.innerHTML = '<p class="empty">해당 조건의 기사가 없습니다.</p>';
-    return;
-  }
-  items.slice(0, 50).forEach(item => {
-    const a = document.createElement("a");
-    a.className = "news-item";
-    a.href = item.link;
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
-    a.innerHTML = `
-      <div style="min-width:0;">
-        <p class="n-title">${item.is_overseas ? '<span class="badge-overseas">해외</span>' : ""}${item.title}</p>
-        <p class="n-meta">${item.source} · ${(item.categories || []).join(", ")} · ${relTime(item.pub_date)}</p>
-      </div>`;
-    el.appendChild(a);
-  });
-}
-
-function render() {
-  const items = filteredNews();
-  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.topic === state.topic));
-  document.querySelectorAll(".period-toggle span").forEach(s => s.classList.toggle("active", Number(s.dataset.period) === state.periodDays));
-  renderChips();
-  renderBriefing(items);
-  renderMetrics(items);
-  renderNewsList(items);
-
-  const updated = allNews.length ? new Date(Math.max(...allNews.map(i => new Date(i.pub_date).getTime() || 0))) : null;
-  document.getElementById("lastUpdated").textContent = updated
-    ? `최근 수집: ${updated.toLocaleString("ko-KR")}`
-    : "아직 수집된 데이터가 없습니다";
-}
-
-document.querySelectorAll(".tab").forEach(t => t.onclick = () => { state.topic = t.dataset.topic; state.category = "전체"; render(); });
-document.querySelectorAll(".period-toggle span").forEach(s => s.onclick = () => { state.periodDays = Number(s.dataset.period); render(); });
-
-// 전시회 캘린더 + 리스트
-async function loadExhibitions() {
-  let exhibitions = [];
-  try {
-    const res = await fetch(EXH_URL, { cache: "no-store" });
-    exhibitions = res.ok ? await res.json() : [];
-  } catch (e) { exhibitions = []; }
-
-  const listEl = document.getElementById("exhList");
-  const upcoming = exhibitions
-    .map(e => ({ ...e, start: new Date(e.start_date), end: new Date(e.end_date) }))
-    .sort((a, b) => a.start - b.start);
-
-  listEl.innerHTML = upcoming.length
-    ? upcoming.map(e => `<div class="exh-row"><span>${e.name}</span><span class="exh-date">${fmtRange(e.start, e.end)}</span></div>`).join("")
-    : '<p class="empty">등록된 전시회가 없습니다.</p>';
-
-  const next = upcoming.find(e => e.end >= new Date()) || upcoming[upcoming.length - 1];
-  if (next) renderCalendar(next.start.getFullYear(), next.start.getMonth(), next.start, next.end);
-}
-
-function fmtRange(start, end) {
-  const m1 = start.getMonth() + 1, d1 = start.getDate();
-  const m2 = end.getMonth() + 1, d2 = end.getDate();
-  return m1 === m2 ? `${m1}.${d1}–${d2}` : `${m1}.${d1}–${m2}.${d2}`;
-}
-
-function renderCalendar(year, month, hlStart, hlEnd) {
-  document.getElementById("calTitle").textContent = `${year}년 ${month + 1}월`;
-  const grid = document.getElementById("calGrid");
-  grid.innerHTML = "";
-  ["일", "월", "화", "수", "목", "금", "토"].forEach(d => {
-    const s = document.createElement("span");
-    s.className = "dow";
-    s.textContent = d;
-    grid.appendChild(s);
-  });
-  const firstDow = new Date(year, month, 1).getDay();
-  const daysInMonth = new Date(year, month + 1, 0).getDate();
-  for (let i = 0; i < firstDow; i++) grid.appendChild(document.createElement("span"));
-  for (let day = 1; day <= daysInMonth; day++) {
-    const cur = new Date(year, month, day);
-    const span = document.createElement("span");
-    span.textContent = day;
-    if (cur >= new Date(hlStart.toDateString()) && cur <= new Date(hlEnd.toDateString())) {
-      span.className = "hit";
-    }
-    grid.appendChild(span);
-  }
-}
-
-loadData();
-loadExhibitions();
-</script>
-</body>
-</html>
+email:
+  enabled: false       # 이메일까지 보내려면 true로 변경하고 GitHub secrets에 발신 계정 정보 등록
+  to:
+    - "TODO: 받는사람@example.com"
+  send_hour_kst: 8
