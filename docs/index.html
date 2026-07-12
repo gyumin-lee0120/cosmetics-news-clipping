@@ -440,6 +440,53 @@ function monthsBeforePeriod(period, n) {
 loadData();
 loadExhibitions();
 loadTrendOnlineShopping();
+  async function loadCustomsTrade() {
+  const el = document.getElementById("trendCustomsTrade");
+  const pendingEl = el.querySelector(".t-pending");
+  let points = [];
+  try {
+    const res = await fetch("data/trend_customs_trade.json", { cache: "no-store" });
+    points = res.ok ? await res.json() : [];
+  } catch (e) { points = []; }
+
+  if (!points.length) {
+    pendingEl.textContent = "연동 예정 — 관세청 수출입통계 오픈API 추가 시 표시됩니다.";
+    return;
+  }
+
+  const expValues = points.map(p => p.export_usd);
+  const impValues = points.map(p => p.import_usd);
+  const allValues = expValues.concat(impValues);
+  const min = Math.min(...allValues), max = Math.max(...allValues);
+  const w = 200, h = 52;
+  const toCoords = (values) => values.map((v, i) => {
+    const x = points.length > 1 ? (i / (points.length - 1)) * w : 0;
+    const y = max > min ? h - ((v - min) / (max - min)) * h : h / 2;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+
+  const latest = points[points.length - 1];
+  const yearAgo = points.find(p => p.period === monthsBeforePeriod(latest.period, 12));
+  const compare = yearAgo || points[0];
+  const expGrowth = compare.export_usd
+    ? (((latest.export_usd - compare.export_usd) / compare.export_usd) * 100).toFixed(1)
+    : null;
+
+  const expM = (latest.export_usd / 1_000_000).toFixed(1);
+  const impM = (latest.import_usd / 1_000_000).toFixed(1);
+
+  el.innerHTML = `
+    <p class="t-label">수출입 금액 (관세청, 월별)</p>
+    <svg viewBox="0 0 200 60" style="width:100%; height:52px;" role="img" aria-label="화장품 수출입 금액 최근 추이">
+      <polyline points="${toCoords(expValues)}" fill="none" stroke="#0F6E56" stroke-width="2.5" transform="translate(0,4)"/>
+      <polyline points="${toCoords(impValues)}" fill="none" stroke="#B0472E" stroke-width="2.5" stroke-dasharray="3,2" transform="translate(0,4)"/>
+    </svg>
+    <p style="font-size:15px; font-weight:500; margin:6px 0 0;">수출 ${expM}백만$ <span style="font-size:11px; font-weight:400; color:var(--text-secondary);">${expGrowth !== null ? `(${yearAgo ? "전년 동월比" : "최초 대비"} ${expGrowth > 0 ? "+" : ""}${expGrowth}%)` : ""}</span></p>
+    <p style="font-size:12px; color:var(--text-secondary); margin:2px 0 0;">수입 ${impM}백만$ · ${latest.period}</p>
+  `;
+}
+
+loadCustomsTrade();
 </script>
 </body>
 </html>
