@@ -31,6 +31,12 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python naver_news.py
 
+      - name: 통계청 온라인쇼핑 거래액 수집
+        working-directory: collectors
+        env:
+          KOSIS_API_KEY: ${{ secrets.KOSIS_API_KEY }}
+        run: python kosis_online_shopping.py
+
       - name: 이메일 브리핑 발송
         working-directory: collectors
         env:
@@ -42,6 +48,6 @@ jobs:
         run: |
           git config user.name "news-clipping-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/ docs/data/
+          git add data/*.json docs/data/*.json
           git diff --quiet --cached || git commit -m "chore: 뉴스 데이터 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
