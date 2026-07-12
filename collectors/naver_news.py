@@ -82,6 +82,12 @@ def run():
             link = raw["link"] or raw["originallink"]
             combined_text = f"{title} {description}"
 
+            # 네이버 검색은 완전 무관한 기사를 섞어서 반환할 때가 있습니다
+            # (예: 검색어 "메이크업"으로 모기 물림 기사가 나오는 경우).
+            # 실제로 검색 키워드가 제목/요약에 존재하는 기사만 채택합니다.
+            if kw.lower() not in combined_text.lower():
+                continue
+
             own_hits, competitor_hits = find_brand_mentions(combined_text, cfg)
 
             item = {
