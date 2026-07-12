@@ -306,3 +306,140 @@ async function loadExhibitions() {
   try {
     const res = await fetch(EXH_URL, { cache: "no-store" });
     raw = res.ok ? await res.json() : [];
+  } catch (e) { raw = []; }
+
+  exhibitionsData = raw
+    .map(e => ({ ...e, start: new Date(e.start_date), end: new Date(e.end_date) }))
+    .sort((a, b) => a.start - b.start);
+
+  const listEl = document.getElementById("exhList");
+  listEl.innerHTML = exhibitionsData.length
+    ? exhibitionsData.map(e => `<div class="exh-row"><span>${linkOrText(e)}</span><span class="exh-date">${fmtRange(e.start, e.end)}</span></div>`).join("")
+    : '<p class="empty">등록된 전시회가 없습니다.</p>';
+
+  const today = new Date();
+  const next = exhibitionsData.find(e => e.end >= today) || exhibitionsData[exhibitionsData.length - 1];
+  calYear = next ? next.start.getFullYear() : today.getFullYear();
+  calMonth = next ? next.start.getMonth() : today.getMonth();
+  renderCalendar();
+}
+
+function linkOrText(e) {
+  return e.source && e.source.startsWith("http")
+    ? `<a href="${e.source}" target="_blank" rel="noopener noreferrer">${e.name}</a>`
+    : e.name;
+}
+
+function fmtRange(start, end) {
+  const m1 = start.getMonth() + 1, d1 = start.getDate();
+  const m2 = end.getMonth() + 1, d2 = end.getDate();
+  return m1 === m2 ? `${m1}.${d1}–${d2}` : `${m1}.${d1}–${m2}.${d2}`;
+}
+
+function exhibitionsOnDate(date) {
+  return exhibitionsData.filter(e => date >= new Date(e.start.toDateString()) && date <= new Date(e.end.toDateString()));
+}
+
+function showDayDetail(date, matches) {
+  const el = document.getElementById("calDetail");
+  if (!matches.length) {
+    el.textContent = "이 날짜에는 예정된 전시회가 없어요.";
+    return;
+  }
+  el.innerHTML = matches.map(e => `${linkOrText(e)} (${fmtRange(e.start, e.end)})`).join("<br>");
+}
+
+function renderCalendar() {
+  document.getElementById("calTitle").textContent = `${calYear}년 ${calMonth + 1}월`;
+  const grid = document.getElementById("calGrid");
+  grid.innerHTML = "";
+  ["일", "월", "화", "수", "목", "금", "토"].forEach(d => {
+    const s = document.createElement("span");
+    s.className = "dow";
+    s.textContent = d;
+    grid.appendChild(s);
+  });
+  const firstDow = new Date(calYear, calMonth, 1).getDay();
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+  for (let i = 0; i < firstDow; i++) grid.appendChild(document.createElement("span"));
+  for (let day = 1; day <= daysInMonth; day++) {
+    const cur = new Date(calYear, calMonth, day);
+    const span = document.createElement("span");
+    span.textContent = day;
+    const matches = exhibitionsOnDate(cur);
+    if (matches.length) {
+      span.className = "evt";
+      span.onclick = () => showDayDetail(cur, matches);
+    }
+    grid.appendChild(span);
+  }
+  document.getElementById("calDetail").textContent = "날짜를 클릭하면 해당일의 전시회를 볼 수 있어요.";
+}
+
+document.getElementById("calPrev").onclick = () => {
+  calMonth -= 1;
+  if (calMonth < 0) { calMonth = 11; calYear -= 1; }
+  renderCalendar();
+};
+document.getElementById("calNext").onclick = () => {
+  calMonth += 1;
+  if (calMonth > 11) { calMonth = 0; calYear += 1; }
+  renderCalendar();
+};
+
+async function loadTrendOnlineShopping() {
+  const el = document.getElementById("trendOnlineShopping");
+  const pendingEl = el.querySelector(".t-pending");
+  let points = [];
+  try {
+    const res = await fetch("data/trend_online_shopping.json", { cache: "no-store" });
+    points = res.ok ? await res.json() : [];
+  } catch (e) { points = []; }
+
+  if (!points.length) {
+    pendingEl.textContent = "연동 예정 — 통계청 KOSIS 오픈API 추가 시 표시됩니다.";
+    return;
+  }
+
+  const values = points.map(p => p.value_million_krw);
+  const min = Math.min(...values), max = Math.max(...values);
+  const w = 200, h = 52;
+  const coords = points.map((p, i) => {
+    const x = points.length > 1 ? (i / (points.length - 1)) * w : 0;
+    const y = max > min ? h - ((p.value_million_krw - min) / (max - min)) * h : h / 2;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+
+  const latest = points[points.length - 1];
+  const yearAgo = points.find(p => p.period === monthsBeforePeriod(latest.period, 12));
+  const compare = yearAgo || points[0];
+  const growth = compare.value_million_krw
+    ? (((latest.value_million_krw - compare.value_million_krw) / compare.value_million_krw) * 100).toFixed(1)
+    : null;
+  const trillion = (latest.value_million_krw / 1_000_000).toFixed(2);
+
+  el.innerHTML = `
+    <p class="t-label">온라인쇼핑 거래액 (통계청, 월별)</p>
+    <svg viewBox="0 0 200 60" style="width:100%; height:52px;" role="img" aria-label="화장품 온라인쇼핑 거래액 최근 추이">
+      <polyline points="${coords}" fill="none" stroke="#0F6E56" stroke-width="2.5" transform="translate(0,4)"/>
+    </svg>
+    <p style="font-size:20px; font-weight:500; margin:6px 0 0;">${trillion}조원
+      <span style="font-size:12px; font-weight:400; color:var(--text-secondary);">
+        (${latest.period}${growth !== null ? `, ${yearAgo ? "전년 동월比" : "최초 대비"} ${growth > 0 ? "+" : ""}${growth}%` : ""})
+      </span>
+    </p>`;
+}
+
+function monthsBeforePeriod(period, n) {
+  const [y, m] = period.split("-").map(Number);
+  const total = y * 12 + (m - 1) - n;
+  const ny = Math.floor(total / 12), nm = (total % 12) + 1;
+  return `${ny}-${String(nm).padStart(2, "0")}`;
+}
+
+loadData();
+loadExhibitions();
+loadTrendOnlineShopping();
+</script>
+</body>
+</html>
