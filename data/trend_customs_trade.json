@@ -26,27 +26,32 @@
   },
   {
     "period": "2026-01",
-    "export_usd": 841597855,
-    "import_usd": 89648748
+    "export_usd": 841562162,
+    "import_usd": 89648628
   },
   {
     "period": "2026-02",
-    "export_usd": 751575519,
-    "import_usd": 67481560
+    "export_usd": 751555259,
+    "import_usd": 67482619
   },
   {
     "period": "2026-03",
-    "export_usd": 969271907,
-    "import_usd": 90537955
+    "export_usd": 969874161,
+    "import_usd": 90524224
   },
   {
     "period": "2026-04",
-    "export_usd": 1094569728,
-    "import_usd": 83057580
+    "export_usd": 1095315618,
+    "import_usd": 83057884
   },
   {
     "period": "2026-05",
-    "export_usd": 989462110,
-    "import_usd": 77914956
+    "export_usd": 981320068,
+    "import_usd": 77917503
+  },
+  {
+    "period": "2026-06",
+    "export_usd": 1088511582,
+    "import_usd": 86626383
   }
 ]
