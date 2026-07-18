@@ -49,28 +49,22 @@ def run():
     end_prd = datetime.now().strftime("%Y%m")
     start_prd = month_offset(end_prd, -(MONTHS_BACK - 1))
 
-    params = {
-        "method": "getList",
-        "apiKey": api_key,
-        "itmId": "T20+",
-        "objL1": "010+",
-        "objL2": "00+",
-        "format": "json",
-        "jsonVD": "Y",
-        "prdSe": "M",
-        "startPrdDe": start_prd,
-        "endPrdDe": end_prd,
-        "outputFields": "PRD_DE+",
-        "orgId": "101",
-        "tblId": "DT_1KE10071",
-    }
+    from urllib.parse import quote
+    encoded_key = quote(api_key, safe="")
+
+    url = (
+        f"{API_URL}?method=getList&apiKey={encoded_key}"
+        f"&itmId=T20+&objL1=010+&objL2=00+&format=json&jsonVD=Y&prdSe=M"
+        f"&startPrdDe={start_prd}&endPrdDe={end_prd}&outputFields=PRD_DE+"
+        f"&orgId=101&tblId=DT_1KE10071"
+    )
 
     import time
     resp = None
     last_error = None
     for attempt in range(3):
         try:
-            resp = requests.get(API_URL, params=params, timeout=30)
+            resp = requests.get(url, timeout=30)
             break
         except requests.exceptions.RequestException as e:
             last_error = e
@@ -80,9 +74,7 @@ def run():
     if resp is None:
         print(
             f"[오류] KOSIS API 연결 3회 시도 모두 실패: {last_error}\n"
-            "타임아웃이 아니라 접속 자체가 막히는 경우, GitHub Actions 서버(해외 IP)를\n"
-            "KOSIS가 차단하고 있을 가능성이 있습니다. 이 경우 자동 수집 대신\n"
-            "수동 갱신 방식 전환이 필요할 수 있습니다.",
+            "기존 데이터 파일은 그대로 둡니다.",
             file=sys.stderr,
         )
         sys.exit(1)
@@ -108,6 +100,14 @@ def run():
 
     points.sort(key=lambda p: p["period"])
 
+    if not points:
+        print(
+            "[경고] 이번 응답에서 유효한 데이터를 하나도 못 얻었습니다. "
+            "기존 파일을 덮어쓰지 않고 그대로 둡니다.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     import json
     os.makedirs(os.path.dirname(TREND_PATH), exist_ok=True)
     with open(TREND_PATH, "w", encoding="utf-8") as f:
@@ -117,7 +117,6 @@ def run():
         json.dump(points, f, ensure_ascii=False, indent=2)
 
     print(f"완료: 화장품 온라인쇼핑 거래액 {len(points)}개월치 저장 (data/trend_online_shopping.json)")
-
 
 if __name__ == "__main__":
     run()
