@@ -52,13 +52,6 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python ../send_email.py
 
-      - name: 텔레그램 브리핑 발송
-        continue-on-error: true
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python send_telegram.py
-
       - name: 변경사항 커밋 및 푸시
         run: |
           git config user.name "news-clipping-bot"
