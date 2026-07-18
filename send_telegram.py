@@ -157,7 +157,7 @@ def build_message(cfg):
     sub_count_today = len([i for i in today_items if i.get("topic") == "sub"])
 
     today_str = datetime.now().strftime("%Y-%m-%d (%a)")
-    header = f"📰 <b>화장품 시장 뉴스 클리핑</b> [아침 브리핑]\n{today_str}"
+    header = f"🧴 <b>화장품 시장 뉴스 클리핑</b> [아침 브리핑]\n{today_str}"
 
     sections = [
         header,
