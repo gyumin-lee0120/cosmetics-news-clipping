@@ -91,7 +91,7 @@ def run():
             # 서브 주제 키워드(바디로션, 향수 등) 중 화장품과 무관한 맥락에서도
             # 흔히 쓰이는 범용어·동음이의어는, 화장품/뷰티/코스메틱 맥락 단어가
             # 함께 있는 기사만 채택합니다.
-            if kw in cfg["topics"].get("generic", []):
+            if kw not in cfg["topics"].get("trusted", []):
                 context_words = cfg["topics"].get("context", ["화장품", "뷰티", "코스메틱"])
                 if not any(c.lower() in combined_text.lower() for c in context_words):
                     continue
