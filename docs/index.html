@@ -142,10 +142,10 @@
       <p class="t-label">온라인쇼핑 거래액 (통계청, 월별)</p>
       <p class="t-pending">불러오는 중...</p>
     </div>
-    <div class="trend-card">
-      <p class="t-label">국내 생산실적 (식약처, 연도별)</p>
-      <p class="t-pending">연동 예정 — 식약처 화장품 생산실적 통계는 연 1회 발표됩니다.</p>
-    </div>
+  <div class="trend-card" id="trendProductionStats">
+    <p class="t-label">국내 생산실적 (식약처, 연도별)</p>
+    <p class="t-pending">불러오는 중...</p>
+  </div>
     <div class="trend-card" id="trendCustomsTrade">
       <p class="t-label">수출입 금액 (관세청, 월별)</p>
       <p class="t-pending">불러오는 중...</p>
@@ -487,6 +487,48 @@ loadTrendOnlineShopping();
 }
 
 loadCustomsTrade();
+  async function loadProductionStats() {
+  const el = document.getElementById("trendProductionStats");
+  const pendingEl = el.querySelector(".t-pending");
+  let points = [];
+  try {
+    const res = await fetch("data/production_stats.json", { cache: "no-store" });
+    points = res.ok ? await res.json() : [];
+  } catch (e) { points = []; }
+
+  if (!points.length) {
+    pendingEl.textContent = "연동 예정 — 식약처 화장품 생산실적 통계는 연 1회 발표됩니다.";
+    return;
+  }
+
+  const values = points.map(p => p.value_100m_krw);
+  const max = Math.max(...values);
+  const latest = points[points.length - 1];
+  const prev = points.length > 1 ? points[points.length - 2] : null;
+  const growth = prev
+    ? (((latest.value_100m_krw - prev.value_100m_krw) / prev.value_100m_krw) * 100).toFixed(1)
+    : null;
+  const trillion = (latest.value_100m_krw / 10000).toFixed(2);
+
+  const bars = points.map(p => `
+    <div style="display:flex; flex-direction:column; align-items:center; flex:1;">
+      <div style="width:60%; height:${(p.value_100m_krw / max) * 40}px; background:#0F6E56; border-radius:2px 2px 0 0;"></div>
+      <span style="font-size:9px; color:var(--text-secondary); margin-top:2px;">${p.year}</span>
+    </div>`).join("");
+
+  el.innerHTML = `
+    <p class="t-label">국내 생산실적 (식약처, 연도별)</p>
+    <div style="display:flex; align-items:flex-end; height:44px; gap:4px; margin-top:4px;">${bars}</div>
+    <p style="font-size:20px; font-weight:500; margin:6px 0 0;">${trillion}조원
+      <span style="font-size:12px; font-weight:400; color:var(--text-secondary);">
+        (${latest.year}${growth !== null ? `, 전년比 ${growth > 0 ? "+" : ""}${growth}%` : ""})
+      </span>
+    </p>
+    <p style="font-size:10px; color:var(--text-muted); margin:4px 0 0;">출처: 식약처 보도자료 (연 1회 발표, 수동 갱신)</p>
+  `;
+}
+
+loadProductionStats();
 </script>
 </body>
 </html>
