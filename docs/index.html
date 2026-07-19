@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>화장품 시장 뉴스 클리핑</title>
+<link rel="icon" type="image/png" href="logo-wontech-favicon.png">
 <style>
   :root {
     --bg: #ffffff;
@@ -120,6 +121,11 @@
   .exh-row .exh-date { color: var(--text-secondary); flex-shrink: 0; }
   .exh-row a { color: inherit; }
 
+  /* 하단 브랜드 푸터 */
+  .footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border); display: flex; align-items: center; justify-content: center; gap: 18px; }
+  .footer img { height: 17px; display: block; opacity: 0.88; }
+  .footer .divider { width: 1px; height: 14px; background: var(--border); }
+
   @media (max-width: 900px) {
     .main-grid { grid-template-columns: 1fr; }
     .col-sticky { position: static; }
@@ -135,10 +141,7 @@
   <div class="header">
     <div class="row">
       <div class="brand">
-        <svg class="brand-logo" width="30" height="30" viewBox="0 0 30 30" role="img" aria-label="원텍 로고 (임시)">
-          <rect width="30" height="30" rx="7" fill="var(--brand-orange)"/>
-          <path d="M6 10 L9.5 10 L11.5 17 L14 10 L16.5 10 L19 17 L21 10 L24 10 L20 21 L16.5 21 L15 15.5 L13 21 L9.5 21 Z" fill="#fff"/>
-        </svg>
+        <img class="brand-logo" src="logo-wontech-icon.png" width="30" height="30" alt="원텍 로고">
         <div>
           <h1>화장품 시장 뉴스 클리핑</h1>
           <p class="muted" id="lastUpdated">불러오는 중...</p>
@@ -219,6 +222,12 @@
       </div>
     </div>
 
+  </div>
+
+  <div class="footer">
+    <img src="logo-wontech-wordmark.png" alt="WONTECH">
+    <span class="divider"></span>
+    <img src="logo-oligio-wordmark.png" alt="Oligio" style="height:20px;">
   </div>
 
 </div>
