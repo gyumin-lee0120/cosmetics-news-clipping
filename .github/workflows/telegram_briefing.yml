@@ -3,7 +3,7 @@ name: 텔레그램 아침 브리핑 발송
 on:
   schedule:
     # 한국시간(KST, UTC+9) 월~금 오전 9시 정각 = UTC 00:00 (같은 날짜, 월~금)
-    - cron: "0 0 * * 1-5"
+    - cron: "13 0 * * 1-5"
   workflow_dispatch: {}   # Actions 탭에서 수동 실행 버튼도 사용 가능
 
 jobs:
