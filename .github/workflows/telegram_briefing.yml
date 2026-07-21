@@ -1,10 +1,7 @@
 name: 텔레그램 아침 브리핑 발송
 
 on:
-  schedule:
-    # 한국시간(KST, UTC+9) 월~금 오전 9시 정각 = UTC 00:00 (같은 날짜, 월~금)
-    - cron: "13 0 * * 1-5"
-  workflow_dispatch: {}   # Actions 탭에서 수동 실행 버튼도 사용 가능
+  workflow_dispatch: {}   # cron-job.org가 매일 09:13(KST)에 이 이벤트를 호출해서 실행 (GitHub 자체 schedule은 지연/누락이 잦아 제거)
 
 jobs:
   send:
