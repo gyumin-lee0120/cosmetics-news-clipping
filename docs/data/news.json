@@ -1,14 +1,14 @@
 [
   {
     "title": "“덜 바를수록 예쁘다” 올여름 뷰티 키워드 ‘파데프리’",
-    "summary": "폭염과 높은 습도로 두꺼운 베이스 메이크업이 부담스러워지면서 파운데이션을 생략하거나 최소화하는... ‘파데프리’ 메이크업이 확산되면서 선케어도 단순 자외선 차단을 넘어 파운데이션의 역할까지 대신하는...",
+    "summary": "몰로키아 잎과 오크라 열매에서 추출한 100% 식물성 뮤신으로, 피부 수분과 장벽 강화에 도움을 주고 콜라겐 합성을 도와 건강한 피부 컨디션을 유지해준다. 또 클로렐라 발효물을 함유해 UV 피부 보호와 항광노화, UV...",
     "link": "https://n.news.naver.com/mnews/article/144/0001128924?sid=103",
     "source": "네이버 뉴스",
     "pub_date": "Wed, 29 Jul 2026 22:55:00 +0900",
-    "matched_keyword": "파운데이션",
-    "topic": "sub",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -239,7 +239,7 @@
     "link": "http://www.lkp.news/news/articleView.html?idxno=82375",
     "source": "네이버 뉴스",
     "pub_date": "Wed, 29 Jul 2026 16:58:00 +0900",
-    "matched_keyword": "파운데이션",
+    "matched_keyword": "색조화장품",
     "topic": "sub",
     "categories": [
       "미분류"
@@ -2854,7 +2854,7 @@
     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=539232",
     "source": "네이버 뉴스",
     "pub_date": "Wed, 29 Jul 2026 05:56:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "PDRN",
     "topic": "main",
     "categories": [
       "원료"
@@ -2869,7 +2869,7 @@
     "link": "https://n.news.naver.com/mnews/article/011/0004646222?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Wed, 29 Jul 2026 05:41:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "엑소좀",
     "topic": "main",
     "categories": [
       "원료"
@@ -13471,7 +13471,7 @@
     "link": "https://www.etoday.co.kr/news/view/2608424",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 17:30:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "엑소좀",
     "topic": "main",
     "categories": [
       "원료"
@@ -13667,7 +13667,7 @@
     "link": "https://n.news.naver.com/mnews/article/119/0003115814?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 16:57:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "엑소좀",
     "topic": "main",
     "categories": [
       "원료"
@@ -13772,7 +13772,7 @@
     "link": "https://n.news.naver.com/mnews/article/277/0005795773?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 16:48:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "엑소좀",
     "topic": "main",
     "categories": [
       "원료"
@@ -14019,7 +14019,7 @@
     "link": "https://n.news.naver.com/mnews/article/421/0009083859?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 16:01:00 +0900",
-    "matched_keyword": "펩타이드",
+    "matched_keyword": "엑소좀",
     "topic": "main",
     "categories": [
       "원료"
@@ -16486,15 +16486,16 @@
   },
   {
     "title": "아모레퍼시픽, AI 연구 플랫폼에 메디컬 투자까지…뷰티 R&D 판 키운다",
-    "summary": "에스테틱 의료기기를 개발·유통하고 있으며 대표 제품으로 듀얼 히알루론산 기반 콜라겐 부스터 '힐로웨이브'를 보유하고 있다. 이번 계약에 따라 양사는 하이어코퍼레이션의 에스테틱 의료기기 개발 역량과 의료진...",
+    "summary": "양사는 스킨부스터, 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발과 사업화를 추진한다. 시술 후 애프터케어 제품 개발, 병·의원 유통 협력, 원료·소재 공동 연구개발과 마케팅도 함께 진행할 예정이다.",
     "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265040",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 11:10:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료",
-      "디바이스·기술"
+      "디바이스·기술",
+      "마케팅"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -17450,15 +17451,14 @@
   },
   {
     "title": "코스모프로프 북미...\"북미 바이어, K-뷰티보다 성분·효능 본다\"",
-    "summary": "특히 고함량 프로콜라겐을 적용한 집중 케어 콘셉트와 신선도를 유지할 수 있는 개별 포장 방식이 차별화 요소로 평가받았다. \"K-뷰티 가능성보다 실제 판매력 검증\" 올해 전시회에서 나타난 또 다른 특징은 바이어들의...",
+    "summary": "더메디코템에 따르면 신제품 에센스와 로션은 나이아신아마이드 5%를 함유하고 있으면서도 끈적임이 적고 산뜻한 사용감을 구현한 점이 높은 평가를 받았다. 회사 측은 \"북미 소비자들 사이에서 브라이트닝과 다크스팟...",
     "link": "https://www.thebk.co.kr/news/articleView.html?idxno=310757",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 09:50:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "나이아신아마이드",
     "topic": "main",
     "categories": [
-      "원료",
-      "패키지"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -17496,11 +17496,11 @@
   },
   {
     "title": "아모레퍼시픽, 메디컬 뷰티와 연구 혁신 가속...AI 기반 디지털 전환 통...",
-    "summary": "하이어코퍼레이션은 2021년 설립 이후 Dual-HA 기반 콜라겐부스터 힐로웨이브 등 에스테틱 의료기기 개발 역량과 글로벌 의료진 네트워크를 보유하고 있다. 아모레퍼시픽홀딩스는 축적된 피부 과학 연구 역량과 스킨케어...",
+    "summary": "양사는 스킨부스터, 코스메슈티컬, 미용 의료기기 개발을 추진한다. 시술 후 자극받은 피부를 관리하는 애프터케어 전용 제품 개발 및 병·의원 유통 협력까지 사업 범위를 넓힐 계획이다. 병·의원 중심의 메디컬...",
     "link": "http://www.dailypop.kr/news/articleView.html?idxno=100950",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 09:46:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료",
@@ -18075,11 +18075,11 @@
   },
   {
     "title": "[더벨]셀트리온스킨큐어, '필더젠' 출원…메디컬 에스테틱 포석",
-    "summary": "지정상품에 주입가능한 피부충전제와 의료용 콜라겐, 의료기기, 의약품 등을 포함했다. 기존 화장품 중심... 화장품과 건강기능식품뿐 아니라 △주입가능한 피부충전제 △의료용 콜라겐 △피부 이식물 △생체조직으로...",
+    "summary": "최근 화장품·에스테틱 업계에서는 기존 스킨케어 브랜드를 기반으로 필러와 스킨부스터, 의료기기 등 병·의원 시장으로 사업을 넓히는 사례가 이어지고 있다. 셀트리온스킨큐어 역시 기존 브랜드와 판매 기반을...",
     "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271553026400102130",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 07:02:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료",
@@ -18112,7 +18112,7 @@
     "link": "https://n.news.naver.com/mnews/article/421/0009082147?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 06:15:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "PDRN",
     "topic": "main",
     "categories": [
       "원료"
@@ -18175,7 +18175,7 @@
     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=539229",
     "source": "네이버 뉴스",
     "pub_date": "Tue, 28 Jul 2026 05:56:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "PDRN",
     "topic": "main",
     "categories": [
       "원료"
@@ -24726,6 +24726,891 @@
     "is_overseas": false
   },
   {
+    "title": "엘레강스파리 '아시아모델들이 선정한 브랜드상 패션잡화 부문 수상'(아...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300231",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 23:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "서이브 '아시아크리에이터상 수상'(아시아모델페스티벌 뷰티페스타) [포...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300230",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 23:08:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김별 '아시아랜덤댄스상 수상하는 춤추는 곰돌'(아시아모델페스티벌 뷰...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300229",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 23:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'새신부' 문채원, 신혼집 꾸미기 비하인드 공개…어머니의 '결혼 조언' ...",
+    "summary": "메이크업 아티스트가 화면에 너무 말라 보이지 않게 메이크업에 신경 썼다고 전하자, 문채원은 여행에서 돌아온 뒤 계속된 이사 여파로 피로가 누적돼 살이 빠진 것처럼 보이는 것 같다며 근황을 알렸다. 평소 자연스러운...",
+    "link": "https://m.entertain.naver.com/article/312/0000769914",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 23:01:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"벌에 쏘였어요\"…환자 이송 70% '7~9월' 집중",
+    "summary": "벌 쏘임을 예방하기 위해서는 야외 활동 시 밝은색의 긴소매 옷을 착용하고 향수, 화장품 사용이나 단 음료 취식을 자제해야 한다. 벌집을 발견하면 자세를 낮춰 천천히 이동하고 건드렸을 경우 신속히 머리를...",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=555387",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 21:14:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김혜준 \"이동욱, 예쁘단 말 안 해…화장을 잘한다고 하더라\" [RE:뷰]",
+    "summary": "제가 표현이 서툴러서 안 했을 뿐\"이라고 했고, 김혜준은 \"저번에도 저한테 예쁘다고 해주시면 되는데, 메이크업 실장님한테 '화장을 진짜 잘하시네요'라고 하더라\"라고 말해 웃음을 안겼다. 김혜준은 이동욱의 TMI에 관해...",
+    "link": "https://m.entertain.naver.com/article/213/0001396210",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 20:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘팽팽해진 얼굴’ 황정음, 2주 전 ‘현실 근황’ 사진 보니…",
+    "summary": "풍성하게 부풀린 웨이브 헤어에 선명한 핑크빛 립 메이크업을 더한 황정음은 손으로 턱을 받치거나 머리카락... 과감한 메이크업으로 한층 개성 강한 모습을 완성했다. 같은 날 공개된 사진 안에서도 전혀 다른 얼굴을...",
+    "link": "https://m.entertain.naver.com/article/410/0001134644",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 20:37:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽그룹, 2분기 연속 두 자릿수 영업이익률 달성",
+    "summary": "설화수와 헤라는 각각 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장 브랜드 입지를 강화했으며, 에스트라·일리윤 등 더마 브랜드도 고성장을 이어갔다. 온라인과 MBS 채널은 두 자릿수 성장률을 기록하며 국내 사업...",
+    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120211",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 20:26:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이세이 미야케·샤르드·폴앤조보떼, 퍼퓸부터 워터젤 틴트 출시",
+    "summary": "뷰티업계가 향수부터 기능성 스킨케어, 색조 제품까지 다양한 신제품을 선보이며 소비자 공략에 나섰다. 패션 브랜드 이세이 미야케는 극한의 자연에서 영감을 받은 신제품 향수 '르 셀 디세이 퍼퓸'을 선보인다. 사진...",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=755429",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:54:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'K-뷰티' 톰·스킨1004·디비치, 중국→유럽시장 공략",
+    "summary": "왓슨스 뷰티 어워드에서 인기 클렌징 부문을 수상했다. 비디비치는 클렌징 제품의 인지도를 기반으로 쿠션과 베이스 메이크업 제품을 차세대 성장 동력으로 육성해 중국 내 토탈 뷰티 브랜드 입지를 확대할 계획이다.",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=755428",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "장원영, 하퍼스 바자 화보로 빛낸 투명 비주얼",
+    "summary": "사진에서 장원영은 옅은 메이크업과 단정한 헤어스타일로 카메라를 응시하고 있으며, 잡지 타이틀과 함께 화이트 톤 배경 속 담백한 비주얼을 보여줬다. 그는 \"ver. @hapakristin @harpersbazaarkorea\"라는 문구를 남기며...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150286",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:30:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "“관광객 모드” 안유진, 텍사스서 뽐낸 내추럴 민소매 룩…청순의 정석",
+    "summary": "공개된 사진 속 안유진은 화이트 민소매 상의에 내추럴한 메이크업을 더해 청순한 여름 패션을 선보였다. 그는 텍사스 현지에서 피자를 맛보거나 매장을 둘러보며 쇼핑을 즐기는 등 여유로운 일상을 담아냈다. 한편...",
+    "link": "https://m.entertain.naver.com/article/396/0000751069",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:29:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "엄정화, '오케이 마담2' 크루즈 액션 앞두고 화보로 터뜨린 존재감",
+    "summary": "촉촉한 메이크업과 또렷한 눈매가 강조된 얼굴과 함께 상반신이 포착됐고, 엄정화는 \"@marieclairekorea\"라는 글과 함께 \"#ok마담2\", \"#화보\", \"#interview\" 등을 적어 영화와 함께한 화보 촬영 소식을 전했다. 사진 속 엄정화는...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150283",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "오유진, '여우야 뭐하니' 블랙 콘셉트로 활약 이어간다",
+    "summary": "또렷한 메이크업과 심플한 스타일링 속에서 새 활동 콘셉트를 강조했다. 30일 올라온 게시물에는 블랙... 또렷한 눈매와 은은한 글리터 메이크업이 돋보이는 가운데, 블랙 의상과 실버 컬러의 하트 목걸이가 전체적인...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150278",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:26:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "안유진, 미국 텍사스서 포착…민소매 입고 뽐낸 청순미",
+    "summary": "그는 자연스러운 메이크업에 얇은 민소매를 입고 청순한 여름 패션을 완성했다. 이날 안유진은 미국 텍사스에서 피자를 먹거나 가게에 들러 쇼핑을 즐기며 즐거운 시간을 보냈다. 한편 안유진은 최근 서울 서초구...",
+    "link": "https://m.entertain.naver.com/article/003/0014099531",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:21:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "“이건 포기 못 해” 엄정화, 눈썹도 내려놓고 사수한 메이크업 부위는...",
+    "summary": "배우 겸 가수 엄정화가 자신만의 여름철 메이크업 꿀팁과 센스 넘치는 사복 패션을 대방출하며 패셔니스타의... 공개된 영상에서 엄정화는 여름철에도 무너지지 않는 투명한 광채 메이크업 노하우부터 휴양지와 도심을...",
+    "link": "https://m.entertain.naver.com/article/144/0001129090",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 19:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'새신부' 문채원, 신혼여행·이사로 강제 다이어트 \"너무 피곤해\" [문채...",
+    "summary": "이에 메이크업 아티스트는 \"메이크업으로 3kg 찌워드렸다. 너무 말라서 오셨다\"라고 설명했다. 문채원은 \"어제 거의 한 달 만에 운동을 하러 갔는데 필라테스 강사님이 왜 이렇게 살이 빠졌냐고 했다. 살이 빠지지는 않았다....",
+    "link": "https://m.entertain.naver.com/article/108/0003457845",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:45:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "메이딘 마시로, 180도 달라진 이미지..금발+스모키 비주얼",
+    "summary": "마시로는 금발에 스모키 메이크업으로 색다른 이미지와 다채로운 매력을 전했다. 절제된 포즈에서 나오는 시크한 아우리가 매력을 더했다. 마시로는 ‘24/11’을 통해 솔직하고 진정성 있는 이야기를 전하며...",
+    "link": "https://m.entertain.naver.com/article/109/0005580791",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:31:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레·LG생건, 북미서 함께 날았다…아마존·세포라 효과 톡톡",
+    "summary": "아모레퍼시픽은 설화수와 헤라가 각각 럭셔리 스킨케어와 메이크업 시장에서 입지를 강화했고 에스트라와 일리윤 등 더마 브랜드도 성장세를 이어갔다. 온라인과 멀티브랜드숍(MBS) 매출은 두 자릿수 증가했다....",
+    "link": "https://www.etoday.co.kr/news/view/2609467",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:14:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "브라질·미국·중동 글로벌시장 확장 전쟁…K-뷰티, 진출 러시",
+    "summary": "색조 중심이었던 과거와 달리 피부 과학 기반의 더마코스메틱과 저자극·민감성 스킨케어 등 기능성 제품이 성장세를 이끌고 있다. 동시에 단순한 제품 수출을 넘어 국내에서 성장한 유통 모델을 해외에 적용하려는...",
+    "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/29/2026072980058.html",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:12:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"젤리 제형부터 안묻립까지\"…코스맥스, 여름 뷰티 '정조준'",
+    "summary": "코스맥스가 젤리 텍스처와 지속력을 강화한 립 메이크업 기술을 앞세워 글로벌 색조 화장품 시장 공략에 속도를 내고 있다. 스킨케어 기능성과 메이크업 표현력을 결합한 제형 개발을 확대하며 계절과 시장별 소비...",
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603766512819",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "의창소방서 벌 쏘임 사고 주의 당부",
+    "summary": "벌 쏘임을 예방하기 위해서는 ▲벌초·등산 전 벌집 확인 ▲밝은 계열의 긴 옷 착용하기 ▲향수·화장품 사용 자제 ▲벌집 발견 시 즉시 대피 후 119에 신고 등 안전수칙을 잘 지켜야 한다. 강종태 의창소방서장은 \"여름철...",
+    "link": "http://www.gndomin.com/news/articleView.html?idxno=484068",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:03:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김명주 '위너&신소애 여성의원상 등 2관왕 수상'(페이스오브코리아) [포...",
+    "summary": "한국메이크업전문가직업교류협회(회장 안미려) 후원으로 지난 25일 강원도 하이원리조트 컨벤션센터에서 열렸다. 위너, 신소애 여성의원상 김명주가 다양한 룩을 선보이고 있다. 심사위원단에는 이대영...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300224",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"신이 빚은 콧대\"…한가인, '애둘맘' 안 믿기는 호흡 곤란 유발 '청순미...",
+    "summary": "이날 한가인은 수수한 메이크업에도 물광 가득한 무결점 피부를 자랑해 놀라움을 안겼다. 그러면서도 그는 소멸 직전의 작은 얼굴 속 오똑한 콧대와 진한 눈매로 특유의 청초한 매력을 선보였다. 해당 사진을 본 팬들은...",
+    "link": "https://m.entertain.naver.com/article/312/0000769892",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "박태선 '위너, 올스타상 등 2관왕 수상'(페이스오브코리아) [포토]",
+    "summary": "한국메이크업전문가직업교류협회(회장 안미려) 후원으로 지난 25일 강원도 하이원리조트 컨벤션센터에서 열렸다. 위너, 올스타상 박태선이 다양한 룩을 선보이고 있다. 심사위원단에는 이대영...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300223",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "코스맥스, '젤리 코어'·안묻립 기술 앞세운다…여름 메이크업 시장 공...",
+    "summary": "|중앙이코노미뉴스 윤남웅 기자|코스맥스 립 메이크업 지속력 강화 기술 설명 자료. [사진=코스맥스]  글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 젤리 제형 제품군을 확대하고 지속력을 높인 독자 립 메이크업...",
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=536658",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 18:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'페이스오브코리아 시니어' 위너 변오덕 '오른쪽을 사수하라' [포토]",
+    "summary": "한국메이크업전문가직업교류협회(회장 안미려) 후원으로 지난 25일 강원도 하이원리조트 컨벤션센터에서 열렸다. 위너 변오덕이 다양한 룩을 선보이고 있다. 심사위원단에는 이대영...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300222",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:58:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘56세’ 엄정화, 영화 개봉 앞두고 운동 열정..바나나 하나 먹어 충격",
+    "summary": "특히 연한 메이크업임에도 맑은 피부와 선명한 이목구비는 시선을 사로잡았다. 또 다른 사진에는 그가 필라테스를 하는 모습이 담겼다. 기구에 몸을 맡긴 채 두 다리를 벌려 포즈를 취하는 모습은 감탄을 자아냈다. 그는...",
+    "link": "https://m.entertain.naver.com/article/112/0003802994",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:50:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 글로벌 날개…2분기 영업익 53% ↑",
+    "summary": "메이크업 시장 1위인 헤라는 '센슈얼 누드 글로스'와 '메쉬 파우더 쿠션'의 흥행을 기반으로 주요 채널에서... 동시에 스킨케어부터 메이크업, 더마, 헤어케어에 이르는 다채로운 라인업을 하나로 묶어 시장 요구에...",
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661609",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:48:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "립 메이크업 시장에 '젤리 코어'·안묻는 립 트렌드 확산",
+    "summary": "코로나19 이후 마스크 착용 문화가 확산되면서 립 메이크업 시장에서는 묻어남을 최소화하고 지속력을... 립 메이크업 분야에서는 지속력 강화 기술 확보에 집중하고 있다. 코스맥스는 맑은 광택감을 유지하면서도...",
+    "link": "https://www.thebk.co.kr/news/articleView.html?idxno=310829",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[오늘의 뷰티] 코스맥스·뉴셀렉트·앳홈·룰루랩",
+    "summary": "/사진=코스맥스 #코스맥스, 젤리 제형·안묻립 기술 앞세워 여름 메이크업 시장 공략 글로벌 화장품 ODM 기업 코스맥스가 젤리 제형 제품군을 확대하고, 지속력을 강화한 '안묻립' 기술을 앞세워 여름 메이크업 시장...",
+    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43898",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:40:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽-LG생활건강-한국콜마의 AI 시대 대응법",
+    "summary": "CES 2026에서는 상처 치료와 메이크업 커버를 하나의 기기로 구현한 AI 기반 '스카 뷰티 디바이스'로 뷰티테크 부문 최고혁신상을 받기도 했다. 화장품 기업으로는 최초의 수상이다. 디지털헬스 부문에서도 혁신상을...",
+    "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=496936",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:40:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "main",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "교촌치킨, 정식품, 삼천리자전거, 코스맥스, 설빙, 하리보 [똑똑한신상...",
+    "summary": "◇ 코스맥스, 젤리 제형·안묻립 기술 앞세워 여름 메이크업 시장 공략 강화 코스맥스가 젤리 제형 제품군을 확대하고, 지속력을 강화한 '안묻립' 기술을 앞세워 여름 메이크업 시장 공략에 나섰다. 코스맥스는 최근 패션...",
+    "link": "https://www.ekn.kr/web/view.php?key=20260730021278043",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:40:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "신정임 '다채로운 우아함'(페이스오브코리아) [포토]",
+    "summary": "한국메이크업전문가직업교류협회(회장 안미려) 후원으로 지난 25일 강원도 하이원리조트 컨벤션센터에서 열렸다. 위너, 하이원리조트상 등 2관왕에 오른 신정임이 다양한 룩을 선보이고 있다....",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607300219",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:38:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'55세' 이영애, 얼굴선 타고 내린 더듬이 헤어…'시크미의 정석' [MD★스...",
+    "summary": "은은한 메이크업과 담백한 스타일링이 어우러져 우아함과 시크함을 동시에 드러냈다. 한편, 이영애는 차기작인 드라마 '재이의 영인'으로 시청자들과 만날 예정이다. 영화 '봄날은 간다' 이후 배우 유지태와 25년 만에 다시...",
+    "link": "https://m.entertain.naver.com/article/117/0004090171",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:37:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "“같이 쓰면 큰일”… 온 가족 고생길 접어드는 ‘의외의 물건’ 5가지",
+    "summary": "중이던 립스틱 96개와 립글로스 107개를 포함한 화장품 467개를 수거해 배양한 결과, 79~90%에서... 립스틱, 립밤 등 입술 피부에 직접적으로 닿는 제품은 가족 수만큼 여분을 마련해두는 편이 낫다. 손톱깎이...",
+    "link": "https://n.news.naver.com/mnews/article/346/0000113632?sid=004",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:37:00 +0900",
+    "matched_keyword": "립스틱",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제복 입던 영웅들, 런웨이에 서다…원주보훈요양원 미니 패션쇼",
+    "summary": "헤어·메이크업부터 런웨이까지…21명 어르신 '인생 프로필' 촬영 한국보훈복지의료공단 원주보훈요양원은... 지역사회와 민간기관의 재능기부와 후원을 연계해 헤어·메이크업, 네일아트, 의상 체험, 소개 사진 촬영 등...",
+    "link": "https://n.news.naver.com/mnews/article/001/0016225494?sid=100",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:35:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "하루틴, 이너뷰티 신제품 '리포좀 콜라겐' 출시…'하루건강 프로젝트' ...",
+    "summary": "리포좀 콜라겐'과 바쁜 현대인의 일상 건강 관리를 겨냥한 '하루건강 프로젝트' 5종을 포함한 총 6종의... 이너뷰티 신제품 '하루틴 리포좀 콜라겐'은 우리그룹 계열사 우리그린사이언스의 리포좀 제형 기술을 적용해...",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=746717",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:32:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽그룹, 2Q 매출 1.2조...전년동기比 14.6%↑",
+    "summary": "설화수는 '윤조에센스'를 중심으로 전 채널에서 성장을 이어갔고 헤라는 메이크업 시장 리더십을 공고히 했다. 더마 카테고리에서는 에스트라와 일리윤이 고성장세를 굳혔고 미쟝센과 라보에이치 등 헤어케어...",
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200433",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:30:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "메이딘 마시로, 금발·스모키 메이크업 파격 변신…'24/11' 발매 기대감",
+    "summary": "새롭게 공개된 이미지에서 마시로는 기존과는 다른 금발 헤어와 스모키 메이크업으로 강렬한 분위기를 자아냈다. 여기에 담담한 표정과 절제된 포즈를 더해 시크한 매력을 극대화하며 색다른 콘셉트를...",
+    "link": "https://m.entertain.naver.com/article/311/0002039729",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김덕주 신세계인터내셔날 '제2의 어뮤즈' 찾는다 : 자체 K뷰티 브랜드를...",
+    "summary": "최근에는 더마 스킨케어 브랜드 '듀어썸'의 브랜드 자산을 인수하며 색조 중심 브랜드에서 스킨케어까지 아우르는 종합 뷰티 브랜드로 포트폴리오를 확장하고 있다. 김 대표는 창립 30주년 기념식에서 ‘조직 패러다임...",
+    "link": "https://www.huffingtonpost.kr/article/259146",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:26:00 +0900",
+    "matched_keyword": "더마 스킨케어",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽그룹, 2분기 영업이익 53.3% 증가…매출 1조2543억원",
+    "summary": "온라인과 MBS 채널이 두 자릿수 성장률을 기록했고, 설화수와 헤라는 럭셔리 스킨케어와 메이크업 시장에서 점유율을 확대했다. 에스트라와 일리윤도 더마 브랜드 중심의 성장세를 이어갔다. 해외 사업은 미주와...",
+    "link": "http://www.lawissue.co.kr/view.php?ud=202607301722331987204ead0791_12",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:24:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "코스맥스, 젤리 제형·안묻립 기술 앞세워 여름 메이크업 시장 공략",
+    "summary": "여름 메이크업 시장 공략에 나섰다. 코스맥스는 최근 패션·뷰티 업계에서 주목받는 '젤리 코어' 트렌드에... 스킨케어링 메이크업(스킨케어와 메이크업의 결합) 트렌드와도 맞닿아 있다는 설명이다. 코스맥스는 현재...",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356730",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:24:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "해외 꽉 잡은 K뷰티…아모레·LG생건 2분기 함박웃음(종합)",
+    "summary": "아모레퍼시픽은 에스트라·코스알엑스 등 더마코스메틱 브랜드가, LG생활건강은 헤어케어 닥터그루트와 유시몰 등 주요 브랜드가 성장하며 실적을 견인했다. 에스트라·코스알엑스가 견인한 미주·유럽 매출…해외...",
+    "link": "https://n.news.naver.com/mnews/article/421/0009089208?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:23:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "미스코리아 후보들, 국가유공자에 사랑의 쌀 기부… 원주보훈요양원서...",
+    "summary": "아뜰리에뷰티아카데미 원주캠퍼스는 지난 4년간 원주보훈요양원에서 '청춘사진' 봉사활동을 이어오며 헤어, 메이크업, 네일아트 등 뷰티 재능기부를 지속해왔다. 원주보훈요양원은 국가유공자와 유가족을 위한 보훈...",
+    "link": "https://m.entertain.naver.com/article/469/0000945383",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:21:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[단독] ‘알짜 사업’ 기대와 우려…롯데·현대면세점 인천공항 입성 1...",
+    "summary": "DF1(향수·화장품·주류·담배) 구역에서 올해 4~6월 매출 967억 원을 냈다. 같은 기간 현대면세점이 T1·T2 출국장의 DF2(향수·화장품·주류·담배) 구역에서 올린 매출은 848억 원이었다. 롯데면세점과 현대면세점은 각각...",
+    "link": "https://ilyo.co.kr/?ac=article_view&entry_id=512083",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:18:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"K뷰티 브랜드 판로 확대\"…현대홈쇼핑 '코아시스', 제주 우도서 첫 휴양...",
+    "summary": "현대홈쇼핑은 팝업 매장을 방문하는 모든 고객에게 '세인트프랑 로얄 레드 콜라겐 겔 마스크'(1매)를 증정하며, 3만원 이상 구매 고객에게는 우도 레터링이 들어간 리유저블백을 제공한다. 현대홈쇼핑은 이번...",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268521",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:14:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "비긴스 바이 정샘물, TWS와 팬밋업 'Call Meet Up' 성료",
+    "summary": "방문객들은 TWS의 흔적 찾기와 브랜드 퀴즈, 미니 볼링 게임 'Blemish Strike', 제품 체험존 등 4가지 미션에 참여했으며, 미션 완료 후에는 100% 당첨 럭키드로우를 통해 프라이빗 메이크업 컨설팅 이용권 등 다양한...",
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=145237",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 2Q 영업익 53% 증가…\"성장성·수익성 동시 개선\"",
+    "summary": "설화수와 헤라는 시장 점유율 확대로 각각 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장 1위 브랜드 입지를 공고히 했고, 에스트라와 일리윤 등 더마 브랜드는 고성장을 이어갔다. 라네즈·마몽드·미쟝센...",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=114874",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'개구장애' 신지, 한 달 치과 치료 앞뒀는데…♥문원도 반할 밝은 미소...",
+    "summary": "특히 민낯에 가까운 연한 메이크업에도 뚜렷한 신지의 이목구비가 눈길을 끌었다. 앞서 신지는 지난 29일 자신의 계정을 통해 한 달간 치과 치료를 받아야 한다는 안타까운 소식을 전한 바 있다. 그러나 하루 뒤인 이날 밝게...",
+    "link": "https://m.entertain.naver.com/article/311/0002039717",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:05:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김연아, 명품 D사가 묻히는 미모…얼마나 예뻤으면 ♥고우림도 '좋아요...",
+    "summary": "사진 속 김연아는 명품 브랜드 D사의 쿠션으로 메이크업을 수정하거나, 제품을 손에 든 채 거울을 바라보며... 맑고 투명한 피부와 또렷한 이목구비, 날렵한 턱선은 감탄을 자아냈고, 은은한 메이크업은 김연아 특유의...",
+    "link": "https://m.entertain.naver.com/article/311/0002039714",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김연아 CF 찍을 때 아사다 마오는 뭐 하나 봤더니…피겨화 신고 광고 촬...",
+    "summary": "투명한 피부 표현과 은은한 립 메이크업, 차분한 눈빛이 어우러지며 군더더기 없이 정제된 분위기를 완성했다. 빙판 위에서 날카로운 집중력과 강한 승부사 기질을 보여줬던 선수 시절과는 사뭇 다른 모습이다. 은퇴 후...",
+    "link": "https://m.entertain.naver.com/article/410/0001134632",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 17:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "마케팅"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "비긴스 바이 정샘물, TWS와 팬밋업 성료… 2030 고객과 소통 강화",
+    "summary": "참가자들은 미션을 완료한 뒤 100% 당첨되는 럭키드로우를 통해 프라이빗 메이크업 컨설팅 이용권 등 풍성한 경품을 받았다. 팬밋업에서는 TWS 멤버들이 직접 팬들과 만나 브랜드 제품과 립 오일, 쿠키, 꽃을...",
+    "link": "https://n.news.naver.com/mnews/article/018/0006340241?sid=103",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:58:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "TWS, '뷰티 프린스' 자태...비긴스 바이 정샘물 '팬밋업' 성료",
+    "summary": "방문객들은 TWS의 흔적 찾기, 브랜드 퀴즈, 미니 볼링 게임 'Blemish Strike', 제품 체험 존 등 4가지 미션을 수행하고 100% 당첨 럭키 드로우를 통해 프라이빗 메이크업 컨설팅 이용권 등 다양한 혜택을 받았다. 이어진...",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=755415",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:56:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "어반퓨어, 여름철 피부 부담 줄이는 이중 세안 루틴 제안",
+    "summary": "이중 세안은 성격이 다른 두 세정제를 순서대로 쓰는 방법으로, 자외선차단제나 메이크업 같은 유성... 얼굴 위에서 부드럽게 펴지는 밀크 제형으로 메이크업과 자외선차단제, 피지와 노폐물을 닦아내는 동시에, 세안...",
+    "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52956",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:54:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'톰 홀랜드♥' 젠데이아 콜먼, 젠지 패셔니스타의 '콘 브라' 드레스",
+    "summary": "이날 젠데이아는 검은 드레스에 여러 갈래로 나눈 앞머리를 이마에 붙이고, 짙은 스모키 메이크업으로 강렬한 스타일을 완성했다. 할리우드를 대표하는 젠지 패셔니스타인 만큼 독특하면서도 파격적인 선택이 특별함을...",
+    "link": "https://m.entertain.naver.com/article/421/0009089050",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:48:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 국내·해외 동반 질주…매출·수익성 견인",
+    "summary": "설화수와 헤라는 각각 럭셔리 스킨케어와 럭셔리 메이크업 시장에서 경쟁력을 강화했고, 에스트라와 일리윤은 더마 브랜드 성장세를 이어갔다. 라네즈와 마몽드, 미쟝센, 라보에이치, 오설록 등 주요 브랜드도 대표...",
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599084251700",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:48:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽 그룹, 2Q 견조한 성장세… 영업익 53.3%↑",
+    "summary": "설화수와 헤라는 시장 점유율을 더욱 확대하며 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장 1위 브랜드 입지를 공고히 했고, 에스트라와 일리윤도 고성장을 이어가며 더마 카테고리 리더십을 확대했다. 라네즈...",
+    "link": "http://www.bokuennews.com/news/article.html?no=282074",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "창원의창소방서, 여름철 벌 쏘임 사고 주의 당부",
+    "summary": "의창소방서는 야외활동 시 밝은색 긴옷을 착용하고, 향수나 화장품 사용을 자제할 것을 권고했습니다. 또 벌집을 발견하면 즉시 현장을 벗어난 뒤 119에 신고해 줄 것을 당부했습니다. 소방청에 따르면 최근 3년간 벌...",
+    "link": "http://news.lghellovision.net/news/articleView.html?idxno=549836",
+    "source": "네이버 뉴스",
+    "pub_date": "Thu, 30 Jul 2026 16:44:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
     "title": "선미, 올여름도 '서머퀸' 매력발산…'포에버 줄라이' 무대·음원 동시 장...",
     "summary": "금발의 긴 웨이브 헤어, 화려한 메이크업과 어우러진 의상은 섹시하면서도 세련된 분위기를 완성했다. 2018년 '가시나', '주인공' 무대로 워터밤 역대급 무대를 남겼던 선미는 이번에도 자신만의 존재감을 각인시키며 '원조...",
     "link": "https://m.entertain.naver.com/article/477/0000621010",
@@ -25026,7 +25911,7 @@
     "is_overseas": false
   },
   {
-    "title": "바나나우유부터 연꽃 화장품까지…국제행사, 한국 브랜드 쇼케이스로",
+    "title": "사찰 음식부터 연꽃 화장품까지…국제행사, 한국 브랜드 쇼케이스로",
     "summary": "창덕궁 부용정의 건축과 색채를 패키지에 반영하고 연꽃 유래 성분과 펩타이드, 엑소좀 등 바이오 성분을 활용했다. 오일 성분을 캡슐 형태로 구현한 제형도 적용했다. 제품의 향과 제형 개발에는 국내 대형 화장품...",
     "link": "https://n.news.naver.com/mnews/article/015/0005315696?sid=101",
     "source": "네이버 뉴스",
@@ -25628,11 +26513,11 @@
   },
   {
     "title": "“립스틱 색이 단서가 된다”…아모레성수 '뷰티서바이벌 살인사건' 체...",
-    "summary": "파운데이션을 호수별로 손등에 펴 발라보는 순간에도 추리는 계속된다. 단서를 찾겠다는 생각으로 손을 움직이다 보면 어느새 립 제품 질감 차이를 느껴보고, 클렌징 제품 제형별 차이에 집중하는 자신을 발견하게 된다....",
+    "summary": "립스틱 10가지 색을 하나씩 발색해보며 색조 사이에 숨은 단서를 찾고, 나란히 놓인 메이크업 브러시를 하나씩 만져보며 차이를 비교한다. 파운데이션을 호수별로 손등에 펴 발라보는 순간에도 추리는 계속된다. 단서를...",
     "link": "https://n.news.naver.com/mnews/article/030/0003452723?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 15:08:00 +0900",
-    "matched_keyword": "파운데이션",
+    "matched_keyword": "립스틱",
     "topic": "sub",
     "categories": [
       "미분류"
@@ -25898,14 +26783,15 @@
   },
   {
     "title": "비디비치, 중국 오프라인 공략 본격화…왓슨스 2330개 매장 입점·베이스...",
-    "summary": "베이스 메이크업 카테고리 육성에 나선다는 전략이다. 신세계인터내셔날은 비디비치가 최근 중국 최대... 비디비치는 클렌징 제품의 성공을 바탕으로 베이스 메이크업 시장 공략도 강화한다. 최근 중국에서...",
+    "summary": "초기 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보일 예정이다. 이와 함께 프리미엄 뷰티 편집숍 하메이(HARMAY), 팡둥라이(Pang Donglai), 허마(Hema), 레인보우(Rainbow) 등 주요...",
     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591287857416",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 14:38:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료",
+      "디바이스·기술"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -26078,14 +26964,14 @@
   },
   {
     "title": "아모레퍼시픽그룹, 2분기 영업익 53% 급증…미주·유럽·일본 K뷰티 성장...",
-    "summary": "설화수와 헤라는 각각 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장에서 점유율을 확대했고, 에스트라와 일리윤은 더마 제품 판매 호조를 바탕으로 성장세를 이어갔다. 라네즈와 마몽드, 미쟝센, 라보에이치, 오설록...",
+    "summary": "미쟝센은 '살롱10 펩타이드 리페어' 라인을 출시했고, 라보에이치는 두피 강화 클리닉과 헤어라인 앰플, 두피 선케어 제품을 중심으로 성장했다. 해외 사업에서는 미주와 유럽·중동·아프리카(EMEA) 지역이 전체 성장을...",
     "link": "https://www.joongangenews.com/news/articleView.html?idxno=536691",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 14:26:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -26168,14 +27054,14 @@
   },
   {
     "title": "비디비치, 왓슨스·하메이 등 중국 오프라인 유통 확대",
-    "summary": "베이스 메이크업 제품까지 앞세워 중국 시장 내 영향력을 확대한다는 전략이다. 하반기부터는 중국 대표... 비디비치는 클렌징 성공을 기반으로 베이스 메이크업 시장 공략에도 속도를 낸다. '블랙 퍼펙션 커버핏 쿠션...",
+    "summary": "초기 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보인다. 프리미엄 뷰티 편집숍 하메이를 비롯해 팡둥라이, 허마, 레인보우 등 주요 뷰티 편집숍 및 컬렉션 스토어에도 입점한다....",
     "link": "https://n.news.naver.com/mnews/article/030/0003452683?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 14:19:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -26349,12 +27235,12 @@
   },
   {
     "title": "룰루랩, 뉴욕 K뷰티 행사 잇단 초청…AI 피부 분석으로 북미 공략",
-    "summary": "룰루랩은 AI 피부 분석 키오스크 '루미니(Lumini)'를 활용해 메이크업을 지우지 않은 상태에서도 약 7초 만에 피부 상태를 분석하고, 결과에 맞는 루디언트 제품을 추천하는 서비스를 제공했다. 이의소 루디언트...",
+    "summary": "뉴욕 브루클린에서 열린 하우스 오브 케이에서는 AI 피부 분석 프로그램을 기반으로 한 체험형 뷰티테크 콘텐츠를 운영했다. 행사 기간 준비한 루디언트 제품 약 4000개를 판매하면서 현지 소비자 관심을 확인했다....",
     "link": "https://n.news.naver.com/mnews/article/030/0003452639?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 13:39:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "뷰티테크",
+    "topic": "main",
     "categories": [
       "디바이스·기술"
     ],
@@ -27027,14 +27913,14 @@
   },
   {
     "title": "신세계인터 비디비치, 중국 왓슨스·하메이 입점…오프라인 공략",
-    "summary": "비디비치는 중국에서 클렌징 제품의 성공을 바탕으로 베이스 메이크업 시장 공략에도 속도를 내기로 했다.... 확대와 함께 베이스 메이크업까지 주력 카테고리로 육성해 중국 시장 입지를 더욱 강화해 나가겠다\"고 말했다.",
+    "summary": "하반기부터는 중국 대표 라이프스타일 뷰티·잡화 편집숍인 KKV에 입점해 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보일 예정이다. 또 하메이(HARMAY), 팡둥라이, 허마, 레인보우 등 주요 뷰티...",
     "link": "https://n.news.naver.com/mnews/article/001/0016223753?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 11:09:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -27177,14 +28063,14 @@
   },
   {
     "title": "비디비치, 中오프라인 영토 확장 속도… 왓슨스 2330곳 입점",
-    "summary": "여기에 베이스 메이크업 제품까지 앞세워 중국 시장 내 영향력을 확대한다는 전략이다. 하반기부터는 중국... 비디비치는 베이스 메이크업 시장 공략에도 속도를 낸다. 리브랜딩 이후 새로운 대표 제품으로 육성 중인...",
+    "summary": "초기 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보일 예정이다. 또한 프리미엄 뷰티 편집숍 하메이를 비롯해 팡둥라이, 허마, 레인보우 등 주요 뷰티 편집숍과 컬렉션 스토어에...",
     "link": "http://www.bokuennews.com/news/article.html?no=282037",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:56:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -27417,14 +28303,15 @@
   },
   {
     "title": "[오늘의 유통가] 롯데백화점 본점, 명동 최대 규모 미디어 파사드 설치...",
-    "summary": "◆코스맥스, 젤리 제형·안묻립 기술 앞세워 여름 메이크업 시장 공략 코스맥스가 젤리 제형 제품군을 확대하고 지속력을 강화한 ‘안묻립’ 기술을 앞세워 여름 메이크업 시장 공략에 나섰다. 코스맥스는 최근 패션...",
+    "summary": "초기50개 매장에서 쿠션2종 및 페탈 글로우 크림 블러시,펩타이드 버터 틴트밤 등을 선보일 예정이다.또 프리미엄 뷰티 편집숍 하메이(HARMAY)를 비롯해 팡둥라이(Pang Donglai),허마(Hema),레인보우(Rainbow)등 주요 뷰티...",
     "link": "https://dealsite.co.kr/articles/166237",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:32:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료",
+      "디바이스·기술"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -27555,12 +28442,12 @@
   },
   {
     "title": "K-브랜드지수, 화장품 부문 1위 ‘헤라’…빅데이터 1024만건 분석 결과...",
-    "summary": "[자료=아시아브랜드연구소] 이 가운데 쿠션 파운데이션으로 미국 아마존 뷰티 랭킹을 휩쓸며 K-뷰티의 새 역사를 쓴 티르티르와 확고한 비건 뷰티 철학으로 무장한 어뮤즈가 전 세계 MZ세대의 폭발적 지지를 받으며 차트...",
+    "summary": "수성하며 더마코스메틱 대표 주자로서 입지를 더욱 공고히 했다”라고 설명했다. 이어 “이번 조사에서는 기능성 중심 소비 확산이 톱10 재편으로 이어진 것으로 분석된다. 에뛰드와 티르티르가 새롭게 이름을 올린...",
     "link": "https://swtvnews.com/news/newsview.php?ncode=1065571171420730",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:24:00 +0900",
-    "matched_keyword": "파운데이션",
-    "topic": "sub",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
     "categories": [
       "미분류"
     ],
@@ -27600,14 +28487,14 @@
   },
   {
     "title": "신세계인터내셔날 비디비치, 중국 영토 넓힌다…편집숍 입점 속도",
-    "summary": "비디비치는 클렌징 성공을 기반으로 베이스 메이크업 시장도 공략한다. '블랙 퍼펙션 커버핏 쿠션'과 '누드... 확대와 함께 베이스 메이크업까지 주력 분야로 키워 중국 시장 입지를 강화하겠다\"고 말했다.",
+    "summary": "초기 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보인다. 프리미엄 뷰티 편집숍 하메이를 비롯해 팡둥라이, 허마, 레인보우 등에도 입점하며 고객 접점을 확대하고 있다. 홍콩에선...",
     "link": "https://n.news.naver.com/mnews/article/008/0005393222?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:20:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -27615,14 +28502,15 @@
   },
   {
     "title": "비디비치, 중국 오프라인 유통망 확대…왓슨스 2330개 매장 입점",
-    "summary": "베이스 메이크업 시장 공략에 속도를 낸다는 전략이다. 신세계인터내셔날은 비디비치가 최근 중국 최대... 회사는 클렌징 제품의 인지도를 바탕으로 베이스 메이크업 시장 공략에도 나선다. 최근 중국에서...",
+    "summary": "초기 50개 매장에서 쿠션 2종과 ‘페탈 글로우 크림 블러시’, ‘펩타이드 버터 틴트밤’ 등을 선보일 예정이다. 비디비치는 프리미엄 뷰티 편집숍 하메이(HARMAY)를 비롯해 팡둥라이(Pang Donglai), 허마(Hema)...",
     "link": "https://www.kukinews.com/article/view/kuk202607300041",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:20:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료",
+      "디바이스·기술"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -27690,11 +28578,11 @@
   },
   {
     "title": "AI 피부 분석 앞세운 룰루랩, 뉴욕서 K-뷰티테크 존재감 키웠다",
-    "summary": "자체 AI 알고리즘 ‘luluTI™’를 기반으로 메이크업을 지우지 않은 상태에서도 약 7초 만에 모공과 홍조, 탄력 등 피부 상태를 분석하고 결과에 맞는 루디언트 제품을...",
+    "summary": "피부 상태를 분석해 개인별 제품을 추천하는 뷰티테크가 새로운 경쟁력으로 떠오르면서 국내 기업들의 북미 시장 공략도 활발해지는 모습이다. AI 피부 분석 플랫폼 기업...",
     "link": "https://www.venturesquare.net/1102134/",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:15:00 +0900",
-    "matched_keyword": "메이크업",
+    "matched_keyword": "뷰티테크",
     "topic": "main",
     "categories": [
       "디바이스·기술"
@@ -27870,14 +28758,15 @@
   },
   {
     "title": "신세계인터내셔날 ‘비디비치’ 중국 오프라인 공략 강화",
-    "summary": "비디비치는 클렌징 제품을 중심으로 확보한 브랜드 인지도를 바탕으로 쿠션 등 베이스 메이크업 제품 판매도 확대할 계획이다. 회사는 ‘블랙 퍼펙션 커버핏 쿠션’과 ‘누드 퍼펙션 스킨핏 쿠션’을 중국...",
+    "summary": "초기 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 판매할 예정이다. 하메이(HARMAY), 팡둥라이(Pang Donglai), 허마(Hema), 레인보우(Rainbow) 등 중국 주요 뷰티 편집숍과 컬렉션...",
     "link": "https://n.news.naver.com/mnews/article/366/0001183048?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:04:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료",
+      "디바이스·기술"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -28037,14 +28926,14 @@
   },
   {
     "title": "[유통24시] 에버랜드, 서울역~용인 직행버스 노선 신설 外",
-    "summary": "앞으로는 클렌징 제품에 이어 쿠션 등 베이스 메이크업 제품도 함께 육성해 나갈 계획이다. ◆코스맥스, 젤리 제형·안묻립 기술로 여름 메이크업 공략 글로벌 화장품 ODM 기업 코스맥스가 젤리 제형 제품군을...",
+    "summary": "이번 팝업에서는 중소 뷰티 브랜드 22개사의 여름 시즌 특화 상품 45종을 진정·수분 및 선케어 중심으로 선보이며, '센텔리안 마데카 크림'(1만8900원), '마마슈 선인장 선스틱'(1만2900원), '쟈스더마 PDRN 슈퍼 리프팅 앰플...",
     "link": "https://news.dealsitetv.com/articles/174000",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 10:00:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "PDRN",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -28157,14 +29046,14 @@
   },
   {
     "title": "비디비치, 中 오프라인 공략 속도…왓슨스 2330개 매장 입점",
-    "summary": "비디비치는 클렌징 제품의 성공을 바탕으로 베이스 메이크업 카테고리도 확대한다. 최근 중국에서 스킨케어 기능을 결합한 베이스 메이크업 제품 수요가 증가하는 점을 고려해 '블랙 퍼펙션 커버핏 쿠션'과...",
+    "summary": "초기 50개 매장에서 '블랙 퍼펙션 커버핏 쿠션', '누드 퍼펙션 스킨핏 쿠션'을 비롯해 '페탈 글로우 크림 블러시', '펩타이드 버터 틴트밤' 등을 선보일 예정이다. 이와 함께 프리미엄 뷰티 편집숍 하메이(HARMAY)...",
     "link": "https://n.news.naver.com/mnews/article/003/0014097467?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 09:57:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -28232,14 +29121,14 @@
   },
   {
     "title": "비디비치, 中 왓슨스·하메이 입점…오프라인 확장 본격화",
-    "summary": "비디비치는 클렌징 성공을 기반으로 베이스 메이크업 시장 공략에도 속도를 낸다. '블랙 퍼펙션 커버핏... 베이스 메이크업까지 주력 카테고리로 육성해 중국 시장 입지를 더욱 강화해 나가겠다\"고 말했다. 증권가에...",
+    "summary": "초기 50개 매장에서 쿠션 2종 및 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보일 예정이다. 또한 프리미엄 뷰티 편집숍 하메이를 비롯해 팡둥라이, 허마, 레인보우 등 주요 뷰티 편집숍 및 컬렉션 스토어에...",
     "link": "https://n.news.naver.com/mnews/article/421/0009087446?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 09:51:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -28307,14 +29196,15 @@
   },
   {
     "title": "비디비치, 中 왓슨스 매장 2330곳 입점…쿠션 등 색조 확대",
-    "summary": "여기에 베이스 메이크업 제품까지 앞세워 중국 시장 내 영향력을 확대한다는 전략이다. 비디비치는 최근... 비디비치는 클렌징 성공을 기반으로 베이스 메이크업 시장 공략에도 속도를 낸다. 리브랜딩 이후...",
+    "summary": "초기 50개 매장에서 쿠션 2종 및 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 선보일 예정이다. 또한 프리미엄 뷰티 편집숍 하메이(HARMAY)를 비롯해 팡둥라이(Pang Donglai), 허마(Hema), 레인보우(Rainbow) 등 주요...",
     "link": "http://www.apparelnews.co.kr/news/news_view/?idx=226617",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 09:42:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료",
+      "디바이스·기술"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -28397,11 +29287,11 @@
   },
   {
     "title": "‘헤라 vs 닥터자르트’ 선두 경쟁... K-브랜드지수 화장품 브랜드 부문...",
-    "summary": "글로벌 앰버서더를 내세워 프리미엄 메이크업 라인의 해외 진출을 가속화하고 있는 헤라와, 에스티로더 그룹의 탄탄한 인프라를 바탕으로 글로벌 더마코스메틱 시장을 선도 중인 닥터자르트가 압도적인 화제성을...",
+    "summary": "감각적인 브랜딩을 앞세운 헤라가 설화수를 제치고 1위를 탈환하며 프리미엄 뷰티 시장에서 존재감을 입증했고, 에스티로더 그룹의 닥터자르트도 2위를 수성하며 더마코스메틱 대표 주자로서 입지를 더욱 공고히...",
     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570993402330",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 09:38:00 +0900",
-    "matched_keyword": "메이크업",
+    "matched_keyword": "더마코스메틱",
     "topic": "main",
     "categories": [
       "미분류"
@@ -28547,14 +29437,14 @@
   },
   {
     "title": "비디비치, 中 왓슨스 매장 2330곳 뚫었다 … \"클렌징 넘어 색조로 확대\"",
-    "summary": "베이스 메이크업으로 상품군을 넓힌다. 30일 신세계인터내셔날에 따르면 비디비치는 중국 왓슨스 전체... 비디비치는 클렌징 중심이던 중국 사업을 베이스 메이크업으로 확대한다. 리브랜딩 이후 출시한 블랙 퍼펙션...",
+    "summary": "우선 50개 매장에서 쿠션 2종과 페탈 글로우 크림 블러시, 펩타이드 버터 틴트밤 등을 판매한다. 프리미엄 뷰티 편집숍 하메이를 비롯해 팡둥라이와 허마, 레인보우 등 현지 주요 유통 채널에도 잇달아 입점했다....",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000049.html",
     "source": "네이버 뉴스",
     "pub_date": "Thu, 30 Jul 2026 09:32:00 +0900",
-    "matched_keyword": "메이크업",
-    "topic": "sub",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
     "categories": [
-      "미분류"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -38837,11 +39727,11 @@
   },
   {
     "title": "에이피알, 산업부 반도체 국책과제 맡았다…뷰티 디바이스 핵심기술 내...",
-    "summary": "이를 통해 외부 부품 의존도를 낮추고, 반도체와 인공지능(AI), 하드웨어를 결합한 K-뷰티테크 기술 플랫폼을 구축한다는 전략이다. 개발 성과는 향후 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기용...",
+    "summary": "개발 성과는 향후 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기용 핵심 모듈 플랫폼으로도 확대 적용될 것으로 기대된다. 에이피알은 2021년 뷰티 디바이스 사업에 진출한 이후 기술 경쟁력 강화를...",
     "link": "https://n.news.naver.com/mnews/article/277/0005794684?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 18:35:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -39247,11 +40137,11 @@
   },
   {
     "title": "에이피알, 뷰티 디바이스 R&D 역량 고도화",
-    "summary": "이를 통해 외부 부품 의존도를 낮추고, 반도체·AI·하드웨어가 결합된 K뷰티테크 기술 플랫폼을 확보해 나갈 방침이다. 향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈...",
+    "summary": "향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장될 수 있을 것으로 기대된다. 에이피알은 지난 2021년 뷰티 디바이스 사업을 개시한 이래 기술 경쟁력을...",
     "link": "https://n.news.naver.com/mnews/article/022/0004145941?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 15:45:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -39405,11 +40295,11 @@
   },
   {
     "title": "에이피알, 뷰티디바이스 R&D 역량 고도화…\"반도체·핵심 원천기술 확장...",
-    "summary": "이를 통해 외부 부품 의존도를 낮추고, 반도체·AI·하드웨어가 결합된 K-뷰티테크 기술 플랫폼을 확보해 나갈 방침이다. 향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈...",
+    "summary": "향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장될 수 있을 것으로 기대된다. 에이피알은 지난 2021년 뷰티 디바이스 사업을 개시한 이래 기술 경쟁력을...",
     "link": "https://www.businessplus.kr/news/articleView.html?idxno=114622",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 14:40:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -39560,14 +40450,15 @@
   },
   {
     "title": "에이피알, 산업부 반도체 국책과제 주관기관 선정…76억 규모 K-뷰티테크...",
-    "summary": "이를 기반으로 외부 부품 의존도를 낮추고 반도체와 AI, 하드웨어를 융합한 K-뷰티테크 기술 플랫폼을 구축해 글로벌 경쟁력을 강화한다는 방침이다. 향후 연구개발 성과는 가정용 홈케어 디바이스와 전문가용...",
+    "summary": "향후 연구개발 성과는 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기 핵심 모듈 플랫폼으로도 확대 적용될 것으로 회사는 기대하고 있다. 에이피알은 2021년 뷰티 디바이스 사업에 진출한 이후 기술...",
     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587575665742",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 13:38:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -39625,14 +40516,15 @@
   },
   {
     "title": "에이피알, 산업부 반도체 국책과제 선정⋯뷰티테크 경쟁력 강화",
-    "summary": "에이피알은 이번 과제를 통해 반도체와 핵심 원천기술 분야의 연구 역량을 확대하고, 외부 부품 의존도를 낮추는 한편 AI와 하드웨어를 결합한 뷰티테크 기술 경쟁력을 강화한다는 방침이다. 향후 연구 성과는 가정용...",
+    "summary": "향후 연구 성과는 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 뷰티 디바이스 핵심 모듈 개발에도 활용될 것으로 기대된다. 에이피알은 2021년 뷰티 디바이스 사업에 진출한 이후 2022년 전담 연구개발 조직인...",
     "link": "https://www.viva100.com/article/20260726500349",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 13:20:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -39809,11 +40701,11 @@
   },
   {
     "title": "에이피알, 뷰티 디바이스 반도체 R&D 박차…\"핵심기술 내재화\"",
-    "summary": "외부 부품 의존도를 낮추고 반도체와 인공지능(AI)·하드웨어를 결합한 K뷰티테크 기술 플랫폼을 확보한다는 방침이다. 개발 성과는 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기용 핵심 모듈...",
+    "summary": "개발 성과는 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기용 핵심 모듈 플랫폼으로 확대 적용될 것으로 기대된다. 에이피알 관계자는 \"에이피알의 뷰티 디바이스 전문성을 대외적으로 인정받았다는...",
     "link": "https://n.news.naver.com/mnews/article/008/0005391032?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 12:40:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -39992,14 +40884,15 @@
   },
   {
     "title": "에이피알, 반도체 첨단기술 76억원 규모 국책과제 착수…뷰티 디바이스...",
-    "summary": "/사진=에이피알 제공  에이피알이 뷰티 디바이스 경쟁력의 핵심인 시스템반도체와 제어 기술을 직접 확보하며 K-뷰티테크 기업으로의 전환에 속도를 낸다. 글로벌 뷰티 기업 에이피알(대표이사 김병훈)이 뷰티...",
+    "summary": "향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장될 수 있을 것으로 기대된다. 에이피알은 지난 2021년 뷰티 디바이스 사업을 개시한 이래 기술 경쟁력을...",
     "link": "https://www.socialvalue.kr/news/view/1065580876320455",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 11:44:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -40039,18 +40932,20 @@
   },
   {
     "title": "에이피알, 76억원 규모 반도체 국책과제 주관…뷰티 디바이스 핵심기술...",
-    "summary": "2026~2029년 4년간 대학·출연연과 공동 연구…산업부 사업 본격 착수 시스템반도체 기반 출력 안정성·전력 효율 등 핵심 부품 기술 확보 추진 홈케어·전문가용 기기 적용 확대…뷰티테크 원천기술 내재화 속도...",
+    "summary": "개발 성과는 가정용 홈케어 디바이스와 전문가용 미용기기, 핵심 모듈 플랫폼 등에 활용될 예정이다. 에이피알은 2021년 뷰티 디바이스 사업에 진출한 뒤 2022년 전담 연구개발 조직인 ADC(APR Device R&D Center)를 설립해...",
     "link": "https://www.seoultimes.news/news/article.html?no=2000098128",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 11:33:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
-      "에이피알"
+      "에이피알",
+      "APR"
     ],
     "is_overseas": false
   },
@@ -40401,11 +41296,11 @@
   },
   {
     "title": "에이피알, 뷰티 디바이스 R&D 역량 고도화 나섰다",
-    "summary": "이후 외부 부품 의존도를 낮추고 반도체·인공지능(AI)·하드웨어가 결합된 K뷰티테크 기술 플랫폼을 확보한다는 계획이다. 앞으로의 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기, 미용기기용 핵심 모듈...",
+    "summary": "앞으로의 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기, 미용기기용 핵심 모듈 플랫폼으로도 적용 영역이 넓어질 것으로 기대된다. 에이피알은 앞서 2021년 뷰티 디바이스 사업에 뛰어들었고 2022년 뷰티...",
     "link": "https://n.news.naver.com/mnews/article/011/0004645200?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 10:42:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -40554,14 +41449,15 @@
   },
   {
     "title": "'K-뷰티 기기 두뇌' 직접 개발 … 에이피알이 반도체에 꽂힌 이유",
-    "summary": "이번 과제를 통해 반도체와 인공지능(AI), 하드웨어를 결합한 뷰티테크 기술 개발을 강화할 방침이다. 한편 에이피알의 뷰티 디바이스 사업부 매출은 2022년 1202억원에서 2023년 2162억원, 2024년 3126억원을 기록했으며...",
+    "summary": "개발된 기술은 가정용 홈케어 디바이스와 전문가용 미용기기에 적용할 예정이다. 향후 여러 제품에 공통으로 사용할 수 있는 미용기기용 핵심 모듈로 활용 범위를 넓히는 방안도 검토한다. 에이피알은 2021년 뷰티...",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/26/2026072600018.html",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:54:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -40604,14 +41500,15 @@
   },
   {
     "title": "\"뷰티디바이스 기술 내재화\"…에이피알, 국책과제 주관기관 선정",
-    "summary": "연구개발(R&D) 역량 고도화를 바탕으로 외부 부품 의존도를 낮추고 반도체 기반 뷰티테크 기술 플랫폼을 확보하겠다는 구상이다. 신재우 에이피알 R&D센터장이 ‘산업통상부 반도체첨단산업기술개발 사업 과제 선정...",
+    "summary": "향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장한다. 에이피알 관계자는 “이번 과제 선정은 에이피알이 축적해온 뷰티 디바이스 전문성을 대외적으로...",
     "link": "https://n.news.naver.com/mnews/article/018/0006336913?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:46:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -40636,11 +41533,11 @@
   },
   {
     "title": "에이피알, 산업부 반도체 R&D 주관기관 선정…기술 내재화 속도",
-    "summary": "외부 부품 의존도를 낮추고, 반도체·인공지능(AI)·하드웨어가 결합된 K-뷰티테크 기술 플랫폼을 확보해 나갈 방침이다. 향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈...",
+    "summary": "(AI)·하드웨어가 결합된 K-뷰티테크 기술 플랫폼을 확보해 나갈 방침이다. 향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장될 수 있을 것으로 예상된다.",
     "link": "https://n.news.naver.com/mnews/article/030/0003450915?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:44:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -40654,14 +41551,15 @@
   },
   {
     "title": "에이피알, 뷰티 디바이스 핵심기술 내재화…반도체 R&D 본격화",
-    "summary": "기존 제품 개발 역량을 반도체와 인공지능(AI) 기반 원천기술까지 확대해 글로벌 뷰티테크 경쟁력을 강화한다는 전략이다. 26일 에이피알에 따르면 회사는 지난 23일 서울 송파구 롯데월드타워에서 '산업통상자원부...",
+    "summary": "개발 성과는 가정용 홈케어 디바이스와 전문가용 미용기기뿐 아니라 미용기기 핵심 모듈 플랫폼으로도 확대 적용될 것으로 회사는 기대하고 있다. 에이피알은 지난 2021년 뷰티 디바이스 사업에 진출한 이후 2022년 전담...",
     "link": "https://n.news.naver.com/mnews/article/421/0009079081?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:43:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -40671,32 +41569,34 @@
   },
   {
     "title": "에이피알, 반도체 국책과제 주관기관 선정…뷰티 디바이스 핵심부품ㆍ...",
-    "summary": "에이피알은 이번 과제를 발판으로 축적해온 뷰티 디바이스 제품화 역량을 반도체ㆍ원천기술 영역으로 넓혀, 반도체ㆍAIㆍ하드웨어를 결합한 K-뷰티테크 기술 플랫폼을 확보하겠다는 구상이다. 개발 성과는 가정용...",
+    "summary": "개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론 미용기기용 핵심 모듈 플랫폼으로도 확장될 전망이다. 에이피알은 2021년 뷰티 디바이스 사업을 시작해 이듬해 연구개발 조직 ADC(APR Device R&D Center)를...",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260932387210509",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:40:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
-      "에이피알"
+      "에이피알",
+      "APR"
     ],
     "is_overseas": false
   },
   {
     "title": "\"뷰티 기기 핵심기술 직접 만든다\"...에이피알, 시스템반도체 R&D 착수",
-    "summary": "반도체와 인공지능, 하드웨어를 결합한 뷰티테크 기술 기반도 구축한다는 방침이다. 에이피알은 2021년 뷰티 디바이스 사업을 시작한 뒤 2022년 연구개발 조직 ADC를 설립했다. 이후 기기 관련 원천기술 확보와 특허 출원을...",
+    "summary": "회사는 연구 성과를 가정용 홈케어 디바이스와 전문가용 기기에 적용하고, 장기적으로 미용기기용 핵심 모듈 플랫폼으로 확장할 계획이다. 반도체와 인공지능, 하드웨어를 결합한 뷰티테크 기술 기반도 구축한다는...",
     "link": "http://www.kdfnews.com/news/articleView.html?idxno=185697",
     "source": "네이버 뉴스",
     "pub_date": "Sun, 26 Jul 2026 09:38:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
-      "특허"
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
@@ -47452,11 +48352,11 @@
   },
   {
     "title": "아모레퍼시픽홀딩스ㆍ하이어코퍼레이션, 차세대 뷰티·메디컬 솔루션 개...",
-    "summary": "대표 제품인 힐로웨이브(HILO WAVE)는 고분자 및 저분자 히알루론산을 결합한 Dual-HA 기반 콜라겐부스터로, 재생 중심의 피부 리모델링 기술을 선보이며 한국을 비롯해 일본, 인도네시아, 베트남 등 글로벌 시장에서 판로를...",
+    "summary": "양사는 이번 전략적 투자를 바탕으로 스킨부스터, 코스메슈티컬(기능성 화장품), 미용 의료기기 등 피부 미용 전반을 아우르는 핵심 제품군 개발과 상용화에 박차를 가한다. 피부과 및 성형외과 시술 후 빠른 회복을...",
     "link": "http://www.ttlnews.com/news/articleView.html?idxno=3129031",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 21:44:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료"
@@ -47723,14 +48623,15 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션과 투자계약 체결...메디컬 뷰티...",
-    "summary": "기반 콜라겐부스터로, 재생 중심의 피부 리모델링 접근법을 제시하며 사업을 전개하고 있다. 현재 한국을 비롯해 일본, 인도네시아, 베트남 등 다수 국가에서 사업을 전개하고 있으며, 글로벌 파트너십 확대와 임상 근거...",
+    "summary": "이번 계약을 바탕으로 양사는 스킨부스터, 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발 및 사업화, 시술 후 애프터케어(After-care) 제품 개발 및 병·의원 유통 협력, 원료·소재 공동 연구개발 및 마케팅 활동을...",
     "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207262",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 18:14:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
-      "원료"
+      "원료",
+      "마케팅"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -47858,11 +48759,11 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션 투자…뷰티·메디컬 융합사업 속...",
-    "summary": "기반 연구개발과 글로벌 유통 역량을 바탕으로 사업을 전개하고 있다. 대표 제품인 ‘힐로웨이브(HILO WAVE)’는 고분자·저분자 히알루론산을 결합한 Dual-HA 기반 콜라겐부스터로 피부 재생 중심의 솔루션을 제시하고 있다.",
+    "summary": "피부과학 연구와 에스테틱 의료기기 기술 결합해 신제품 개발 추진 스킨부스터·코스메슈티컬·애프터케어 등 사업 협력 범위 확대 의료진 네트워크 기반 글로벌 메디컬 뷰티 시장 공략 강화 [서울타임즈뉴스 = 서연옥...",
     "link": "https://www.seoultimes.news/news/article.html?no=2000098196",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 17:54:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료"
@@ -48084,11 +48985,11 @@
   },
   {
     "title": "\"브랜드 난립에 '그냥 뷰티'는 레드오션\"… 아모레퍼시픽, '메디컬 뷰티...",
-    "summary": "대표 제품인 힐로웨이브(HILO WAVE)는 고분자·저분자 히알루론산을 결합한 Dual-HA 기반 콜라겐부스터로, 재생 중심의 피부 리모델링 시장에서 두각을 나타낸다. 한국을 넘어 일본, 인도네시아, 베트남 등 글로벌 시장으로...",
+    "summary": "반면 미용 의료와 스킨부스터, 코스메슈티컬(Cosmeceutical) 영역은 일반 화장품 대비 높은 수준의 인증과 임상 데이터, R&D 기술력을 요구한다. 중소 브랜드가 선뜻 넘보기 힘든 영역이다. 아모레퍼시픽은 바로 이 점에...",
     "link": "http://www.economytalk.kr/news/articleView.html?idxno=423077",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 17:24:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료"
@@ -48159,14 +49060,15 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션에 전략적 투자…뷰티·메디컬 협...",
-    "summary": "대표 제품인 '힐로웨이브(HILO WAVE)'는 고분자·저분자 히알루론산을 결합한 Dual-HA 기반 콜라겐부스터로, 한국을 비롯해 일본·인도네시아·베트남 등에서 판매되고 있다.",
+    "summary": "양사는 앞으로 스킨부스터와 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발 및 사업화, 시술 후 애프터케어 제품 개발과 병·의원 유통 협력, 원료·소재 공동 연구개발 및 마케팅 활동 등을 함께 추진한다. 특히...",
     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7176166",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 17:12:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
-      "원료"
+      "원료",
+      "마케팅"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -48297,11 +49199,11 @@
   },
   {
     "title": "화장품 넘어 피부 시술까지···'메디컬 뷰티' 영토 넓히는 아모레퍼시...",
-    "summary": "주력 제품인 힐로웨이브(HILO WAVE)는 분자 크기가 다른 두 종류의 히알루론산을 활용한 듀얼 히알루론산(Dual-HA) 방식의 콜라겐부스터다. 피부 재생과 리모델링에 초점을 맞춘 제품으로 한국·일본·인도네시아·베트남...",
+    "summary": "스킨부스터·코스메슈티컬·피부미용 의료기기 등을 공동 개발하고 사업화하는 방안을 추진한다. 피부과 등 의료기관에서 시술받은 소비자가 이후에도 피부 상태를 관리할 수 있도록 애프터케어 제품을 개발하고 병·의원...",
     "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256610",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 16:58:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료"
@@ -48483,11 +49385,11 @@
   },
   {
     "title": "메디컬 뷰티에 베팅 … 아모레퍼시픽, 피부미용 디바이스에 전략적 투자",
-    "summary": "대표 제품인 '힐로웨이브(HILO WAVE)'는 고분자·저분자 히알루론산을 결합한 Dual-HA 기반 콜라겐부스터다. 현재 한국을 비롯해 일본, 인도네시아, 베트남 등에서 사업을 전개하고 있다. 뉴데일리 김보라",
+    "summary": "협력 분야는 스킨부스터와 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발 및 사업화다. 피부 시술 이후 사용하는 애프터케어 제품을 공동 개발하고 병·의원 유통에도 협력한다. 원료·소재 공동 연구개발과...",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700192.html",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 16:40:00 +0900",
-    "matched_keyword": "콜라겐",
+    "matched_keyword": "스킨부스터",
     "topic": "main",
     "categories": [
       "원료",
@@ -49014,7 +49916,7 @@
     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876159",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:56:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료"
@@ -49149,7 +50051,7 @@
     "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127438",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:36:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49165,7 +50067,7 @@
     "link": "https://n.news.naver.com/mnews/article/366/0001182229?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:33:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49192,14 +50094,15 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션에 투자…\"차세대 뷰티 개발\"",
-    "summary": "스킨부스터 등 피부미용 전략적 투자 진행 시술 영역을 스킨케어 연결하는 솔루션 개발 아모레퍼시픽그룹의 지주사인 아모레퍼시픽홀딩스는 피부미용 의료기기 전문기업 하이어코퍼레이션과 뷰티·메디컬 분야 협력...",
+    "summary": "양사는 스킨부스터, 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발 및 사업화, 시술 후 애프터케어(After-care) 제품 개발 및 병·의원 유통 협력, 원료·소재 공동 연구개발 및 마케팅 활동을 추진한다. 특히...",
     "link": "https://n.news.naver.com/mnews/article/629/0000519333?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:31:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
-      "원료"
+      "원료",
+      "마케팅"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -49226,7 +50129,7 @@
     "link": "https://n.news.naver.com/mnews/article/092/0002432036?sid=105",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:30:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49257,7 +50160,7 @@
     "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104700",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:28:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49299,11 +50202,11 @@
   },
   {
     "title": "제약사도 더마코스메틱 강화…동화약품, '후시다인' 리브랜딩으로 피부...",
-    "summary": "출시 제품은 스킨부스터 에센스, 워터글로우 수분크림, 스킨부스터 크림마스크 등 3종이다. 스킨부스터 에센스는 스킨케어 첫 단계에서 수분 공급을 돕고, 워터글로우 수분크림은 보습 관리에 초점을 맞췄다. 스킨부스터...",
+    "summary": "사진=동화약품 제약사들이 의약품 연구개발 역량을 기반으로 한 더마코스메틱(더마 화장품) 사업을 확대하고 있다. 기능성 성분과 임상 데이터를 앞세운 피부 장벽 관리 제품에 대한 소비자 수요가 늘면서 기존 의약품...",
     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204662",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:22:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "더마코스메틱",
     "topic": "main",
     "categories": [
       "원료"
@@ -49334,7 +50237,7 @@
     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204695",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:22:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료"
@@ -49486,7 +50389,7 @@
     "link": "https://www.pressman.kr/news/articleView.html?idxno=102898",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:10:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49528,15 +50431,14 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션에 투자…뷰티·메디컬 협력 확대",
-    "summary": "협력 범위에는 스킨부스터, 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발과 사업화가 포함됐다. 병·의원 유통과 시술 이후 사용하는 제품 개발, 원료 및 소재 공동 연구, 마케팅 활동 등도 함께 추진된다....",
+    "summary": "협력 범위에는 스킨부스터, 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발과 사업화가 포함됐다. 병... 회사 측은 “양사는 의료기기와 스킨케어 기술을 결합한 협력 구조를 통해 스킨부스터와 코스메슈티컬...",
     "link": "http://www.lawissue.co.kr/view.php?ud=202607271505538743204ead0791_12",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:08:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
-      "원료",
-      "마케팅"
+      "원료"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -49578,7 +50480,7 @@
     "link": "https://www.fntimes.com/html/view.php?ud=202607271459422884b5b890e35c_18",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:04:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49612,7 +50514,7 @@
     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1744",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 15:02:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49706,7 +50608,7 @@
     "link": "https://hbnpress.com/news/view/1065592257447667",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:56:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료"
@@ -49751,7 +50653,7 @@
     "link": "https://www.viva100.com/article/20260727500940",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:52:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49782,7 +50684,7 @@
     "link": "https://www.newspim.com/news/view/20260727000995",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:48:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49798,7 +50700,7 @@
     "link": "https://n.news.naver.com/mnews/article/015/0005314202?sid=103",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:46:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -49995,7 +50897,7 @@
     "link": "https://n.news.naver.com/mnews/article/030/0003451350?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:25:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -50011,7 +50913,7 @@
     "link": "https://www.cstimes.com/news/articleView.html?idxno=714734",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:24:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -50038,11 +50940,11 @@
   },
   {
     "title": "아모레퍼시픽홀딩스, 하이어코퍼레이션과 뷰티·메디컬 사업 맞손",
-    "summary": "이투데이=김재은 기자 | 피부과학·에스테틱 의료기기 기술 결합…차세대 통합 솔루션 공동 개발 스킨부스터·코스메슈티컬·애프터케어 제품 개발 등 전방위 협력 아모레퍼시픽홀딩스가 피부미용 의료기기 전문기업...",
+    "summary": "스킨부스터·코스메슈티컬·애프터케어 제품 개발 등 전방위 협력 아모레퍼시픽홀딩스가 피부미용... 양사는 이번 협력을 통해 스킨부스터와 코스메슈티컬, 의료기기 등 피부미용 관련 제품 개발 및 사업화를 추진한다....",
     "link": "https://www.etoday.co.kr/news/view/2607831",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:18:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료"
@@ -50057,7 +50959,7 @@
     "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251634",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:16:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -50073,7 +50975,7 @@
     "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256506",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:16:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -50089,7 +50991,7 @@
     "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273645",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:12:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료"
@@ -50150,7 +51052,7 @@
     "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270414",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 14:10:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "코스메슈티컬",
     "topic": "main",
     "categories": [
       "원료",
@@ -50418,14 +51320,14 @@
   },
   {
     "title": "[뷰티 트렌드] 맥스클리닉, '더블 트러플 오일 스크럽 바디 워시' GS홈쇼...",
-    "summary": "바이오던스는 대표 제품인 하이드로겔 마스크 '리얼 딥 마스크'를 통해 콜라겐, 세라놀, 씨 켈프, 비타, 캐비어 PDRN 등 피부 고민에 맞춘 다양한 라인을 선보여 왔다. 최근에는 리얼 딥 마스크 각 라인의 핵심 성분과...",
+    "summary": "동국제약은 2015년 더마코스메틱 브랜드 '센텔리안24'를 론칭하며 더마코스메틱 시장에서 입지를 다져온 데 이어, 병·의원 전용 브랜드 '마데카MD'의 라인업을 지속적으로 확대하고 있다. 이를 바탕으로 향후 '마데카MD...",
     "link": "https://www.ibabynews.com/news/articleView.html?idxno=153248",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 13:26:00 +0900",
-    "matched_keyword": "PDRN",
+    "matched_keyword": "더마코스메틱",
     "topic": "main",
     "categories": [
-      "원료"
+      "미분류"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [],
@@ -50568,11 +51470,11 @@
   },
   {
     "title": "[창간특집 2] '약국 화장품' 시대 열린다…제약사, 새 성장동력 주목",
-    "summary": "약국에서 판매되는 EGFx 다운타임 앰플은 포스트 레이저, 포스트 스킨부스터, 포스트 엘써마 등 3종으로 구성돼 있다. 일반 화장품이 일상적인 데일리 스킨케어를 겨냥한다면, EGFx는 레이저와 스킨부스터 등 피부...",
+    "summary": "바야흐로 약국화장품, 즉 더마코스메틱(Dermocosmetic) 시장의 화려한 귀환이자 '제2막'이 시작된 것입니다. 동일성분 대체조제에 이어 이번 창간특집 2편에서는 약국 화장품 시장의 현황과 국내 제약사 진출 현황,  제약사가...",
     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=539228",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 12:18:00 +0900",
-    "matched_keyword": "스킨부스터",
+    "matched_keyword": "약국화장품",
     "topic": "main",
     "categories": [
       "원료"
@@ -51657,19 +52559,19 @@
   },
   {
     "title": "에이피알, '반도체첨단산업기술개발 사업' 킥오프 미팅 개최",
-    "summary": "에이피알은 메디큐브 브랜드를 중심으로 홈 뷰티 디바이스를 지속적으로 출시하며 뷰티테크 사업을 확대해 왔다. 지난 3월 출시된 부스터프로 X2는 에이피알의 차세대 플래그십 홈 뷰티 디바이스다. 글로벌 뷰티테크...",
+    "summary": "향후 개발 성과는 가정용 홈케어 디바이스와 전문가용 기기는 물론, 미용기기용 핵심 모듈 플랫폼으로도 확장될 수 있을 것으로 기대된다. 에이피알은 지난 2021년 뷰티 디바이스 사업을 개시한 이래 기술 경쟁력을...",
     "link": "http://www.srtimes.kr/news/articleView.html?idxno=208365",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 09:38:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
-      "디바이스·기술"
+      "디바이스·기술",
+      "패키지"
     ],
     "own_brand_mentions": [],
     "competitor_mentions": [
-      "에이피알",
-      "메디큐브"
+      "에이피알"
     ],
     "is_overseas": false
   },
@@ -52203,11 +53105,11 @@
   },
   {
     "title": "더마픽스, 약국 전용 더마코스메틱 '리쥬콜 코드알엔(CoDRN)' 3종 출시··...",
-    "summary": "이번 신제품의 핵심은 더마픽스만의 CoDRN(Collagen + PDRN) 기술이다. 피부 재생을 돕는 PDRN과 피부 탄력의 핵심인 저분자 나노콜라겐을 결합해 손상된 피부를 회복시키고, 피부 속 콜라겐 환경을 함께 케어하도록...",
+    "summary": "이러한 시장 변화에 맞춰 콜라겐 전문 브랜드 더마픽스(DERMAFIX)는 약국 전용 더마코스메틱 라인 '리쥬콜 코드알엔(RejuColl CoDRN)' 3종을 새롭게 출시했다. 리쥬콜(RejuColl)은 피부 회복을 의미하는 Reju와 Collagen의 합성어로...",
     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52699",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 08:58:00 +0900",
-    "matched_keyword": "PDRN",
+    "matched_keyword": "더마코스메틱",
     "topic": "main",
     "categories": [
       "원료"
@@ -52445,11 +53347,11 @@
   },
   {
     "title": "뷰티 디바이스에 반도체 심는다…에이피알, 76억 국책과제 주관",
-    "summary": "이를 통해 외부 부품 의존도를 낮추고 하드웨어가 결합된 뷰티테크 기술 플랫폼을 확보한다는 계획이다. 개발 성과는 향후 홈케어 디바이스와 미용기기용 핵심 모듈 플랫폼으로 확장 적용된다. 에이피알은 지난...",
+    "summary": "개발 성과는 향후 홈케어 디바이스와 미용기기용 핵심 모듈 플랫폼으로 확장 적용된다. 에이피알은 지난 2021년 뷰티 디바이스 사업을 개시한 이후 기술 강화를 추진해 왔다. 2022년에는 뷰티 디바이스 연구개발...",
     "link": "https://n.news.naver.com/mnews/article/629/0000519097?sid=101",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 07:57:00 +0900",
-    "matched_keyword": "뷰티테크",
+    "matched_keyword": "홈케어 디바이스",
     "topic": "main",
     "categories": [
       "디바이스·기술",
@@ -52616,11 +53518,11 @@
   },
   {
     "title": "[창간특집 2] 왜 다시 약국화장품인가",
-    "summary": "특히 PDRN과 같이 트렌디하고 강력한 효능을 탑재한 약국 전용 제품들은 국경을 넘어 세계인들의 장바구니를 빠르게 채워나가고 있습니다. 이러한 수요에 발맞추어 약국 내부의 공간도 진화를 거듭하고 있습니다....",
+    "summary": "바야흐로 약국화장품, 즉 더마코스메틱(Dermocosmetic) 시장의 화려한 귀환이자 '제2막'이 시작된 것입니다. 동일성분 대체조제에 이어 이번 창간특집 2편에서는 약국 화장품 시장의 현황과 국내 제약사 진출 현황,  제약사가...",
     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=539172",
     "source": "네이버 뉴스",
     "pub_date": "Mon, 27 Jul 2026 05:56:00 +0900",
-    "matched_keyword": "PDRN",
+    "matched_keyword": "약국화장품",
     "topic": "main",
     "categories": [
       "원료"
@@ -62045,6 +62947,2854 @@
     "competitor_mentions": [
       "APR"
     ],
+    "is_overseas": false
+  },
+  {
+    "title": "뷰티업체 AI기반으로 제조역량 높인다…기정원, K-뷰티 협의체 구성키로",
+    "summary": "중소기업기술정보진흥원이 우리나라 뷰티(메이크업·미용·스킨케어·헤어 등) 업체들이 경쟁력을 높이기 위해 인공지능 기반으로 뷰티상품을 만들 수 있도록 협의체를 만든다. K-뷰티에 대한 세계인들의 관심이 크게...",
+    "link": "https://n.news.naver.com/mnews/article/082/0001392145?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:20:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "시스루 패션도 우아하게 소화하는 니콜 키드먼",
+    "summary": "코랄 블러시와 립 메이크업으로 여름의 색을 더하는 것도 잊지 않았습니다. Getty Images 평소 대담한 시스루 룩을 가장 우아하게 해석해내는 니콜 키드먼. 베테랑 스타일리스트 제이슨 볼든과 함께한 이번 연출 역시...",
+    "link": "https://www.vogue.co.kr/2026/07/31/%ec%8b%9c%ec%8a%a4%eb%a3%a8-%ed%8c%a8%ec%85%98%eb%8f%84-%ec%9a%b0%ec%95%84%ed%95%98%ea%b2%8c-%ec%86%8c%ed%99%94%ed%95%98%eb%8a%94-%eb%8b%88%ec%bd%9c-%ed%82%a4%eb%93%9c%eb%a8%bc/?utm_source=naver&utm_medium=partnership",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:18:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국법인, 식약처 CGMP 동등 수준 인정…해외 화장품 공장 첫...",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 각각 국내 1호와 2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 무석콜마의 동등 수준 인정을 계기로 국내에서 축적한 제조·품질관리 체계를 해외...",
+    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133802",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:18:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[기획] 'K-뷰티' 삼파전 예고…다이소·올리브영·돈키호테 각축",
+    "summary": "인공지능(AI) 알고리즘을 활용해 고객의 피부 톤을 정밀 측정하고 현장에서 파운데이션, 쿠션, 립 제품을 즉석 제작해 주는 서비스는 연일 예약이 조기 마감될 정도로 대히트를 쳤다. 특히 'AI 헤라 커스텀매치' 서비스의...",
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661714",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:14:00 +0900",
+    "matched_keyword": "파운데이션",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "CEO 송지효, 또 직접 속옷 입었다…게시물만 7개 '폭풍 업로드' [★해시...",
+    "summary": "특히 송지효는 화려한 액세서리나 과한 스타일링 대신 내추럴한 메이크업과 자연스럽게 흘러내린 헤어스타일로 편안한 분위기를 연출했다. 첫 게시물에서 검은색과 초록색 계열의 속옷을 공개한 송지효는 이후...",
+    "link": "https://m.entertain.naver.com/article/311/0002040193",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:09:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "황정음, 너무 달라져 못 알아볼 뻔…긴 생머리로 리즈 시절 재현",
+    "summary": "사진 속 황정음은 허리까지 내려오는 긴 브라운 헤어와 짙은 아이 메이크업으로 색다른 분위기를 연출했다. 깊은 눈빛과 자연스럽게 흩날리는 긴 머리가 어우러지며 드라마 속 이미주를 연상시키는 비주얼을 완성했다....",
+    "link": "https://m.entertain.naver.com/article/117/0004090507",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:05:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "에이블씨엔씨 미샤, 일본 재구매·신제품 흥행에 아마존 매출 두 배 성장",
+    "summary": "일본 메이크업 아티스트와 공동 기획해 큐텐에서 먼저 선보인 'M 프로 블랙 메쉬 쿠션'은 출시 직후 파운데이션 카테고리 1위, 베이스 메이크업 2위, 뷰티 전체 3위를 기록했다. 미샤는 미국 아마존 프라임데이에서도...",
+    "link": "http://www.lawissue.co.kr/view.php?ud=202607311658438957204ead0791_12",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:00:00 +0900",
+    "matched_keyword": "파운데이션",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "문채원, 결혼 한 달 만에 뼈말라 됐다..\"화장으로 3kg 찌울 지경\" 걱정 ...",
+    "summary": "제작진은 메이크업을 받고 있는 문채원을 찾아갔고, \"되게 오랜만에 본다\"며 반가워했다. 결혼과 신혼여행... 지금 우리..\"라며 메이크업 담당자를 바라봤다. 메이크업 담당자는 \"(화장으로) 3kg 찌워드렸다. 너무...",
+    "link": "https://m.entertain.naver.com/article/109/0005581519",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 17:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국문화통상진흥원, 글로벌 패션 오디션 'K-스타일 모델 챌린지 2026' 본...",
+    "summary": "모델 분야와 함께 패션디자이너·스타일리스트, 헤어·메이크업 아티스트, 뷰티·패션 브랜드 부문 참가자도 동시에 모집한다. 선발된 참가자들은 파이널 무대에서 모델들과 협업 프로그램을 진행하게 된다. K-Motion...",
+    "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=33544",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:56:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 무석공장, 해외 화장품 공장 첫 CGMP 동등 인정",
+    "summary": "한국콜마는 국내 최초의 제조자개발생산(ODM : Original Development Manufacturing) 기업으로서, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 국내 화장품 제조...",
+    "link": "https://www.socialvalue.kr/news/view/1065599620725224",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:56:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이세영, 데뷔 29주년 맞아 '아이돌 센터 미모'...역대급 비주얼 경신",
+    "summary": "헤어는 잔머리를 자연스럽게 살린 로우 번 스타일로 연출해 단정하면서도 여성스러운 이미지를 강조했고, 액세서리를 최소화한 대신 맑은 피부 표현과 은은한 메이크업으로 특유의 청순한 비주얼을 더욱 돋보이게 했다....",
+    "link": "https://m.entertain.naver.com/article/311/0002040185",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:47:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "빈티지룩도 살렸다…제니, 1999년대 레이스 드레스 입고 '찰칵' [MHN:뭐 입...",
+    "summary": "여기에 그는 짙은 푸른 계열의 스모키 메이크업을 더해 눈매를 강조하고, 생기 넘치는 치크 컬러로 건강미를 더했다. 당당한 포즈와 빈티지한 의상, 메이크업까지 총 3박자가 어우러지며 팬들의 감탄을 불러 모았다. 이를...",
+    "link": "https://m.entertain.naver.com/article/445/0000443681",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:45:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 중국법인 식약처 CGMP 획득...무석콜마 제조·품질관리 체계...",
+    "summary": "한국콜마는 화장품 제조자개발생산(ODM) 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 한국콜마는 한국에서 축적한 연구개발, 제조·품질관리 기준을 중국, 미국...",
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222709",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:38:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "코리아타운, 쿠웨이트서 티르티르 공식 론칭 기념 인스토어 이벤트",
+    "summary": "물론 메이크업과 스킨케어 전 라인업을 직접 살펴보며 브랜드의 특징과 제품력을 체험하는 시간을 가졌다. 코리아타운은 쿠웨이트에서 티르티르의 메이크업 및 스킨케어 전 제품을 한곳에서 만나볼 수 있는 공식...",
+    "link": "https://n.news.naver.com/mnews/article/353/0000056175?sid=102",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:37:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레, 공들인 '서구권시장' 결실로 큰 돈…시총선 1위 APR에 밀려",
+    "summary": "기업 정체성에서 아모레퍼시픽은 전통화장품 제조및 브랜드 포드폴리오라고 하면 에이피알은 뷰티디바이스와 화장품(뷰티테크)의 결합이라는 점에 차이를 보인다. 우선 시장이 적용하는 밸류에이션 기준이 달라 주가...",
+    "link": "http://www.nongaek.com/news/articleView.html?idxno=96291",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:30:00 +0900",
+    "matched_keyword": "뷰티테크",
+    "topic": "main",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [
+      "에이피알",
+      "APR"
+    ],
+    "is_overseas": false
+  },
+  {
+    "title": "[유통가 NOW] 이랜드 뉴발란스, 쿠팡이츠, 에이블씨엔씨 미샤",
+    "summary": "이 제품은 출시 직후 파운데이션 카테고리 1위, 베이스 메이크업 2위, 뷰티 전체 3위를 기록했다. 기세에 힘입어 새로운 현지 맞춤형 제품도 개발 중이다. 오는 11월에는 일본 메이크업 아티스트와 함께 개발한 컨실러...",
+    "link": "https://www.ekn.kr/web/view.php?key=20260731025318364",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:30:00 +0900",
+    "matched_keyword": "파운데이션",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "페리페라, '맑게 물든 선샤인 치크' 신규 컬러 공개... '빵' 콘셉트 마케...",
+    "summary": "페리페라는 최근 메이크업 트렌드를 반영한 신규 블러셔 컬러를 공개하고 오프라인 체험형 프로모션에... 이번 신제품은 최근 뷰티업계에서 주목받는 '다굽자' 메이크업 트렌드를 반영해 갓 구운 빵에서 영감을 얻은...",
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205084",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"글로벌 생산 체계 입증\"…무석콜마, 식약처 우수화장품 제조·품질관리...",
+    "summary": "한국콜마는 국내 최초의 제조자개발생산(Original Development Manufacturing, 이하 ODM) 기업으로서 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 국내 화장품 제조...",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268629",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:24:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "어반퓨어, 아침 세안 방법 소개…“피부 상태에 맞는 세안 중요”",
+    "summary": "사진=어반퓨어(URBANPURE) 프리미엄 더마 스킨케어 브랜드 어반퓨어(URBANPURE)가 여름철 피부 부담을 고려한 아침 세안 방법과 함께 '세이프서드 페이셜 비누'를 소개했다고 31일 밝혔다. 어반퓨어는 과도한 세정보다는 피부...",
+    "link": "http://www.segyebiz.com/newsView/20260731515362?OutUrl=naver",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:16:00 +0900",
+    "matched_keyword": "더마 스킨케어",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "실리콘투 유럽서 키운 다품종 유통체제, 김성운 중남미에서 성장 공식 ...",
+    "summary": "브라질 화장품·생활용품·향수산업협회(ABIHPEC)는 브라질을 세계 3위 화장품·생활용품·향수 소비시장으로 분류하고 있다. 브라질은 연간 관련 신제품 출시 건수에서도 미국과 중국, 인도에 이어 세계 4위권에 놓여 있다....",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443678",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:14:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "동아제약, 슬로우에이징 브랜드 ‘에블리’ 론칭…NMN 담은 이중제형 제...",
+    "summary": "아일로는 콜라겐과 비오틴 등을 담은 ‘타입1 콜라겐 비오틴 앰플’을 중심으로 피부 건강과 체형 관리를 아우르는 이너뷰티 제품을 운영하고 있다. 오쏘몰은 비타민과 미네랄 등 미량영양소를 배합한 제품을 통해...",
+    "link": "https://www.socialvalue.kr/news/view/1065596676753197",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:06:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "레드벨벳 웬디, 우아함에서 강렬함까지…한 무대에 담은 두 가지 매력 ...",
+    "summary": "맑고 투명한 피부 표현과 핑크 톤 치크, 글로시 립 메이크업이 웬디만의 맑고 깨끗한 이미지를 강조했고, 또렷한 아이 메이크업으로 MC다운 단아한 비주얼을 완성했다. 아티스트로 나선 'Sunkiss' 무대에서는 분위기를...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151135",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:04:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국열린사이버대학교 평생교육원, 종합미용면허증 과정 모집…8월 13일...",
+    "summary": "종합미용면허증은 헤어, 피부미용, 네일, 메이크업 등 네 가지 미용 분야의 업무를 수행하거나 관련 미용업... 면허 취득 후에는 미용실과 피부관리실, 네일숍, 메이크업숍을 비롯해 토탈뷰티숍 창업, 뷰티 프랜차이즈...",
+    "link": "http://www.e2news.com/news/articleView.html?idxno=332895",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 16:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "리즈벨 의원 이종훈 원장, ‘뷰티 클리닉 터치미’서 중년여성 피부탄력...",
+    "summary": "이날 방송에서 이종훈 원장은 피부 탄력을 구성하는 핵심 단백질인 콜라겐은 20대 중후반부터 매년 1~1.5%씩... 탄력도와 콜라겐 감소 정도, 호르몬 변화 시기 등을 종합적으로 진단한 후 그에 맞는 관리 방향을 설정하는...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310221",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:48:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "글루타넥스, 3년 연속 ‘한국의 소비자대상’ 수상",
+    "summary": "글루타넥스는 'Find Your Glow'라는 브랜드 메시지를 바탕으로 피부 본연의 광채를 되찾는 솔루션을 제안하는 코스메슈티컬 브랜드다. 글루타치온을 중심으로 브랜드 철학인 'Glow Science'를 실현하는 제품력으로...",
+    "link": "https://n.news.naver.com/mnews/article/025/0003541567?sid=103",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:45:00 +0900",
+    "matched_keyword": "코스메슈티컬",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 시스루 란제리룩으로 또 한 번 증명한 ‘패션 아이콘’",
+    "summary": "공개된 사진 속 제니는 진한 스모키 메이크업과 핑크 플로럴 패턴이 더해진 코르셋 스타일의 란제리 톱... 자연스러운 웨이브 헤어와 은은한 메이크업은 몽환적인 분위기를 더했고, 공연장 백스테이지와 호텔 욕실에서...",
+    "link": "https://m.entertain.naver.com/article/022/0004147453",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:44:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "식약처 인정 '콜마 中공장'…한국급 품질 신뢰 확보",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정되며 국내 화장품 제조·품질관리 체계 고도화를 이끌었다. 이번 무석콜마 인정으로 36년간 축적한 생산 노하우를 해외...",
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594601510928",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:36:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "호텔신라 수익성 회복 본궤도···남은 숙제는 면세점 정상화",
+    "summary": "특히 롯데면세점은 인천공항점 DF1(화장품·향수·주류·담배·식품) 구역을 운영하기 시작했고, 인천공항점에서만 연간 6000억원의 매출이 추가될 것으로 내다봤다. 해당 구역은 신라면세점이 과거 운영했던 구역이다....",
+    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422812",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:34:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 중국 생산기지 식약처 인정...국내 ODM 첫 사례",
+    "summary": "한국콜마는 국내 첫 제조자개발생산(ODM) 기업으로 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 인정으로 국내에서 축적한 제조·품질관리 역량을 해외 생산기지로...",
+    "link": "https://n.news.naver.com/mnews/article/014/0005555685?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:28:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "비비, ‘워터밤’ 19금 퍼포먼스 그후..수수한 얼굴로 청순美",
+    "summary": "비비는 평소와 달리 연한 메이크업으로 수수한 비주얼을 보여줬다. 또 비비는 귀여우면서도 건강미 넘치는 모습으로 눈길을 사로잡았다. 비비의 밝은 모습이 눈길을 끈다. 한편 비비는 최근 ‘워터밤 2026’에 출격해 19금...",
+    "link": "https://m.entertain.naver.com/article/112/0003803111",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:27:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "미샤, 일본 아마존 프라임데이 매출 103% 증가",
+    "summary": "현지 메이크업 아티스트와 공동 기획해 큐텐에서 먼저 선보인 'M 프로 블랙 메쉬 쿠션'은 출시 직후 파운데이션 카테고리 1위와 베이스 메이크업 2위, 뷰티 전체 3위를 기록했다. 앞서 미샤는 미국 아마존...",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473315",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:22:00 +0900",
+    "matched_keyword": "파운데이션",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 과감한 '시스루 란제리룩'→시선 강탈…완벽 비주얼 '눈길' [RE:스...",
+    "summary": "그는 진한 스모키 메이크업에 잔잔한 웨이브를 넣은 긴 머리, 실루엣이 돋보이는 시스루 란제리룩을 선보이며 독보적인 매력을 표출했다. 이어서 공개된 사진에서 그는 눈두덩이에 짙은 아이섀도우와 허공을 응시하고...",
+    "link": "https://m.entertain.naver.com/article/213/0001396310",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:22:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "부산보건대, 어르신 영정사진 무료촬영 봉사활동",
+    "summary": "카네이션노인복지센터 허선예 센터장을 비롯한 자원봉사자들은 접수 안내와 메이크업, 의상 정리, 촬영 보조, 동선 안내 등을 맡았다. 부산보건대 사회복지과 박희진 교수는 자원봉사자로 참여해 사진 촬영과 보정, 액자...",
+    "link": "https://n.news.naver.com/mnews/article/658/0000151083?sid=102",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:15:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "페이즈로그, 신제품 ‘하이드로 레이어 버블 에센스’ 출시",
+    "summary": "제품은 하루를 준비하는 순간, 시간이 조금만 지나도 메이크업이 들뜨고 무너지는 피부 고민에서 출발했다. 페이즈로그는 메이크업이 무너지는 원인을 피부 속건조, 수분 손실, 고르지 않은 피부결 세 가지로...",
+    "link": "https://n.news.naver.com/mnews/article/081/0003666562?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:13:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "동아제약, 슬로우에이징 브랜드 ‘에블리’ 론칭",
+    "summary": "동아제약은 앞서 더마코스메틱 브랜드 ‘파티온’을 통해 올리브영 주요 카테고리에서 1위를 달성하며 뷰티 분야 경쟁력을 입증했다. 이번 에블리 론칭을 통해서는 프리미엄 헬스케어 라인업까지 포트폴리오를...",
+    "link": "https://www.sentv.co.kr/article/view/sentv202607310128",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:12:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이새롬, 서점 한가운데서 책과 함께 담은 차분한 휴식",
+    "summary": "재즈 음악을 틀어두고 메이크업을 준비할 정도로 음악을 가까이 두고 생활하며, 책과 영상 콘텐츠를 통해 휴식을 취하는 라이프스타일을 유지하고 있다. 이새롬은 2018년 걸그룹 프로미스나인의 미니 1집 'To. Heart'로...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151057",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:04:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "송예빈, 웹드 여신의 청초한 비주얼…근황 공개",
+    "summary": "배우 송예빈(25세)이 메이크업 화보 촬영 사진으로 근황을 전했다. 담백한 스타일링 속에서 또렷한... @rollingjay_onymakeup @rollingjay_rin\"이라는 문구를 남기며 메이크업 아티스트와 함께한 촬영 컷임을 알렸다. 사진...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151046",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "K뷰티 품질관리 글로벌 확장…한국콜마, 중국 공장 첫 식약처 CGMP 동등...",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 무석콜마의 동등 인정을 계기로 글로벌 생산거점 전반에 동일한...",
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205065",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 15:02:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "호텔신라 체질개선 효과 톡톡... 2분기 영업이익 전년比 7배 증가",
+    "summary": "이에 호텔신라는 지난 4월 16일 인천공항 제1·2여객터미널의 향수·화장품 및 주류·담배 사업권인 DF1 권역 영업을 종료하는 강수를 뒀다. 해당 사업장은 연간 4000억원 이상의 매출을 올리던 곳으로 전사 매출 공백이...",
+    "link": "https://n.news.naver.com/mnews/article/366/0001183512?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:58:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "에이블씨엔씨 미샤, 日 아마존·큐텐 동반 흥행⋯신제품 1위·리필 226%↑",
+    "summary": "일본 메이크업 아티스트와 공동 기획해 큐텐에서 선출시한 ‘M 프로 블랙 메쉬 쿠션’은 출시 직후 파운데이션 카테고리 1위, 베이스 메이크업 2위, 뷰티 전체 3위를 기록했다. 앞서 미국 아마존 프라임데이에서 미샤...",
+    "link": "https://www.viva100.com/article/20260731500559",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:58:00 +0900",
+    "matched_keyword": "파운데이션",
+    "topic": "sub",
+    "categories": [
+      "패키지"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"콘 브라 드레스에 스모키\"... 젠데이아, '스파이더맨' 행사장 찢은 파격...",
+    "summary": "그는 앞머리를 여러 갈래로 나눠 이마에 붙이고 진한 스모키 메이크업을 더해 샤프한 분위기를 연출했다. 젠지 세대를 대표하는 패션 리더답게 과감하고 독창적인 스타일로 시선을 사로잡았다. 톰 홀랜드와 올해 초...",
+    "link": "https://www.insight.co.kr/news/565802",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:56:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "에이피알, 뷰티기기 '메디큐브 부스터 글로우' 日 출시…유통망↑",
+    "summary": "에이피알은 메가포 기간 한정 할인과 라이브커머스 프로모션으로 초기 수요를 끌어올리는 한편, PDRN 스킨케어 라인과 연계한 마케팅으로 기기와 화장품 판매 시너지도 높일 방침이다. 에이피알이 다음 달 1일 일본...",
+    "link": "https://www.theguru.co.kr/news/article.html?no=105215",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:48:00 +0900",
+    "matched_keyword": "PDRN",
+    "topic": "main",
+    "categories": [
+      "원료",
+      "마케팅"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [
+      "에이피알",
+      "메디큐브"
+    ],
+    "is_overseas": false
+  },
+  {
+    "title": "송혜교, 피부가 이렇게 빛날 수 있나…주름 하나 없는 '여신' 비주얼 [★...",
+    "summary": "그는 민낯에 가까운 메이크업에도 뚜렷한 이목구비를 과시했다. 편안한 자세로 턱을 괸 채 카메라를 응시하는 송혜교의 청순한 미모가 감탄을 자아냈다. 특히 어두운 배경 속 조명을 온몸으로 받고 있는 송혜교가 눈길을...",
+    "link": "https://m.entertain.naver.com/article/311/0002040153",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:48:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "동국제약 '센텔리안24', 日서 '센24'로 간판교체…\"K더마 시장 재편\"",
+    "summary": "다음달 20일 새 브랜드명…로고·패키지도 새단장 타깃층 전세대 겨냥…1000여개 매장 유통망 활용  동국제약의 더마코스메틱 브랜드 '센텔리안24(Centellian24)'가 일본에서 브랜드명을 '센24(Cen24)'로 간판을 바꿔 단다....",
+    "link": "https://www.theguru.co.kr/news/article.html?no=105213",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:46:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "패키지"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘47세’ 장영란, 갱년기 안 왔다더니 美친 동안 미모 자랑..인생 사진 ...",
+    "summary": "공개된 사진 속 장영란은 방송 스튜디오로 보이는 공간에서 화려한 메이크업을 한 채 시선을 위로 올려 포즈를 취하고 있다. 그는 목을 감싸는 홀터넥 스타일의 블루 계열 상의를 입어 직각 어깨를 자랑했다. 특히 상의...",
+    "link": "https://m.entertain.naver.com/article/112/0003803094",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "에스파 닝닝, 꽃을 입은 여름…강렬한 눈빛으로 완성한 우아한 명품 스...",
+    "summary": "헤어와 메이크업 역시 스타일링의 완성도를 높였다. 긴 생머리를 가운데 가르마로 단정하게 연출해 세련된 인상을 만들었으며, 또렷한 아이라인과 풍성한 속눈썹, 은은하게 반짝이는 아이 메이크업이 깊이 있는 눈매를...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150973",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "송혜교, UAA 떠나니까 얼굴 확 폈네..어둠도 뚫고 나오는 여신 비주얼 [...",
+    "summary": "화려한 세팅이나 짙은 메이크업 없이도 환하게 빛나는 무결점 피부와 뚜렷한 이목구비가 송혜교 특유의 우아하고 기품 있는 분위기를 한층 돋보이게 한다. 송혜교는 캄캄한 밤거리의 횡단보도 위에서도 자체 발광하는...",
+    "link": "https://m.entertain.naver.com/article/108/0003458112",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:25:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "공정위, 스드메·예식장 가격 공개 집중점검…미준수 시 최대 1억원 과태...",
+    "summary": "결혼을 준비하는 예비부부들을 괴롭혀 온 예식장과 '스드메(스튜디오·드레스·메이크업)' 패키지 상품의 이른바 '깜깜이 가격' 및 과도한 추가금 꼼수를 막기 위해 정부가 현장 집중점검에 나선다. 가격 및 위약금 정보...",
+    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82621",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:24:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "패키지"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "크루팩토리 승무원학원, 2027학년도 항공과 대학 입시박람회 개최",
+    "summary": "대학별 입시설명회와 교수 특강, 합격생 멘토링, 모의 면접, 기내 서비스 롤플레잉, 스피치 및 이미지메이킹 교육, 헤어·메이크업 특강, 대학별 특강 등을 진행한다. 학원 관계자는 \"항공과 입시는 대학별 평가 방식과 면접...",
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222681",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 무석공장, 식약처 CGMP 동등 인정…해외 생산거점 첫 사례",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 무석콜마 평가를 통해 국내에서 축적한 제조·품질관리 체계를...",
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308089",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:12:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "36년 R&D의 힘… 한국콜마, 글로벌 ODM 판 흔든다",
+    "summary": "화장품 ODM과 제약·건기식 역량이 결합되면 더마코스메틱, 이너뷰티, 기능성 소재 등에서 시너지가 가능하다. 소비자가 피부를 미용이 아니라 건강의 영역으로 인식할수록 이러한 융합형 제품의 시장성은 커질 수 있다....",
+    "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1912",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:08:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "실적도 미래도 잡았다…아모레퍼시픽, AI·메디컬·글로벌 3축 성장 가속",
+    "summary": "아모레퍼시픽홀딩스는 피부미용 의료기기 기업 하이어코퍼레이션에 전략적으로 투자하고 스킨부스터와 코스메슈티컬, 의료기기, 시술 후 관리 제품 등을 공동 개발하기로 했다. 피부과학 연구 역량에 의료기기 기술을...",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026073113205530442",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:08:00 +0900",
+    "matched_keyword": "코스메슈티컬",
+    "topic": "main",
+    "categories": [
+      "원료",
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "문채원, 결혼 한 달-신혼집 이사에 지치고 말라",
+    "summary": "하지만 메이크업 아티스트는 뜻밖의 이야기를 전했다. 그는 \"너무 마른 상태로 오셔서 메이크업으로 3kg 찌워드렸다\"고 밝혀 관심을 모았다. 이에 문채원은 \"거의 한 달 만에 운동하러 갔는데 필라테스 선생님이 왜 이렇게...",
+    "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=85191",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 14:08:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 무석공장, 식약처 CGMP 동등 인정···해외 화장품 공장 최초",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 이후 제조·품질관리 역량을 축적해왔다. 이번 인정으로 국내에서 구축한 품질관리 체계를 해외 생산거점까지...",
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=150027",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:54:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中공장, 식약처 첫 해외 CGMP 인정… 글로벌 생산기지 품질 경...",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 업계에서는 이번 무석콜마의 인정이 국내에서 축적한 제조·품질관리...",
+    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93085",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:54:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "글루타넥스, '2026 한국의 소비자대상' 3년 연속 대상",
+    "summary": "글루타넥스는 'Find Your Glow'라는 메시지를 바탕으로 피부 광채 관리를 위한 코스메슈티컬 제품을 선보이고... 프리미엄 코스메슈티컬 시장에서 브랜드 인지도를 높여간다는 계획이다. 글루타넥스 관계자는 \"제품을...",
+    "link": "https://n.news.naver.com/mnews/article/119/0003116978?sid=103",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:47:00 +0900",
+    "matched_keyword": "코스메슈티컬",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "반도체 조정장 속 투심 돌아오나(?) 케이엠제약·레몬헬스케어 상한가 ...",
+    "summary": "(사진=KG제로인 엠피닥터) JW신약, 전문의약품서 더마코스메틱 강화할 '듀크레이' 유기적 결합 JW그룹 계열의 코스닥 상장 제약사인 JW신약은 기존의 독보적인 클리닉 전문의약품 처방 영업망에 더해, 최근 급성장하는...",
+    "link": "https://n.news.naver.com/mnews/article/018/0006341133?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:46:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "문채원, 결혼 한 달만 무슨 일…핼쑥해진 모습에 쏟아진 걱정 \"너무 말랐...",
+    "summary": "신혼여행을 다녀온 문채원을 한 달 만에 만난 제작진은 \"건강해 보이신다\"고 언급했지만 메이크업 아티스트는 \"(메이크업으로) 3kg 찌워드렸다. 너무 말라서 오셨다\"고 밝혔다. 문채원은 \"어제 거의 한 달 만에 운동을 갔는데...",
+    "link": "https://m.entertain.naver.com/article/076/0004431314",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:41:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이은샘, 시스루와 스카프 디테일의 절제된 매력…시크함에 소녀 감성 더...",
+    "summary": "자연스럽게 흘러내린 옆머리가 얼굴선을 부드럽게 감싸며 단정한 스타일링에 생기를 불어넣었고, 맑은 피부 표현과 은은한 핑크 립 메이크업이 청순한 매력을 강조했다. 절제된 모노톤 스타일링에 섬세한 소재와...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150901",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김혜준 \"예쁘단 말 안 해 서운\"-이동욱, 뜻밖의 칭찬에 폭소",
+    "summary": "그는 \"저한테 직접 예쁘다고 하면 되는데 메이크업 실장님한테 '화장을 진짜 잘하시네요'라고 하더라\"고 말해 현장을 웃음바다로 만들었다. 반대로 김혜준은 이동욱의 TMI로 '호떡을 좋아한다', '귀엽다', '반지 자랑하는 걸...",
+    "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=85181",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "K-뷰티, 북미·동남아 넘어 남미로…브라질 신시장 부상",
+    "summary": "특히 향수와 헤어케어 시장이 발달해 스킨케어 카테고리에서 강점을 지닌 K-뷰티 기업들이 제품군을 확장할 수 있는 기회도 크다. 무엇보다 브라질 시장 진출이 남미 전역으로 사업을 확대하는 발판이 될 수 있다는...",
+    "link": "https://www.ekn.kr/web/view.php?key=20260731024267359",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:28:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "공효진, 잔잔한 플라워 원피스로 완성한 '내추럴 로맨틱'…꾸미지 않은...",
+    "summary": "특별한 연출 없이 내린 내추럴 헤어는 원피스의 부드러운 분위기와 조화를 이뤘고, 핑크 톤 아이 메이크업과 윤기 있는 립 메이크업은 화사한 피부 표현과 어우러져 생기 있는 인상을 더했다. 한편 공효진, 정준원, 이상이...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150900",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "로맨틱한 고딕풍 드레스로 ‘드라큘라’ 무대를 압도한 제니",
+    "summary": "@jennierubyjane @jennierubyjane 또 자연스러운 웨이브 헤어스타일, 스모키 메이크업과 볼륨감 있는 립 메이크업으로 몽환적인 무드를 배가했습니다. @jennierubyjane 무대를 마친 후 테임 임팔라의 멤버 케빈 파커는...",
+    "link": "https://www.vogue.co.kr/2026/07/31/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%95%9c-%ea%b3%a0%eb%94%95%ed%92%8d-%eb%93%9c%eb%a0%88%ec%8a%a4%eb%a1%9c-%eb%93%9c%eb%9d%bc%ed%81%98%eb%9d%bc-%eb%ac%b4%eb%8c%80%eb%a5%bc-%ec%95%95/?utm_source=naver&utm_medium=partnership",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:24:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "45세 한채영, 트위드룩 입은 바비인형‥믿을 수 없는 방부제 미모",
+    "summary": "한편 한채영은 지난 2007년 4살 연상 재미교포 사업가와 결혼해 슬하에 아들을 두고 있다. 최근 한채영은 달라진 외모로 건강 이상설에 휩싸였으나, 이내 메이크업 차이임을 공개하며 우려를 불식시켰다.",
+    "link": "https://m.entertain.naver.com/article/609/0001152141",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:13:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'비연예인♥' 문채원, 신혼집 이사로 강제 다이어트…\"너무 말라졌어\" ...",
+    "summary": "영상에서 제작진은 숍에서 메이크업을 받고 있는 문채원을 찾아갔다. 제작진은 \"신혼여행 잘 다녀오셨냐. 건강해 보이신다\"고 말했다. 메이크업 아티스트는 \"(메이크업으로) 3kg 찌워드렸다. 너무 말라져서 오셨다\"고 했고...",
+    "link": "https://m.entertain.naver.com/article/117/0004090446",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:05:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국 생산기지<무석콜마>도 ‘우수’",
+    "summary": "연간 5억5000만 개의 생산능력을 갖추고 있다. 한편 한국콜마는 국내 최초ODM 기업으로 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정받았다.",
+    "link": "https://www.naeil.com/news/read/597232?ref=naver",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 13:04:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中 생산기지 첫 인정…무석콜마, 식약처 해외 첫 CGMP 동등 평가",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 무석콜마의 인증을 계기로 36년간 축적한 제조·품질관리 역량을 해외...",
+    "link": "https://www.asiatime.co.kr/article/20260731500052",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:44:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "전남광주시교육청, 대학 손잡고 반도체·AI 미래 인재 키운다",
+    "summary": "참여 학생들은 광주대·남부대·서영대·조선이공대·호남대 등 지역 5개 대학에서 개설한 전자회로 및 PCB 설계, 전기자동차 실습, 3D 형상모델링, 실용 제과·제빵, AI 퍼스널 메이크업 등 10개 분야 전문교육을 이수하게...",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=346518",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:41:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "엄정화, '오케이 마담2' 앞두고 화보 속 강렬 눈빛",
+    "summary": "이날 엄정화는 \"marieclairekorea by swvisual ___s_yeon by jomimimimijo\"라는 문구를 남기며 스타일·메이크업·헤어 담당 아티스트와 함께한 작업임을 드러냈다. 사진에는 잡지 로고가 함께 담겨 있어 패션 화보 촬영 현장에서...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150871",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"핑크 포인트가 킥이야\" 소유미, 근황 공개하며 스타트렌드 트로트 여자...",
+    "summary": "긴 생머리와 자연스러운 메이크업은 편안하면서도 화사한 분위기를 더했다. 실내 공간에서 여유로운 포즈를 취한 모습까지 어우러지며 무대 위 모습과는 또 다른 친근한 매력을 전했다. 팬들은 소유미의 밝은 표정과...",
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=536947",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "문채원, 결혼 1개월 만 핼쑥→너무 말라 메이크업으로 3kg 증량…\"이사 ...",
+    "summary": "이를 들은 메이크업 아티스트는 \"너무 마른 상태로 오셔서 메이크업으로 3kg 찌워드렸다\"라고 전해 눈길을 끌었다. 문채원 역시 \"거의 한 달 만에 운동하러 갔는데 필라테스 강사님이 왜 이렇게 살이 빠졌냐고 한 소리...",
+    "link": "https://m.entertain.naver.com/article/213/0001396279",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:17:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "올여름 예쁜 블러셔의 비밀은 메탈릭 광입니다",
+    "summary": "10초 안에 보는 요약 기사 메탈릭 블러셔가 새로운 치크 메이크업 트렌드로 떠올랐다. 피부 톤에 맞는 컬러와... 과거의 메탈릭 메이크업이 굵은 글리터와 강렬한 실버 컬러로 미래적인 이미지를 강조했다면, 요즘 방식은...",
+    "link": "https://www.harpersbazaar.co.kr/article/1907232",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"약국, 판매처 넘어 '피부 큐레이션' 플랫폼으로 진화해야\"",
+    "summary": "PDRN과 EGF, 엑소좀, 펩타이드 등 바이오 기반 성분이 시장을 이끌고 K-뷰티 확산과 외국인 관광객 증가도 성장에 힘을 보태고 있다. 반면 제품이 많아질수록 소비자 혼란도 커지고 있다. 약국 매대에는 기능과 성분이 유사해...",
+    "link": "https://www.dailypharm.com/user/news/340843?REFERER=NP",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:10:00 +0900",
+    "matched_keyword": "펩타이드",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "중소 뷰티 브랜드 22곳, 제주 ‘코아시스’ 서 한자리",
+    "summary": "팝업스토어를 찾은 고객에게는 ‘세인트프랑 로얄 레드 콜라겐 겔 마스크’ 1장을 증정하고, 3만 원 이상 구매한 고객에게는 우도 한정 재활용 가방을 제공한다. 코아시스는 현대홈쇼핑이 운영하는 뷰티 편집숍으로...",
+    "link": "https://n.news.naver.com/mnews/article/021/0002808327?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 12:00:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "P&G 3년 도제교육으로 탄생… 韓 조향사, 글로벌 무대 데뷔",
+    "summary": "향수·화장품·생활용품 등의 향을 만드는 조향사는 전 세계에 수백 명밖에 없는 희소 전문 직군으로, 향료에 대한 전문 지식과 감각을 함께 갖춰야 해 1명을 키우는 데 수년간의 교육과 투자가 필요한 것으로 알려져...",
+    "link": "https://n.news.naver.com/mnews/article/021/0002808323?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:59:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "캣츠아이, ‘야생미’ 제대로 깨웠다…파격 비주얼 ‘WILD’",
+    "summary": "짙은 아이섀도와 푸른빛·금빛·붉은빛의 컬러 렌즈가 비현실적인 분위기를 자아내며, 여러 원색이 불규칙하게 뒤섞인 멀티컬러 헤어와 과감한 블루·블랙 립 메이크업이 낯설면서도 매혹적인 비주얼을...",
+    "link": "https://m.entertain.naver.com/article/609/0001152102",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:54:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국법인 무석콜마, 식약처 해외 첫 '우수화장품 제조·품질관...",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 각각 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 무석콜마의 인정을 계기로 국내 생산시설에서 운영해 온 제조·품질관리 기준을 해외 생산기지로...",
+    "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318179",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:48:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국 무석 공장, 식약처 우수 제조시설 인정",
+    "summary": "앞서 한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합 업소로 지정됐다. 이번 무석콜마의 CGMP 인정으로 창립 이후 36년간 축적해 온 제조·품질관리 역량을 해외 생산기지까지...",
+    "link": "https://n.news.naver.com/mnews/article/008/0005393910?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:36:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "화성시, 공공예식장 3곳 무료대관…예식비 200만원 지원",
+    "summary": "도시락·한상차림·뷔페 등 음식구성과 꽃장식, 스튜디오촬영·드레스대여·메이크업 등에서 가격을 달리했다. 이희정 화성시 성평등가족국장은 \"공공 예식장이 과도한 결혼 비용으로 고민하는 예비부부에게 실질적인...",
+    "link": "https://n.news.naver.com/mnews/article/003/0014100746?sid=102",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:33:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "글루타넥스, ‘2026 한국의 소비자대상’ 3년 연속 대상…브랜드 경쟁력...",
+    "summary": "프리미엄 코스메슈티컬 브랜드다. 순도 99% 이상의 글루타치온을 중심으로 한 독자적인 ‘Glow Science’를... 홈쇼핑 시장에서의 연이은 성과와 주요 채널 확대를 기반으로 국내 프리미엄 코스메슈티컬 시장에서의 입지를...",
+    "link": "https://n.news.naver.com/mnews/article/144/0001129210?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:32:00 +0900",
+    "matched_keyword": "코스메슈티컬",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[똑똑한케어] 에뛰드, 프롬랩스, 유니레버, 아모레퍼시픽",
+    "summary": "◇ 에뛰드 '더블 래스팅 커버 톡 컨실 팟' 출시 글로벌 메이크업 브랜드 에뛰드가 '더블 래스팅 파운데이션... 피부 메이크업을 원하는 소비자들에게 훌륭한 선택지가 될 것으로 기대한다\"고 전했다. ◇ 프롬랩스, 브랜드...",
+    "link": "https://www.ekn.kr/web/view.php?key=20260731029348228",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:30:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'옥장판 재점화' 옥주현, 김호영 침묵에도 여유로운 근황 [★해시태그]",
+    "summary": "수수한 메이크업과 옷차림으로 외출에 나선 옥주현의 모습이 눈길을 끌었다. 한편, 옥주현은 최근 지난 2022년 발생한 '옥장판 논란'을 다시 언급하며 김호영의 해명과 사과를 요구했다. '옥장판 논란'은 지난 2022년 뮤지컬...",
+    "link": "https://m.entertain.naver.com/article/311/0002040051",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:30:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "품질 인증·인재 육성·북미 성장, 뷰티 산업의 삼각 공세",
+    "summary": "국내에서는 설화수와 헤라가 럭셔리 스킨케어·메이크업 시장 입지를 강화했고, 에스트라와 일리윤 등 더마 브랜드도 고성장했다. 해외 사업은 미주, EMEA, 일본 등 핵심 시장에서 성장했다. 미국·유럽 아마존...",
+    "link": "https://www.pressman.kr/news/articleView.html?idxno=102971",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:26:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "폭염 속 소비 전선, 커버력·냉감·러닝이 떴다",
+    "summary": "메이크업은 오래가되 가벼워야 하고, 패션은 시원하면서도 실용적이어야 한다. 러닝 인구가 늘며 스포츠... 코스맥스는 여름 메이크업 시장을 겨냥해 젤리 제형 제품군과 '안묻립' 기술을 강화했다. 패션·뷰티...",
+    "link": "https://www.pressman.kr/news/articleView.html?idxno=102972",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:26:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "수술 없이 환해지는 눈매 위한 '벨루티 리프팅' 이란",
+    "summary": "시술 시간은 약 10분 내외로 짧고, 시술 후 멍이나 부기가 거의 없어 바로 일상생활이나 메이크업이 가능한 점도 특징이다. 이 때문에 중요한 일정이나 면접을 앞둔 사람들에게 '런치타임 눈가 케어'로 관심을 받고 있다....",
+    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132736",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:24:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이혼설엔 입 꾹 닫았는데…28기 영자, 침묵 속 전한 근황 \"나솔 엊그제 ...",
+    "summary": "영자는 지난 30일 자신의 SNS를 통해 \"촬영 왔어요!\"라는 글과 함께 메이크업을 마친 뒤 찍은 거울 셀카를 공개했다. 사진 속 영자는 흰색 민소매 상의와 검은색 팬츠를 착용한 편안한 차림으로 거울 앞에 쪼그려 앉아...",
+    "link": "https://m.entertain.naver.com/article/312/0000769988",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:18:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국 생산기지 식약처의 '우수화장품 제조·품질관리 시설' 인...",
+    "summary": "2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 무석콜마의 CGMP 동등 인정으로 창립 이후 36년간 축적해온 제조·품질관리 역량을 해외 생산기지까지 확장해...",
+    "link": "https://www.huffingtonpost.kr/article/259158",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:16:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[행정家] 한국소비자원 ⑤ㅣ 안전·분쟁 경고음…아동용품 유해물질부터...",
+    "summary": "스튜디오·드레스·메이크업 패키지 상품의 가격 정보를 사전에 알지 못해 추가 비용을 부담하는 사례가... 특히 결혼 준비 대행업자가 스튜디오·드레스·메이크업 사업자 등 제휴 업체를 연결하는 경우, 제휴...",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=593500",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "패키지"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국공장, 식약처 해외 첫 우수 제조시설 인증",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 한국콜마 관계자는 \"이번 무석콜마의 CGMP 동등 인정은 한국콜마가 식약처의 국내 첫 CGMP 기업으로 지정된...",
+    "link": "https://n.news.naver.com/mnews/article/001/0016226588?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:11:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "달바글로벌, 쿠오카스킨 96억 투자…콜옵션 행사로 경영권 쥘까",
+    "summary": "국내 향수·뷰티 브랜드 쿠오카스킨 주식 33.6%를 확보했다. 3년 뒤 잔여 지분을 사들일 수 있는 콜옵션을... 31일 금융감독원 전자공시시스템에 따르면 달바글로벌(달바)은 향수·뷰티 브랜드 쿠오카스킨 주식...",
+    "link": "https://www.topdaily.kr/articles/111219",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:10:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 인도 청년 역량 강화 나서…뷰티 아카데미 개설",
+    "summary": "설계하는 출발점이 되기를 기대한다\"고 전했다. 아모레퍼시픽은 올해 국내에서 고용노동부 '청년 일경험 지원사업' 일환으로 메이크업 아티스트 및 쇼호스트를 양성하는 '밋유어뷰티 아카데미'를 운영하고 있다.",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473220",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "“여름에 더 예뻐진 비결?”…스페인서 난리 난 블랙핑크 제니, ‘이 메...",
+    "summary": "또 라벤더‧퍼플 계열 메이크업으로 몽환적인 눈매를 연출했다. 차가운 라벤더 빛 색조가 여름밤 페스티벌... 온라인에서도 \"인어공주 같다\" \"헤메코(헤어·메이크업·코디) 리즈 갱신\" \"새로운 인어의 탄생\" 등 반응이...",
+    "link": "https://n.news.naver.com/mnews/article/296/0000103173?sid=103",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김병현 사과 영상 본 김영광의 반응… “형님 왜 그러셨어요, 안타까웠...",
+    "summary": "김영광은 \"알고 보니 병현이 형과 내가 항상 같은 미용실에서 바로 옆자리에 앉아 헤어·메이크업을 받더라\"라는 사실을 밝혀 웃음을 자아냈다. 그러면서 \"다음에 형님 오시면 내가 직접 머리를 감겨 드리면서 '형님 왜...",
+    "link": "https://m.sports.naver.com/kfootball/article/445/0000443593",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 11:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 해외 첫 CGMP 동등 인정…한국콜마 글로벌 생산 경...",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 식약처의 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 무석콜마의 CGMP 동등 인정으로 국내에서...",
+    "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=33529",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:56:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국법인 무석콜마, 식약처 첫 해외 CGMP 동등 인정",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 무석콜마의 CGMP 동등 인정을 계기로 국내에서 축적한...",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1397531",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:54:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 이 정도면 망사+레이스 '란제리룩' 가장 잘 어울리는 연예인",
+    "summary": "화려한 헤어 스타일링과 진한 메이크업으로 포인트를 주기도 했다. 무대 의상인 만큼 과감한 노출을 선택하면서 제니 특유의 카리스마와 당당한 자신감을 드러냈다. 망사 소재의 의상으로 파격적인 스타일링을...",
+    "link": "https://m.entertain.naver.com/article/109/0005581302",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:53:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘뷰티 클리닉 터치미’ 콜라겐 장벽 복원 솔루션",
+    "summary": "‘뷰티 클리닉 터치미’ 콜라겐 장벽 복원 솔루션 (제공: 채널A) ‘뷰티 클리닉 터치미’에 배우 곽진영이 출연해 갱년기로 인한 콜라겐 은퇴와 바쁜 일상으로 상한 피부를 되살리기 위해 4주간의 맞춤형 3단계 솔루션에...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310105",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:48:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中 생산기지, 해외 최초 식약처 제조·품질관리 체계 인정",
+    "summary": "한국콜마는 국내 최초 화장품 제조자개발생산(ODM) 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 한국콜마 관계자는 \"앞으로도 글로벌 전 생산거점에 일관된...",
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=298608",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:48:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제이비케이랩, 사명 '셀메드'로 변경…헬스케어 전문성 강화",
+    "summary": "브랜드 '펫메드', 스킨부스터와 모발부스터를 중심으로 한 뷰티 디바이스 브랜드 등을 아우르며 프리미엄 소비자 헬스케어 사업을 확대해 나갈 계획이다. 각 사업을 개별 브랜드로 운영하기보다 '셀메드'를 중심으로...",
+    "link": "https://www.dailypharm.com/user/news/341020?REFERER=NP",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:46:00 +0900",
+    "matched_keyword": "스킨부스터",
+    "topic": "main",
+    "categories": [
+      "원료",
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[기업들] 기술 고도화 및 이종 산업 제휴로 시장 공략 가속",
+    "summary": "여름 메이크업 시장을 공략한다. 코스맥스는 립밤, 블러셔, 미스트, 클렌저 등에 젤리 텍스처를 적용한 제품화를 완료했으며, 천연 유래 소재 '아가로스 겔 네트워크'를 적용한 '워터 페인팅 젤리 블러셔'로 '메이크업...",
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=101107",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[꼬꼬무 찐리뷰]\"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 ...",
+    "summary": "메이크업하는 사람이 나영 씨에게 \"신부님 제발 그만 좀 우세요. 지금 화장을 몇 번째 고치는지 모르겠어요\"라고 말해. 얼마나 눈물을 흘렸는지 벌써 화장을 스무 번 가까이 고쳤어. \"결혼식장에서는 '신랑님이 결혼식...",
+    "link": "https://m.entertain.naver.com/article/416/0000325395",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:45:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "결혼 준비하다 ‘추가금 폭탄’…가격 안 밝힌 웨딩업체 과태료 최대 1...",
+    "summary": "점검 대상은 예식장업과 스튜디오·드레스·메이크업 등을 묶어 제공하는 결혼준비대행업체다. 해당... 웨딩플래너 업체가 여러 스튜디오나 드레스숍, 메이크업 업체를 연결하는 경우에는 제휴 업체별 가격도 각각...",
+    "link": "https://www.thepowernews.co.kr/view.php?ud=202607311039578078de3f0aa1be_7",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:42:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "문가영, 새 프로필 공개 '여신 미모의 정석'",
+    "summary": "최소한의 메이크업과 절제된 연출은 인물 본연의 아름다움을 잘 나타낸다. 한편 문가영은 드라마 ‘그 남자의 기억법’, ‘여신강림’, ‘사랑의 이해’, ‘이로운 사기’, ‘그놈은 흑염룡’, ‘서초동’ 등 여러...",
+    "link": "https://m.entertain.naver.com/article/440/0000039204",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:42:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘뷰티 클리닉 터치미’ 배우 곽진영, 달라진 모습에 끝내 눈물…어머니...",
+    "summary": "곽진영의 피부 상태를 분석한 이종훈 터치 마스터가 짚어낸 문제는 갱년기로 인한 ‘콜라겐 은퇴’. 여기에... 과연 멈춰버린 곽진영의 ‘콜라겐 공장’을 되살리고 무너진 피부 장벽을 다시 세워준 맞춤형 솔루션의...",
+    "link": "https://m.entertain.naver.com/article/449/0000355033",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:41:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "글루타넥스, '2026 한국의 소비자대상' 3년 연속 대상 수상",
+    "summary": "글루타넥스는 ‘Find Your Glow’를 브랜드 메세지로 내세우고 피부 본연의 광채를 되찾는 솔루션을 제안하는 프리미엄 코스메슈티컬 브랜드다. 순도 99% 이상의 글루타치온을 중심으로 한 독자기술 ‘Glow Science’를...",
+    "link": "https://n.news.naver.com/mnews/article/015/0005315968?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:34:00 +0900",
+    "matched_keyword": "코스메슈티컬",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 중국 무석공장 식약처 CGMP 동등 인정...해외 생산공장 첫 사...",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 이번 무석콜마의 동등 인정으로 국내 생산시설에서 축적한 제조·품질관리 체계를 중국 생산거점까지...",
+    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104886",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:34:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 우수화장품 제조 시설 인정…해외 첫 사례",
+    "summary": "한국콜마는 국내 최초의 제조자개발생산(ODM : Original Development Manufacturing) 기업으로서, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 국내 화장품 제조·품질관리...",
+    "link": "http://www.apparelnews.co.kr/news/news_view/?idx=226623",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:34:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "2NE1 산다라박, 청순 벗고 시크 입어-파격 메이크업",
+    "summary": "횡단보도 앞에서 촬영된 사진 속 산다라박은 짙은 아이 메이크업과 시크한 표정으로 카메라를 응시하며 기존의 귀엽고 청량한 이미지를 완전히 뒤집었다. 몽환적이면서도 도회적인 분위기, 강렬한 눈빛과 세련된...",
+    "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=85151",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:28:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 해외 생산기지 첫 식약처 검증…中 무석공장 CGMP 인정",
+    "summary": "한국콜마는 국내 최초의 화장품 제조자개발생산(ODM) 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 인정으로 국내에서 구축한 제조·품질관리 체계를 해외...",
+    "link": "https://n.news.naver.com/mnews/article/011/0004647249?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:28:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 해외 첫 우수화장품 제조·품질관리 시설 인정",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 각각 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 이번 인정으로 국내 사업장에서 축적한 제조·품질관리 체계를 해외 생산기지에도 동일하게...",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391511",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:26:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "본느 주가, 상한가... 어떤 회사길래?",
+    "summary": "기초화장품과 색조화장품, 헤어·바디케어 제품 등을 국내외 브랜드에 공급하고 있으며, 자체 브랜드 사업도 함께 전개하고 있다. 동사는 제품 기획부터 연구·개발, 생산까지 가능한 ODM·OEM 체계를 갖추고 있으며...",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172546",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:24:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "K뷰티 '투톱', 글로벌서 웃었다···더마·헤어케어 쌍끌이",
+    "summary": "업계에서는 양사의 이번 실적이 중국 의존도를 낮추고 북미·유럽·일본 등으로 성장축을 다변화하는 동시에 더마코스메틱과 헤어케어 등 기능성 카테고리 경쟁력을 강화한 전략이 본격적으로 성과를 내기 시작한...",
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454472",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:23:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 미국·유럽 성장세 힘입어 2분기 실적 날았다",
+    "summary": "설화수와 헤라는 시장 점유율을 더욱 확대하며 각각 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장 1위 브랜드 입지를 더욱 공고히 했고, 에스트라와 일리윤 등 더마 브랜드는 고성장을 이어가며 더마 카테고리...",
+    "link": "http://www.apparelnews.co.kr/news/news_view/?idx=226622",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:22:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[르포] 피부 진단부터 로봇 제조까지…아모레용산의 '맞춤 뷰티'",
+    "summary": "◆13개 문진 거치면 20분 만에 맞춤 세럼 메이크업뿐 아니라 헤어 제품도 개인 취향에 맞춰 만들 수 있다. 미쟝센 '퍼펙트 세럼 비스포크'는 모발 굵기와 손상 정도, 평소 관리 습관 등을 묻는 13개 문항으로 시작한다....",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=742235",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:18:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 과감한 망사 시스루 완벽…99년도 빈티지 드레스 눈길",
+    "summary": "사진 속 제니는 진한 스모키 메이크업에 과감한 드레스를 입고 고딕 로맨틱 분위기를 연출했다. 제니는 레이스 디테일이 들어간 망사 시스루 팬츠를 입은 채 군살 없는 슬림한 몸매를 드러냈다. 그는 옷의 디테일이...",
+    "link": "https://m.entertain.naver.com/article/003/0014100451",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:18:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[비즈톡톡] 40도 폭염에… 집에서 삼계탕 먹고, 밖에선 선스틱 덧바르고",
+    "summary": "올리브영의 메이크업 픽서(화장을 밀착, 고정해주는 제품) 매출은 전년 동기 대비 864% 급증했고... 픽서로 메이크업 고정력을 높이는 제품 수요도 늘고 있다”고 말했다. 외출 후 열기를 식히는 제품도 함께 팔렸다....",
+    "link": "https://n.news.naver.com/mnews/article/366/0001183404?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:17:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 \"中 생산기지, 식약처 우수화장품 제조시설 인정\"",
+    "summary": "앞서 한국콜마는 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 한국콜마 관계자는 \"이번 무석콜마의 CGMP 동등 인정은 그동안 제조, 품질관리 노하우를 꾸준히...",
+    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123687",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:16:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "EXOBIO(엑소바이오), 영국·유럽 시장 진출 본격화하며 DACH 지역까지 확...",
+    "summary": "K-뷰티가 글로벌 화장품 수출 세계 2위에 오른 가운데, 국내 더마코스메틱 브랜드 ㈜큐어템바이오는 자사의 대표 브랜드 EXOBIO(엑소바이오)가 영국 및 유럽 시장 진출을 위한 필수 인증을 획득하고 본격적인...",
+    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222605",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:14:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "결혼서비스 가격 숨기면… 최대 1억 과태료 폭탄",
+    "summary": "그간 예비부부들은 대관료나 식비뿐만 아니라 스튜디오, 드레스, 메이크업 등 패키지 가격을 사전에 제대로 알지 못해 불필요한 추가 지출을 강요받는 피해를 겪어왔다. 이에 당국은 시장의 오랜 불공정 관행을 바로잡기...",
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20260731010009432",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:10:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "패키지"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "쿠웨이트 코리아타운, K-뷰티 브랜드 티르티르(TirTir) 공식 입점 기념 ...",
+    "summary": "테스트하며 메이크업 및 스킨케어 제품을 체험했다. 코리아타운은 쿠웨이트에서 처음으로 티르티르의 전... 등 메이크업 및 스킨케어 컬렉션을 함께 운영하고 있다. 이번 인스토어 이벤트는 단순한 제품 판매를 넘어...",
+    "link": "https://n.news.naver.com/mnews/article/081/0003666437?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:08:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "다큐멘터리 '드림메이커' 베일 벗었다…현장 빛낸 신인 배우 정다겸의 ...",
+    "summary": "출연진은 물론 스태프들의 메이크업을 직접 챙기는 등 촬영이 원활하게 진행될 수 있도록 지원하며 현장의 숨은 조력자로 활약했다. 한편, '드림메이커'는 이달 30일부터 OTT와 IPTV 플랫폼을 통해 공개됐다.",
+    "link": "https://idsn.co.kr/news/view/1065595749671100",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 무석공장, 식약처 첫 해외 CGMP 인정…글로벌 품질관리 체계 ...",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이후 국내에서 축적한 생산 기술과 품질관리 노하우를 해외 생산거점에도...",
+    "link": "https://www.seoultimes.news/news/article.html?no=2000098341",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:05:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 보스턴 뒤흔든 파격 란제리...'시스루+코르셋' 고혹미 절정",
+    "summary": "특히 자연스럽게 웨이브를 넣은 긴 헤어와 은은한 메이크업으로 몽환적인 무드를 더했고, 공연장 대기실과 호텔 욕실에서 촬영한 거울 셀카, 백스테이지 비하인드 컷까지 공개하며 팬들의 시선을 사로잡았다. 과감한...",
+    "link": "https://m.entertain.naver.com/article/076/0004431282",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:04:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 인도서 '밋유어뷰티 아카데미' 출범",
+    "summary": "교육 내용은 단순한 메이크업 기술에 그치지 않고 디지털 시대에 필수적인 실무 역량을 포괄한다. 참가자들은 콘텐츠 기획부터 촬영·편집, 온라인 커뮤니케이션, 개인 포트폴리오 구축 등 실제 취업과 창업에 필요한...",
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273916",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'박수홍♥' 김다예, 1세 딸 재이도 돈 잘 버는데…엄마까지 쉬지 않네",
+    "summary": "흰색 블라우스에 긴 생머리를 늘어뜨린 그는 옅은 메이크업으로 단정한 분위기를 연출했다. 특히 박수홍, 김다예 부부의 딸 재이 양은 생후 13개월 만에 17개의 광고를 촬영하고, 1세부터 종합소득세 납부 대상자가 되는...",
+    "link": "https://m.entertain.naver.com/article/117/0004090405",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "마케팅"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"신뢰는 성분에서 온다\"… 21세 중국 대학생이 말하는 화장품 선택 기준",
+    "summary": "메이크업도 조명 아래뿐 아니라 일상에서도 자연스럽게 유지되는 제품이 필요하다고 생각해요.\" Q. 중국 화장품 시장의 미래는 어떻게 보시나요? \"앞으로는 시장이 더 세분화될 것이라고 생각해요. 요즘 소비자들은...",
+    "link": "https://www.thebk.co.kr/news/articleView.html?idxno=309970",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "유한킴벌리, UNCCD COP17 참가…몽골 숲 복원 성과로 글로벌 산림협력 알...",
+    "summary": "최근 그린핑거는 '판테딘 멀티 스틱밤'을 출시하며 스키니멀리즘 트렌드를 반영한 더마 스킨케어 라인업을 확대했고, '판테딘 튼살 크림'은 '2026 상반기 화해 어워드' 임산부케어 부문 1위에 선정되며 제품 경쟁력을...",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356789",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 10:00:00 +0900",
+    "matched_keyword": "더마 스킨케어",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 CGMP 동등 인정…국내 제조업 최초 해외공장 쾌거",
+    "summary": "한국콜마는 국내 최초로 제조자개발생산(ODM) 방식을 도입한 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 이로써 국내 화장품 제조·품질관리 체계를...",
+    "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1902",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:58:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中 생산기지, 해외 최초 식약처 제조·품질관리 체계 인정",
+    "summary": "한국콜마는 국내 최초 화장품 제조자개발생산(ODM) 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 한국콜마 관계자는 \"앞으로도 글로벌 전 생산거점에 일관된...",
+    "link": "https://n.news.naver.com/mnews/article/003/0014100381?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:52:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'업무협약 후 기념촬영하는 VBBC 회장 NGUYEN NGOC HUY-KPMACEA 안미려 회...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다. Vietnam Beauty Business Association 회장 NGUYEN NGOC HUY, 한국메이크업전문가직업교류협회 안미려 회장이 기념촬영을 하고 있다....",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310123",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:40:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국공장, 식약처 CGMP 첫 해외 인정…품질 경쟁력 입증",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 회사는 이번 인증을 계기로 국내에서 축적한 제조·품질관리 역량을...",
+    "link": "https://n.news.naver.com/mnews/article/277/0005797199?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:40:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 중국 공장 식약처 CGMP 인정…\"K뷰티 품질 기준 해외로\"",
+    "summary": "한국콜마는 국내 최초 ODM 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 무석콜마의 인정은 국내 생산기지에서 구축한 제조·품질관리 시스템을 해외...",
+    "link": "https://www.handmk.com/news/articleView.html?idxno=41802",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:38:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'업무협약 마치고 기념촬영하는 AMFOC 양의식 회장-VBBC NGUYEN NGOC HUY'(아...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310121",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:36:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제니, 파격 란제리룩에 과감한 시스루…아찔한 스타일링 [★한컷]",
+    "summary": "풍성한 웨이브 헤어스타일에 음영 메이크업을 더한 제니는 입술을 살짝 내밀거나 그윽한 시선으로 카메라를 응시하며 당당하고 관능적인 매력을 자아냈다. 한편 제니는 미국 '롤라팔루자 시카고'(Lollapalooza...",
+    "link": "https://m.entertain.naver.com/article/440/0000039197",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "캣츠아이, 이런 모습 처음… ‘WILD’ 콘셉트 포토 공개",
+    "summary": "아이 메이크업과 컬러 렌즈, 개성 넘치는 멀티컬러 헤어로 시선을 사로잡았다. 여기에 블루와 블랙 립 메이크업, 스터드와 코르셋, 레이스 등 다양한 소재를 조합한 스타일링이 더해져 독특한 분위기를 완성했다. 서로...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310106",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:32:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "정웅인 딸, 미술 전공인데 아이돌 뺨치는 외모…미성년자에 벌써 '완성...",
+    "summary": "머리 위에 선글라스를 장착하는 등 멋을 낸 그는 메이크업으로 고양이 눈매를 완성해 눈길을 끌었다. 소윤 양은 앞서 사진작가의 유튜브 채널 '자까다'에 등장했다. 당시 제작진으로부터 \"배우가 될 상이다\", \"진짜 배우...",
+    "link": "https://m.entertain.naver.com/article/312/0000769963",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:31:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 해외 첫 우수화장품 제조·품질관리 시설 인정",
+    "summary": "한국콜마는 국내 최초의 제조자개발생산(ODM : Original Development Manufacturing) 기업으로서, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 국내 화장품 제조·품질관리...",
+    "link": "https://n.news.naver.com/mnews/article/215/0001260649?sid=103",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:27:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마 식약처 첫 해외 CGMP 인정…글로벌 품질관리 시스템 경쟁력...",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정되며 국내 화장품 제조 품질관리 체계의 선도 기업으로 자리매김했다. 36년간 축적한 제조기술과 품질관리 노하우를 해외...",
+    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132720",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:24:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中 무석공장, 국내기업 해외 생산기지 첫 'CGMP 동등 인정'",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장을 국내 1·2호 CGMP 적합업소로 지정받았다. 이번 무석콜마의 동등 수준 인정으로 국내에서 구축한 제조·품질관리 체계를 해외 생산기지에서도...",
+    "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100039.html",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:24:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "또 속옷만 입었네…'망사 스타킹→수영복' 캣츠아이, 파격 스타일링",
+    "summary": "짙은 아이 메이크업과 푸른색·금색·붉은색 컬러 렌즈, 멀티컬러 헤어, 블루와 블랙 계열 립 메이크업을 활용해 독특한 분위기를 연출했다. 스타일링도 눈길을 끈다. 그간 파격적인 스타일링으로 화제가 됐던...",
+    "link": "https://m.entertain.naver.com/article/312/0000769958",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:23:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 중국법인 식약처 'CGMP' 획득…\"글로벌 품질 입증\"",
+    "summary": "한국콜마는 국내 최초 화장품 제조자개발생산(ODM) 기업으로, 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 업소로 지정됐다. 이번 무석콜마의 CGMP 인정으로 해외 생산기지까지 글로벌 품질...",
+    "link": "https://n.news.naver.com/mnews/article/629/0000520634?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:22:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 중국법인 무석콜마, 식약처 해외 공장 최초 'CGMP 동등' 인정",
+    "summary": "한국콜마는 지난 2011년 세종 기초화장품 공장과 부천 색조화장품 공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 한국콜마 관계자는 \"이번 무석콜마의 CGMP 동등 인정은 한국콜마가 식약처의 국내 첫 CGMP 기업으로...",
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=128282",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:22:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "캣츠아이, \"본능을 깨운 듯\"…세 번째 EP 'WILD' 발매 예고",
+    "summary": "짙은 아이섀도와 푸른빛·금빛·붉은빛 컬러 렌즈가 더해져 비현실적인 무드를 만들고, 여러 원색이 뒤섞인 멀티컬러 헤어와 블루·블랙 계열 립 메이크업이 낯선 인상을 형성한다. 스타일링에서는 서로 다른...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150631",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:20:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마 中무석공장, 국내 첫 해외 CGMP 인정",
+    "summary": "한국콜마는 국내 최초 화장품 ODM 기업으로, 지난 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정됐다. 이번 무석콜마의 동등 인정으로 국내에서 구축한 제조·품질관리 체계를...",
+    "link": "http://www.finomy.com/news/articleView.html?idxno=258391",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:18:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "한국콜마, 中 무석콜마 식약처 CGMP 동등 인정…해외 생산기지 첫 사례",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 한국콜마 관계자는 \"이번 무석콜마의 CGMP 동등 인정은 한국콜마가 식약처의 국내 첫 CGMP 기업으로...",
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=224233",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:18:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "中 무석콜마, 식약처 해외 첫 우수화장품 제조·품질관리 시설 인정",
+    "summary": "한국콜마는 2011년 세종 기초화장품공장과 부천 색조화장품공장이 국내 1·2호 CGMP 적합업소로 지정된 바 있다. 이번 무석콜마의 동등 인정으로 국내에서 축적한 제조·품질관리 체계를 해외 생산기지로 확대한 셈이다....",
+    "link": "https://www.viva100.com/article/20260731500058",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:16:00 +0900",
+    "matched_keyword": "색조화장품",
+    "topic": "sub",
+    "categories": [
+      "규제"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽, 인도서 첫 글로벌 '밋유어뷰티 아카데미' 출범",
+    "summary": "설계하는 출발점이 되기를 기대한다\"고 전했다. 아모레퍼시픽은 올해 국내에서 고용노동부 '청년 일경험 지원사업' 일환으로 메이크업 아티스트 및 쇼호스트를 양성하는 '밋유어뷰티 아카데미'를 운영하고 있다.",
+    "link": "https://n.news.naver.com/mnews/article/421/0009089829?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:14:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "캣츠아이, EP 3집 '와일드' 콘셉트 포토·트랙리스트 공개",
+    "summary": "'Wild heart'라는 제목의 콘셉트 포토에는 짙은 아이섀도와 푸른빛·금빛·붉은빛 컬러 렌즈, 원색을 불규칙하게 섞은 멀티컬러 헤어, 블루·블랙 립 메이크업을 활용한 멤버들의 변신이 담겼다. 스타일링에는...",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=755564",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "▲ 2026 동홍아트데이 참여형 공연 시리즈 3회차 알림",
+    "summary": "5.(수) 18:00~20:00 □ 공연장소 : 동홍아트홀(동홍동주민센터 2층) □ 공연대상 : 어린이 동반 가족 및 지역 주민 등 □ 공연내용 : 셀프 메이크업, 나만의 쿠키 만들기, 참여형 비보잉 연극 공연, 리듬을 활용한...",
+    "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321017",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:08:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "사임당화장품제조, 인도네시아 할랄인증 16개 품목 확보…ODM·OEM 경쟁력...",
+    "summary": "이번에 인증을 획득한 제품은 히알루론산 성분의 'LISIL 하이알테놀', 나이아신아마이드 기반의 'LISIL 스노우나이아신', 트러블 케어 라인 'LISIL AC-티트리', 홍삼 성분을 적용한 '다임(Daim) 레드진생 골드 너리싱' 등 총...",
+    "link": "http://www.e2news.com/news/articleView.html?idxno=332823",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 09:00:00 +0900",
+    "matched_keyword": "나이아신아마이드",
+    "topic": "main",
+    "categories": [
+      "원료",
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "황정음, 복귀 후 확 달라진 비주얼…16년 전 긴 머리 소환 \"어색했지만...",
+    "summary": "공개된 사진 속 황정음은 허리까지 내려오는 긴 생머리에 짙은 아이 메이크업을 더해 강렬한 분위기를 자아냈다. 특히 2010년 방송된 SBS 드라마 '자이언트'에서 연기한 이미주를 연상케 하는 스타일링으로 팬들의 추억을...",
+    "link": "https://m.entertain.naver.com/article/311/0002039988",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:59:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "미자, 살이 좀 올랐나…볼살은 통통한데 드레스는 잘 들어가네",
+    "summary": "이전보다 얼굴에 자연스러운 볼륨감이 더해지면서 건강미가 느껴졌고, 환한 피부와 편안한 미소가 어우러져 한층 밝은 인상을 완성했다. 과하지 않은 메이크업 역시 미자의 단아한 매력을 더욱 돋보이게 했다.",
+    "link": "https://m.entertain.naver.com/article/312/0000769949",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:54:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "비긴스 바이 정샘물, 성수서 TWS 팬밋업 개최",
+    "summary": "100% 당첨 럭키 드로우를 통해 메이크업 컨설팅 이용권 등 다양한 혜택도 제공했다. 본 행사에는 TWS 멤버 신유, 도훈, 영재, 한진, 지훈, 경민이 참석했다. 멤버들은 팬들에게 스킨케어 제품, 립 오일, 쿠키, 꽃을...",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=853593",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:52:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "현대홈쇼핑 코아시스, 도심 벗어나 제주 우도서 뷰티 팝업",
+    "summary": "현대홈쇼핑은 팝업 매장을 방문하는 모든 고객에게 '세인트프랑 로얄 레드 콜라겐 겔 마스크'(1매)를 증정하고, 3만원 이상 구매 고객에게는 우도 레터링이 들어간 리유저블백을 제공한다. 현대홈쇼핑의 뷰티 편집숍...",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=746703",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:48:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘헤라 vs 닥터자르트’ 선두 경쟁…K-브랜드지수 화장품 부문 TOP10",
+    "summary": "역시 더마코스메틱 대표 주자로서 입지를 공고히 하고 있다”고 평가했다. 이어 “기능성 중심의 소비 확산으로 에뛰드와 티르티르가 새롭게 순위권에 진입한 반면, 라네즈와 마녀공장의 이탈이 눈에 띈다”며...",
+    "link": "https://www.sentv.co.kr/article/view/sentv202607300178",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:44:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아모레퍼시픽그룹, 2분기 영업익 53%↑…글로벌 사업 순항",
+    "summary": "설화수와 헤라는 각각 국내 럭셔리 스킨케어와 럭셔리 메이크업 시장에서 선두 입지를 강화했으며, 에스트라와 일리윤은 더마 브랜드 성장세를 이어갔다. 라네즈와 마몽드, 미쟝센, 라보에이치, 오설록 등 주요...",
+    "link": "https://www.socialvalue.kr/news/view/1065569899896258",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:40:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "신세계인터, 리브랜딩 '비디비치' 쥐고 中 영토 확장 잰걸음",
+    "summary": "특히 블랙쿠션 등 베이스 메이크업 중심으로 영토 확장에 고삐를 죈다. 31일 이 회사에 따르면... 이 회사는 클렌징 성공을 기반으로 베이스 메이크업 시장을 본격 공략한다. 화장품 사업의 모태이자 핵심인 비디비치...",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046481",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:36:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "선미, 따라올자 누구인가? 신곡 'Forever July'로 증명한 '원조 썸머퀸'의...",
+    "summary": "이날 선미는 금발 긴 웨이브 헤어와 화려한 메이크업, 세련되면서도 섹시한 스타일링으로 완벽한 비주얼을 뽐냈다. 지난 2018년 '가시나'와 '주인공' 무대로 레전드 무대를 남겼던 그는 이번 공연을 통해서도 '원조...",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=593440",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:34:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "코스맥스, '젤리 텍스처·안묻립'으로 여름 메이크업 선점 나선다",
+    "summary": "여름 메이크업 시장 공략에 속도를 내고 있다. 코스맥스는 30일 최근 패션·뷰티 업계에서 부상한 '젤리... 스킨케어와 메이크업을 결합한 '스킨케어링 메이크업' 흐름과 맞물린다는 설명이다. 현재 코스맥스는 립밤...",
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62245",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:32:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이리온, \"가상 그룹에서 현실 무대까지\"…음방·글로벌 콘텐츠 동시 행...",
+    "summary": "뷰티 콘텐츠에서는 함경식 메이크업 아티스트가 참여했다. 함경식 원장은 유튜브 콘텐츠를 통해 멕시코 출신 멤버 아이사(AISA)를 위한 '네오 서울 메이크업'을 선보이며 여배우를 연상시키는 비주얼을 강조했다....",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150580",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:30:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "황정음, \"횡령 전까진 '캐스팅 0순위'→오디션도 안 봐\"…과거 회상하다...",
+    "summary": "해당 영상에서 황정음은 데뷔 후 큰 사랑을 받았던 대표작 속 캐릭터들의 메이크업과 스타일링을 그대로... 특히 2015년 방영된 '킬미힐미' 오리진 역 메이크업을 받던 중 황정음은 \"2015년에만 두 작품을 했다. '킬미힐미'가...",
+    "link": "https://m.entertain.naver.com/article/213/0001396235",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:21:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "황정음, '자이언트' 미주 비주얼 재현…긴 머리로 근황 공개",
+    "summary": "짙은 색 민소매 상의와 심플한 목걸이로 전체적인 톤을 맞추며, 메이크업과 헤어에 힘을 준 화보 콘셉트의... 황정음은 작품마다 캐릭터에 맞춘 의상과 메이크업을 세밀하게 연구하는 배우로도 알려져 있다. '지붕뚫고...",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150557",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:16:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "Part 1. 23살 얼루어가 픽한 아이코닉 키워드 23",
+    "summary": "02_Cushion Revolution 2008년 쿠션 파운데이션의 등장은 베이스 메이크업의 판도를 완전히 뒤집었다. 흐르는 액체 형태인 리퀴드 타입 파운데이션을 스펀지에 머금게 해 언제 어디서든 톡톡 두드려 메이크업이 가능하도록...",
+    "link": "https://www.allurekorea.com/2026/07/31/part-1-23%ec%82%b4-%ec%96%bc%eb%a3%a8%ec%96%b4%ea%b0%80-%ed%94%bd%ed%95%9c-%ec%95%84%ec%9d%b4%ec%bd%94%eb%8b%89-%ed%82%a4%ec%9b%8c%eb%93%9c-23/?utm_source=naver&utm_medium=partnership",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 08:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "여름 무더위에서 내 피부를 구해줄 쿨링 뷰티템",
+    "summary": "미세한 안개 분사로 메이크업 위에 뿌려도 ‘메베’가 밀리거나 무너짐 없는 쉐이킹 시너지 미스트, 슬러시 쿨링, 2만2천원, Fwee. 5 가렵고 찝찝했던 정수리에 뿌리면 상큼한 오렌지 향이 올라와 쾌적하다....",
+    "link": "https://www.elle.co.kr/article/1906737",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 07:46:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[비즈&플러스] K뷰티 북미 넘어 유럽으로‥삼성·LG도 집 판다",
+    "summary": "[줄리아] \"메이크업과 스킨케어 모두 마음에 들고 제품력이나 제형도 정말 마음에 들어요.\" [프랜] \"K뷰티는 선택의 폭이 훨씬 넓은 것 같아요. 서양 뷰티 제품은 선택지가 비교적 제한적인 편이거든요.\" 입점한 4백여 개...",
+    "link": "https://n.news.naver.com/mnews/article/214/0001515073?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 07:39:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[현장] “21호도 23호도 아니었다”…AI가 찾아준 ‘내 피부’ 맞춤 파운...",
+    "summary": "추천받은 색상을 얼굴과 목선까지 연결해 발라본 뒤 피부 표현과 평소 메이크업 취향 등을 고려해 전문가가... AI 피부 분석에 전문가 상담을 더해 개인의 피부톤과 메이크업 취향에 맞는 색상을 제안해준다....",
+    "link": "https://n.news.naver.com/mnews/article/119/0003116803?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 07:31:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "칠레로 향하는 '조선미녀'…韓 스킨케어 인기에 수출 '청신호'",
+    "summary": "메디큐브도 콜라겐·피디알엔(PDRN) 성분 화장품과 피부관리기기 '에이지알 부스터 프로'를 중심으로 디비에스와 소코박스에서 취급 품목을 확대하고 있다. 1966년 설립된 칠레 미용·헤어 전문 유통기업 피차라는 약...",
+    "link": "https://n.news.naver.com/mnews/article/421/0009089568?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 06:08:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [
+      "메디큐브"
+    ],
+    "is_overseas": false
+  },
+  {
+    "title": "[영상] 상처엔 후시딘, 피부엔?…동화약품, 화장품 신흥 강자 도약 '시동...",
+    "summary": "대표 제품인 스킨부스터 크림마스크는 특수 우레탄 코팅 시트를 적용해, 단 1장(15분) 사용만으로 손상된 피부 장벽을 2.7배 개선하고 보습량을 66배 증가시키는 임상 효능을 입증했다.다이소 전용 '후시덤' 론칭...뷰티...",
+    "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=330491",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 06:02:00 +0900",
+    "matched_keyword": "스킨부스터",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[기자의 눈] 약국 화장품, 이번에도 시장만 키워줄 것인가",
+    "summary": "PDRN, EGF, 엑소좀 등 이른바 고기능성 성분을 앞세운 제품군이 빠르게 늘고 제약사와 유통업체도 잇따라 시장에 뛰어들고 있다. 일부 약국에서는 화장품이 일반의약품과 건강기능식품 못지않은 주요 매출 품목으로 자리...",
+    "link": "https://www.dailypharm.com/user/news/341004?REFERER=NP",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 06:02:00 +0900",
+    "matched_keyword": "엑소좀",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "역주행 제대로 터졌다…결국 넷플릭스 3위까지 오른 77만 '한국 영화' 정...",
+    "summary": "주연 신세경 역시 개봉 당시에는 시트콤 '거침없이 하이킥'의 청순한 이미지가 강했던 21살 배우였는데, 이 작품에서는 짧은 울프컷과 스모키 메이크업을 하고 냉정한 사격수로 완전히 다른 얼굴을 보여줬다. ■ 흥행은...",
+    "link": "https://www.wikitree.co.kr/articles/1149435",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 06:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "‘국민 첫사랑’ 한가인, ‘자유부인’으로 얻은 것과 잃은 것 [RE스타]",
+    "summary": "궁중 한복을 입고 경복궁을 찾거나 아이돌 메이크업을 받는 콘텐츠에서는 여전히 빛나는 외모와 스타성도 적극적으로 활용한다. 무엇을 얻고 잃었는지는 분명하다. 낯선 한가인의 모습이 반갑지 않을 수는 있다. 그러나...",
+    "link": "https://m.entertain.naver.com/article/241/0003522793",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 06:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "제약 기술력 탑재한 한미사이언스, K-뷰티 '게임 체인저' 야망",
+    "summary": "정제수 대신 콜라겐수를 기초로 삼고, 최근 재생 및 안티에이징 시장에서 유망 소재로 떠오른 블랙 PDRN을 함유해 강력한 리프팅과 탄력 개선 효과를 자랑한다. '서두르지 않는' 내실… K-뷰티 대를 잇는다...",
+    "link": "http://www.medisobizanews.com/news/articleView.html?idxno=140771",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 05:58:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "[창간특집] AI 맞춤형 상담부터 피부 모형 활용한 설명까지",
+    "summary": "바야흐로 약국화장품, 즉 더마코스메틱(Dermocosmetic) 시장의 화려한 귀환이자 '제2막'이 시작된 것입니다. 동일성분 대체조제에 이어 이번 창간특집 2편에서는 약국 화장품 시장의 현황과 국내 제약사 진출 현황, 제약사가...",
+    "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=538816",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 05:56:00 +0900",
+    "matched_keyword": "약국화장품",
+    "topic": "main",
+    "categories": [
+      "원료",
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "LG생건ㆍ아모레, 중국 대신 북미 키워 나란히 ‘깜짝 실적’",
+    "summary": "업계 관계자는 “더마코스메틱, 헤어케어와 같이 현재 K뷰티 흥행을 이끄는 기본 스킨케어 라인이 아닌 특정 카테고리에서 고성장 브랜드를 육성, 해외 온오프라인에서 자리를 넓혀가고 있어 단기 프로모션이...",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301454342920229",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 05:40:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "폭염에도 향수는 필수…기분 전환 소비 중심 된 '프래그런스'",
+    "summary": "향수가 일상 속 리프레시 아이템으로 자리 잡으면서 뷰티업계도 향을 앞세운 제품군 확대에 나서는 모습이다. 30일 업계에 따르면 LF가 수입·판매하는 프랑스 뷰티 브랜드 오피신 유니버셀 불리(불리)의 올해 상반기 향수...",
+    "link": "https://n.news.naver.com/mnews/article/003/0014099838?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 05:00:00 +0900",
+    "matched_keyword": "향수",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "올데프 애니, 컬럼비아대 졸업 후 달라진 비주얼... 시크美 폭발",
+    "summary": "계단에 걸터앉아 한 손으로 턱을 받친 채 카메라를 응시하는 애니는 화려한 메이크업을 완벽하게 소화하며 한층 성숙해진 비주얼을 자랑했다. 게시물을 접한 팬들은 \"예뻐요\" \"다시 온 걸 환영해요, 졸업 축하해요...",
+    "link": "https://www.insight.co.kr/news/565572",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 04:12:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "룰루랩, 뉴욕서 AI 피부 분석·루디언트 결합한 K-뷰티 흥행···북미 공...",
+    "summary": "독자 AI 피부 분석 알고리즘 ‘luluTI™’를 기반으로 메이크업을 지우지 않은 상태에서도 약 7초 만에 모공·홍조·탄력 등 피부 상태를 분석하고, 분석 결과에 최적화된 루디언트 제품을 추천하는 방식이다. 기존...",
+    "link": "https://n.news.naver.com/mnews/article/144/0001129159?sid=101",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 04:08:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "파마·동국제약, 코스메슈티컬 경쟁 '2파전'…주도권 누가 쥘까",
+    "summary": "리쥬비-에스는 파마리서치의 화장품 특화 성분 c-PDRN을 고함량으로 적용한 앰플이다. 피부 진정과 턴오버 개선에 도움을 주며 나이아신아마이드, 아데노신을 더해 미백 및 주름 개선 기능성을 갖췄다. 출시 이후 꾸준히...",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313611",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:16:00 +0900",
+    "matched_keyword": "PDRN",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "이명희 '시니어모델특별상 선정'(아시아모델페스티벌 뷰티페스타) [포토...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다. 한국메이크업전문가직업교류협회 안미려 회장, 시니어모델특별상에 선정된 이명희가 기념촬영을 하고 있다....",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310007",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:06:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김정성 '시니어특별상 선정'(아시아모델페스티벌 뷰티페스타) [포토]",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다. 한국메이크업전문가직업교류협회 안미려 회장, 시니어모델특별상에 선정된 김정성이 기념촬영을 하고 있다....",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310006",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:04:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "김종남 '시니어모델특별상 수상'(아시아모델페스티벌 뷰티페스타) [포토...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310005",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "조기영 '시니어모델특별상 수상'(아시아모델페스티벌 뷰티페스타) [포토...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310004",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:02:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "신소애여성의원 '아시아모델들이 선정한 메디컬케어 부문 선정'(아시아...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310003",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 02:00:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "베라셀라 '아시아모델들이 선정한 브랜드상 뷰티부문 선정'(아시아모델...",
+    "summary": "한국메이크업전문가직업교류협회(KPMACEA, 회장 안미려)가 주최로 열렸다.... 아시아모델페스티벌조직위원회, 한국메이크업전문가직업교류협회, 그리고 베트남 최대 규모의 미용·뷰티 산업 단체 Vietnam Beauty...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607310002",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 01:54:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "K-뷰티, 미국 화장품 시장의 판을 바꾸다...공략 어떻게?",
+    "summary": "뷰티오브조선은 선크림, 코스알엑스는 달팽이 점액 에센스, 바이오던스는 콜라겐 마스크, 티르티르는 쿠션 파운데이션으로 미국 소비자의 선택을 받았다. 이들은 전체 제품군보다 특정 피부 문제를 해결하는 한두 개의...",
+    "link": "https://www.newsverse.kr/news/articleView.html?idxno=11059",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 01:50:00 +0900",
+    "matched_keyword": "콜라겐",
+    "topic": "main",
+    "categories": [
+      "원료"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "아이유, 변함 없는 청초 비주얼 자랑... 우아함 가득",
+    "summary": "공개된 사진에서 아이유는 깨끗하고 맑은 피부를 드러냈고, 차분한 톤의 세련된 메이크업과 스타일링으로 청아한 분위기를 뽐냈다. 긴 시간 동안 이어진 촬영 스케줄 속에서도 아이유는 흠잡을 데 없는 피부 상태와...",
+    "link": "https://www.insight.co.kr/news/565579",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 00:36:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "\"스킨케어부터 디바이스까지\"... K뷰티 글로벌 영토 확장 공격 행보 눈길",
+    "summary": "또한 누적 판매량 3,600만개를 돌파한 클렌징 제품의 성공을 기반으로 쿠션 등 베이스 메이크업까지 주력... 코스맥스는 최근 글로벌 메이크업 트렌드인 '젤리 코어'에 맞춘 다양한 제형을 개발하며 제품군을 확대했다....",
+    "link": "https://www.meconomynews.com/news/articleView.html?idxno=200108",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 00:16:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "디바이스·기술"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "화장품업계, 여름 무더위 속에도 소비자 경험 경쟁 치열",
+    "summary": "먼저 로레알 그룹의 더마코스메틱 브랜드 스킨수티컬즈는 아나운서 출신 방송인 강지영을 새로운 브랜드 앰버서더로 선정했다고 밝혔다. 이번 협업은 단순한 모델 발탁을 넘어 브랜드 제품을 실제 사용해 온 소비자라는...",
+    "link": "https://www.meconomynews.com/news/articleView.html?idxno=200107",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 00:08:00 +0900",
+    "matched_keyword": "더마코스메틱",
+    "topic": "main",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
+    "is_overseas": false
+  },
+  {
+    "title": "'믿보황' 황정음, 10년 만에 리즈 되찾았다…추억의 틴트 소환→횡령 셀...",
+    "summary": "영상에서 10년 만에 새로운 프로필 사진을 찍기 위해 본업 모드로 돌아온 황정음은 데뷔 때부터 인연을 맺어온 20년 지기 메이크업 아티스트를 찾아 과거를 추억했다. 신인 시절 서클렌즈와 틴트를 메이크업의 필수 요소라...",
+    "link": "https://m.entertain.naver.com/article/312/0000769919",
+    "source": "네이버 뉴스",
+    "pub_date": "Fri, 31 Jul 2026 00:01:00 +0900",
+    "matched_keyword": "메이크업",
+    "topic": "sub",
+    "categories": [
+      "미분류"
+    ],
+    "own_brand_mentions": [],
+    "competitor_mentions": [],
     "is_overseas": false
   },
   {
