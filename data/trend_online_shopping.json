@@ -77,10 +77,14 @@
   },
   {
     "period": "2026-04",
-    "value_million_krw": 1336666
+    "value_million_krw": 1330480
   },
   {
     "period": "2026-05",
-    "value_million_krw": 1566080
+    "value_million_krw": 1563025
+  },
+  {
+    "period": "2026-06",
+    "value_million_krw": 1264183
   }
 ]
