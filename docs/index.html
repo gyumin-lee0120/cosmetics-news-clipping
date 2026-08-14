@@ -21,7 +21,7 @@
     --brand-purple-light: #F1EDF7;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #171715;
       --surface-1: #232320;
       --surface-2: #2b2b27;
@@ -35,6 +35,20 @@
       --brand-purple: #b09ce0;
       --brand-purple-light: #29223d;
     }
+  }
+  :root[data-theme="dark"] {
+    --bg: #171715;
+    --surface-1: #232320;
+    --surface-2: #2b2b27;
+    --text-primary: #f0f0ec;
+    --text-secondary: #a8a89f;
+    --text-muted: #77776e;
+    --border: #33332e;
+    --brand-orange: #FF6A2E;
+    --brand-orange-light: #3a2418;
+    --brand-orange-dark: #FFB38C;
+    --brand-purple: #b09ce0;
+    --brand-purple-light: #29223d;
   }
   * { box-sizing: border-box; }
   body {
@@ -84,6 +98,7 @@
   .chip { font-size: 12.5px; padding: 7px 10px; border-radius: 8px; background: transparent; color: var(--text-secondary); cursor: pointer; }
   .chip:hover { background: var(--surface-1); }
   .chip.active { background: var(--brand-orange-light); color: var(--brand-orange-dark); font-weight: 500; }
+  .category-select { display: none; }
 
   /* 가운데: 브리핑 + 지표 + 뉴스 */
   .briefing { background: var(--brand-purple-light); border-radius: 12px; padding: 14px 18px; margin-bottom: 14px; }
@@ -93,6 +108,15 @@
   .metric { background: var(--surface-1); border-radius: 10px; padding: 12px 14px; }
   .metric .m-label { font-size: 11px; color: var(--text-secondary); margin: 0 0 5px; }
   .metric .m-value { font-size: 19px; font-weight: 600; margin: 0; }
+  .m-trend { width: 100%; height: 20px; margin-top: 6px; display: block; }
+  .metric.clickable { cursor: pointer; }
+  .metric.clickable:hover { background: var(--surface-2); }
+  .metric.active { background: var(--brand-orange-light); }
+  .search-row input {
+    width: 100%; font: inherit; font-size: 13px; padding: 8px 12px; margin-bottom: 10px;
+    border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text-primary);
+  }
+  .search-row input:focus { outline: none; border-color: var(--brand-orange); }
   .news-list { border-top: 1px solid var(--border); }
   .news-item { display: flex; gap: 10px; padding: 11px 0; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; }
   .cat-pill { font-size: 10px; font-weight: 500; padding: 3px 9px; border-radius: 20px; white-space: nowrap; height: fit-content; flex-shrink: 0; margin-top: 1px; }
@@ -100,6 +124,8 @@
   .news-item .n-meta { font-size: 11.5px; color: var(--text-secondary); margin: 0; }
   .badge-overseas { background: var(--surface-2); color: var(--text-secondary); font-size: 10px; padding: 2px 7px; border-radius: 10px; margin-right: 6px; white-space: nowrap; }
   .empty { color: var(--text-muted); font-size: 13px; padding: 20px 0; text-align: center; }
+  .skeleton { background: var(--surface-2); border-radius: 6px; animation: skeleton-pulse 1.2s ease-in-out infinite; }
+  @keyframes skeleton-pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
 
   /* 오른쪽: 캘린더 + 전시회 */
   .side-col { display: flex; flex-direction: column; gap: 10px; }
@@ -129,7 +155,11 @@
   @media (max-width: 900px) {
     .main-grid { grid-template-columns: 1fr; }
     .col-sticky { position: static; }
-    .chips { flex-direction: row; flex-wrap: wrap; }
+    .chips { display: none; }
+    .category-select {
+      display: block; width: 100%; font: inherit; font-size: 13px; padding: 8px 10px;
+      border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text-primary);
+    }
     .trend-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
     .metrics { grid-template-columns: repeat(2, minmax(0,1fr)); }
   }
@@ -153,6 +183,7 @@
           <span data-period="7">주간</span>
           <span data-period="30">월간</span>
         </div>
+        <button id="themeToggle" type="button" aria-label="다크모드 전환">🌙</button>
         <button onclick="location.reload()">새로고침</button>
       </div>
     </div>
@@ -167,15 +198,21 @@
   <div class="trend-grid">
     <div class="trend-card" id="trendOnlineShopping">
       <p class="t-label">온라인쇼핑 거래액 (통계청, 월별)</p>
-      <p class="t-pending">불러오는 중...</p>
+      <div class="skeleton" style="height:52px; margin-bottom:8px;"></div>
+      <div class="skeleton" style="height:19px; width:55%;"></div>
+      <p class="t-pending"></p>
     </div>
     <div class="trend-card" id="trendProductionStats">
       <p class="t-label">국내 생산실적 (식약처, 연도별)</p>
-      <p class="t-pending">불러오는 중...</p>
+      <div class="skeleton" style="height:44px; margin-bottom:8px;"></div>
+      <div class="skeleton" style="height:19px; width:55%;"></div>
+      <p class="t-pending"></p>
     </div>
     <div class="trend-card" id="trendCustomsTrade">
       <p class="t-label">수출입 금액 (관세청, 월별)</p>
-      <p class="t-pending">불러오는 중...</p>
+      <div class="skeleton" style="height:52px; margin-bottom:8px;"></div>
+      <div class="skeleton" style="height:15px; width:65%;"></div>
+      <p class="t-pending"></p>
     </div>
   </div>
 
@@ -186,6 +223,7 @@
       <div class="chips" id="categoryChips">
         <span class="chip active" data-category="전체">전체</span>
       </div>
+      <select class="category-select" id="categorySelect" aria-label="카테고리 선택"></select>
     </div>
 
     <div>
@@ -195,14 +233,46 @@
       </div>
 
       <div class="metrics">
-        <div class="metric"><p class="m-label">자사 브랜드 언급</p><p class="m-value" id="mOwn">–</p></div>
-        <div class="metric"><p class="m-label">경쟁사 언급</p><p class="m-value" id="mCompetitor">–</p></div>
+        <div class="metric clickable" id="metricOwn">
+          <p class="m-label">자사 브랜드 언급</p>
+          <p class="m-value" id="mOwn">–</p>
+          <svg class="m-trend" id="mOwnTrend" viewBox="0 0 100 24" preserveAspectRatio="none" role="img" aria-label="최근 30일 자사 브랜드 언급 추이"></svg>
+        </div>
+        <div class="metric clickable" id="metricCompetitor">
+          <p class="m-label">경쟁사 언급</p>
+          <p class="m-value" id="mCompetitor">–</p>
+          <svg class="m-trend" id="mCompetitorTrend" viewBox="0 0 100 24" preserveAspectRatio="none" role="img" aria-label="최근 30일 경쟁사 언급 추이"></svg>
+        </div>
         <div class="metric"><p class="m-label">메인 주제 비중</p><p class="m-value" id="mMainShare">–</p></div>
-        <div class="metric"><p class="m-label">최다 카테고리</p><p class="m-value" id="mTopCategory">–</p></div>
+        <div class="metric clickable" id="metricTopCategory"><p class="m-label">최다 카테고리</p><p class="m-value" id="mTopCategory">–</p></div>
+      </div>
+
+      <div class="search-row">
+        <input type="text" id="searchInput" placeholder="뉴스 제목 검색...">
       </div>
 
       <div class="news-list" id="newsList">
-        <p class="empty">불러오는 중...</p>
+        <div class="news-item">
+          <div class="skeleton" style="width:40px; height:18px; border-radius:20px; flex-shrink:0;"></div>
+          <div style="flex:1;">
+            <div class="skeleton" style="height:13px; width:85%; margin-bottom:6px;"></div>
+            <div class="skeleton" style="height:11px; width:35%;"></div>
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="skeleton" style="width:40px; height:18px; border-radius:20px; flex-shrink:0;"></div>
+          <div style="flex:1;">
+            <div class="skeleton" style="height:13px; width:70%; margin-bottom:6px;"></div>
+            <div class="skeleton" style="height:11px; width:30%;"></div>
+          </div>
+        </div>
+        <div class="news-item">
+          <div class="skeleton" style="width:40px; height:18px; border-radius:20px; flex-shrink:0;"></div>
+          <div style="flex:1;">
+            <div class="skeleton" style="height:13px; width:78%; margin-bottom:6px;"></div>
+            <div class="skeleton" style="height:11px; width:38%;"></div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -246,7 +316,7 @@ const CATEGORY_COLORS = {
 };
 
 let allNews = [];
-let state = { topic: "main", periodDays: 1, category: "전체" };
+let state = { topic: "main", periodDays: 1, category: "전체", search: "", mentionFilter: null };
 
 async function loadData() {
   try {
@@ -269,7 +339,9 @@ function filteredNews() {
   return allNews.filter(item =>
     item.topic === state.topic &&
     withinPeriod(item, state.periodDays) &&
-    (state.category === "전체" || (item.categories || []).includes(state.category))
+    (state.category === "전체" || (item.categories || []).includes(state.category)) &&
+    (!state.search || (item.title || "").toLowerCase().includes(state.search.toLowerCase())) &&
+    (!state.mentionFilter || (state.mentionFilter === "own" ? (item.own_brand_mentions || []).length > 0 : (item.competitor_mentions || []).length > 0))
   );
 }
 
@@ -285,15 +357,23 @@ function relTime(dateStr) {
 function renderChips() {
   const cats = new Set();
   allNews.filter(i => i.topic === state.topic).forEach(i => (i.categories || []).forEach(c => cats.add(c)));
+  const allCats = ["전체", ...Array.from(cats).sort()];
+
   const el = document.getElementById("categoryChips");
   el.innerHTML = "";
-  ["전체", ...Array.from(cats).sort()].forEach(cat => {
+  allCats.forEach(cat => {
     const span = document.createElement("span");
     span.className = "chip" + (state.category === cat ? " active" : "");
     span.textContent = cat;
     span.onclick = () => { state.category = cat; render(); };
     el.appendChild(span);
   });
+
+  const select = document.getElementById("categorySelect");
+  select.innerHTML = allCats.map(cat =>
+    `<option value="${cat}"${state.category === cat ? " selected" : ""}>${cat}</option>`
+  ).join("");
+  select.onchange = (e) => { state.category = e.target.value; render(); };
 }
 
 function renderMetrics(items) {
@@ -311,6 +391,46 @@ function renderMetrics(items) {
   document.getElementById("mCompetitor").textContent = `${compCount}건`;
   document.getElementById("mMainShare").textContent = `${mainShare}%`;
   document.getElementById("mTopCategory").textContent = topCat ? `${topCat[0]} ${topCat[1]}건` : "–";
+  document.getElementById("metricTopCategory").dataset.category = topCat ? topCat[0] : "";
+
+  document.getElementById("metricOwn").classList.toggle("active", state.mentionFilter === "own");
+  document.getElementById("metricCompetitor").classList.toggle("active", state.mentionFilter === "competitor");
+}
+
+function drawSparkline(svgId, values, color) {
+  const svg = document.getElementById(svgId);
+  if (!svg) return;
+  const max = Math.max(...values, 1);
+  const w = 100, h = 24;
+  const coords = values.map((v, i) => {
+    const x = values.length > 1 ? (i / (values.length - 1)) * w : 0;
+    const y = h - (v / max) * (h - 4) - 2;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  svg.innerHTML = `<polyline points="${coords}" fill="none" stroke="${color}" stroke-width="1.5"/>`;
+}
+
+function renderMentionTrends() {
+  const days = 30;
+  const topicItems = allNews.filter(i => i.topic === state.topic);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const ownCounts = new Array(days).fill(0);
+  const compCounts = new Array(days).fill(0);
+
+  topicItems.forEach(item => {
+    const d = new Date(item.pub_date);
+    if (isNaN(d)) return;
+    d.setHours(0, 0, 0, 0);
+    const diffDays = Math.round((today - d) / 86400000);
+    if (diffDays < 0 || diffDays >= days) return;
+    const idx = days - 1 - diffDays;
+    if ((item.own_brand_mentions || []).length > 0) ownCounts[idx]++;
+    if ((item.competitor_mentions || []).length > 0) compCounts[idx]++;
+  });
+
+  drawSparkline("mOwnTrend", ownCounts, "var(--brand-orange)");
+  drawSparkline("mCompetitorTrend", compCounts, "var(--brand-purple)");
 }
 
 function renderBriefing(items) {
@@ -365,6 +485,7 @@ function render() {
   renderChips();
   renderBriefing(items);
   renderMetrics(items);
+  renderMentionTrends();
   renderNewsList(items);
 
   const updated = allNews.length ? new Date(Math.max(...allNews.map(i => new Date(i.pub_date).getTime() || 0))) : null;
@@ -375,6 +496,44 @@ function render() {
 
 document.querySelectorAll(".tab").forEach(t => t.onclick = () => { state.topic = t.dataset.topic; state.category = "전체"; render(); });
 document.querySelectorAll(".period-toggle span").forEach(s => s.onclick = () => { state.periodDays = Number(s.dataset.period); render(); });
+document.getElementById("searchInput").oninput = (e) => { state.search = e.target.value; render(); };
+
+document.getElementById("metricOwn").onclick = () => {
+  state.mentionFilter = state.mentionFilter === "own" ? null : "own";
+  render();
+};
+document.getElementById("metricCompetitor").onclick = () => {
+  state.mentionFilter = state.mentionFilter === "competitor" ? null : "competitor";
+  render();
+};
+document.getElementById("metricTopCategory").onclick = () => {
+  const cat = document.getElementById("metricTopCategory").dataset.category;
+  if (cat) { state.category = cat; render(); }
+};
+
+// 다크모드 수동 토글 (localStorage에 저장, 없으면 OS 설정 따름)
+function applyTheme(theme) {
+  if (theme === "dark" || theme === "light") {
+    document.documentElement.dataset.theme = theme;
+  } else {
+    delete document.documentElement.dataset.theme;
+  }
+  const osIsDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const isDark = theme === "dark" || (theme !== "light" && osIsDark);
+  const btn = document.getElementById("themeToggle");
+  if (btn) btn.textContent = isDark ? "☀️" : "🌙";
+}
+
+applyTheme(localStorage.getItem("theme"));
+
+document.getElementById("themeToggle").onclick = () => {
+  const current = document.documentElement.dataset.theme;
+  const osIsDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const currentlyDark = current === "dark" || (!current && osIsDark);
+  const next = currentlyDark ? "light" : "dark";
+  localStorage.setItem("theme", next);
+  applyTheme(next);
+};
 
 // 전시회 캘린더 + 리스트
 let exhibitionsData = [];
@@ -477,6 +636,7 @@ async function loadTrendOnlineShopping() {
   } catch (e) { points = []; }
 
   if (!points.length) {
+    el.querySelectorAll(".skeleton").forEach(s => s.remove());
     pendingEl.textContent = "연동 예정 — 통계청 KOSIS 오픈API 추가 시 표시됩니다.";
     return;
   }
@@ -528,6 +688,7 @@ async function loadCustomsTrade() {
   } catch (e) { points = []; }
 
   if (!points.length) {
+    el.querySelectorAll(".skeleton").forEach(s => s.remove());
     pendingEl.textContent = "연동 예정 — 관세청 수출입통계 오픈API 추가 시 표시됩니다.";
     return;
   }
@@ -575,6 +736,7 @@ async function loadProductionStats() {
   } catch (e) { points = []; }
 
   if (!points.length) {
+    el.querySelectorAll(".skeleton").forEach(s => s.remove());
     pendingEl.textContent = "연동 예정 — 식약처 화장품 생산실적 통계는 연 1회 발표됩니다.";
     return;
   }
