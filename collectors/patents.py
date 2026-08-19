@@ -141,4 +141,10 @@ def run():
             # 올해는 매번 갱신, 과거 연도는 캐시에 있으면 건너뜀 (호출 절약)
             if year != this_year and (keyword, year) in cache:
                 continue
-            count = fetch_count(service_key, field,
+            count = fetch_count(service_key, field, keyword, year)
+            calls += 1
+            if count is None:
+                failures += 1
+                continue
+            cache[(keyword, year)] = count
+            print(f"  {keyword} / {year}년: {count}건")
