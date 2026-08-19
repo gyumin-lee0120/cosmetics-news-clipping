@@ -148,3 +148,21 @@ def run():
                 continue
             cache[(keyword, year)] = count
             print(f"  {keyword} / {year}년: {count}건")
+          
+    rows = sorted(
+        ({"keyword": k, "year": y, "count": c} for (k, y), c in cache.items()),
+        key=lambda r: (r["keyword"], r["year"]),
+    )
+    save(rows)
+
+    print(
+        f"완료: API 호출 {calls}회 (실패 {failures}회), "
+        f"저장 {len(rows)}건 (data/patent_trend.json, docs/data/patent_trend.json)"
+    )
+    if calls and failures == calls:
+        # 전부 실패했으면 설정 문제일 가능성이 높으므로 눈에 띄게 실패 처리
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    run()
