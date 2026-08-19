@@ -187,7 +187,15 @@ sources:
     enabled: false     # TODO: 다음 단계 — 식약처 의료기기 품목허가정보 API (홈뷰티 디바이스용)
 
   kipris_patents:
-    enabled: false     # TODO: 다음 단계 — 특허청 키프리스 오픈API
+    enabled: true      # KIPRIS Plus getWordSearch - 키워드별 연도별 출원 건수
+    years_back: 6      # 최근 6년치 (첫 실행만 키워드수 x 6회 호출, 이후 키워드수 x 1회/일)
+    keywords:
+      - "화장료 조성물"
+      - "피부 미용기기"
+      - "마스크팩"
+      - "엑소좀"
+      - "고주파 피부"
+      - "스킨부스터"
 
   wipo_patentscope:
     enabled: false     # TODO: 다음 단계 — WIPO PatentScope RSS 알림
