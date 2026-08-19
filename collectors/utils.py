@@ -80,9 +80,16 @@ def save_news(items):
         except (KeyError, TypeError, ValueError):
             return True  # 날짜 파싱 실패 시 보수적으로 유지
 
+    def sort_key(item):
+        """RFC822 날짜 문자열을 datetime으로 파싱해 정렬. 문자열 정렬은 요일 알파벳순이 되어 틀림."""
+        try:
+            return parsedate_to_datetime(item["pub_date"])
+        except (KeyError, TypeError, ValueError):
+            return datetime.min.replace(tzinfo=timezone.utc)
+
     merged = sorted(
         (v for v in by_link.values() if is_recent(v)),
-        key=lambda x: x.get("pub_date", ""),
+        key=sort_key,
         reverse=True,
     )
 
