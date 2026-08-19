@@ -36,12 +36,12 @@ jobs:
         continue-on-error: true
         run: python overseas_media.py
 
-      - name: 특허 출원 트렌드 수집
+      - name: 특허 API 파라미터 진단
         working-directory: collectors
         continue-on-error: true
         env:
           KIPRIS_SERVICE_KEY: ${{ secrets.KIPRIS_SERVICE_KEY }}
-        run: python patents.py
+        run: python patents_probe.py
 
       - name: 통계청 온라인쇼핑 거래액 수집
         working-directory: collectors
