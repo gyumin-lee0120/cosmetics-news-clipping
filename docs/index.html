@@ -290,6 +290,10 @@
         <p class="nav-label">다가오는 전시회 · 박람회</p>
         <div id="exhList"></div>
       </div>
+      <div class="trend-card" id="trendPatents" style="margin-top:12px;">
+        <p class="t-label">특허·실용신안 출원 트렌드 (KIPRIS, 연도별)</p>
+        <p class="t-pending">불러오는 중...</p>
+      </div>
     </div>
 
   </div>
@@ -774,6 +778,66 @@ loadExhibitions();
 loadTrendOnlineShopping();
 loadCustomsTrade();
 loadProductionStats();
+  async function loadPatentTrend() {
+  const el = document.getElementById("trendPatents");
+  if (!el) return;
+  let rows = [];
+  try {
+    const res = await fetch("data/patent_trend.json", { cache: "no-store" });
+    rows = res.ok ? await res.json() : [];
+  } catch (e) { rows = []; }
+
+  if (!rows.length) {
+    el.querySelector(".t-pending").textContent = "연동 예정 — KIPRIS Plus 오픈API 수집 후 표시됩니다.";
+    return;
+  }
+
+  const years = [...new Set(rows.map(r => r.year))].sort((a, b) => a - b);
+  const totalByYear = years.map(y => rows.filter(r => r.year === y).reduce((s, r) => s + r.count, 0));
+  const max = Math.max(...totalByYear, 1);
+
+  // 공개 지연(출원 후 약 1년 6개월)으로 최근 2개 연도는 과소집계 → 비교 기준은 그 이전 연도
+  const solidIdx = Math.max(years.length - 3, 0);
+  const prevIdx = Math.max(years.length - 4, 0);
+  const solidYear = years[solidIdx];
+  const solidTotal = totalByYear[solidIdx] || 0;
+  const prevTotal = totalByYear[prevIdx] || 0;
+  const growth = (prevIdx !== solidIdx && prevTotal)
+    ? (((solidTotal - prevTotal) / prevTotal) * 100).toFixed(1)
+    : null;
+
+  const bars = years.map((y, i) => {
+    const partial = i >= years.length - 2;
+    return `
+    <div style="display:flex; flex-direction:column; align-items:center; flex:1;">
+      <div style="width:60%; height:${(totalByYear[i] / max) * 40}px; background:#FF4700; opacity:${partial ? 0.35 : 1}; border-radius:2px 2px 0 0;"></div>
+      <span style="font-size:9px; color:var(--text-secondary); margin-top:2px;">${y}</span>
+    </div>`;
+  }).join("");
+
+  const kwLines = [...new Set(rows.map(r => r.keyword))]
+    .map(k => ({ keyword: k, count: (rows.find(r => r.keyword === k && r.year === solidYear) || {}).count || 0 }))
+    .sort((a, b) => b.count - a.count)
+    .map(k => `<div style="display:flex; justify-content:space-between; font-size:12px; padding:2px 0;">
+        <span style="color:var(--text-secondary);">${k.keyword}</span><span>${k.count}건</span>
+      </div>`).join("");
+
+  el.innerHTML = `
+    <p class="t-label">특허·실용신안 출원 트렌드 (KIPRIS, 연도별)</p>
+    <div style="display:flex; align-items:flex-end; height:44px; gap:6px; margin-top:4px;">${bars}</div>
+    <p style="font-size:20px; font-weight:500; margin:8px 0 0;">${solidTotal}건
+      <span style="font-size:12px; font-weight:400; color:var(--text-secondary);">
+        (${solidYear}${growth !== null ? `, 전년比 ${growth > 0 ? "+" : ""}${growth}%` : ""})
+      </span>
+    </p>
+    <div style="margin-top:8px; border-top:1px solid var(--border); padding-top:6px;">${kwLines}</div>
+    <p style="font-size:10px; color:var(--text-muted); margin:6px 0 0; line-height:1.5;">
+      출처: KIPRIS Plus 오픈API · 키워드가 초록(요약)에 포함된 출원 건수<br>
+      특허는 출원 후 약 1년 6개월이 지나야 공개되므로 최근 2개 연도(연한 막대)는 실제보다 적게 집계됩니다. 추세 판단은 ${solidYear}년 이전 기준을 권장합니다.
+    </p>`;
+}
+
+loadPatentTrend();
 </script>
 </body>
 </html>
