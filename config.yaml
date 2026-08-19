@@ -43,8 +43,28 @@ topics:
     - 리프팅기기
     - 뷰티디바이스
     - 뷰티테크
-    - 홈디바이스
     - 홈뷰티 디바이스
+    # --- 영문 (해외 매체용) ---
+    - dermocosmetic
+    - dermatological skincare
+    - cosmeceutical
+    - derma skincare
+    - skin booster
+    - exosome
+    - peptide
+    - collagen
+    - niacinamide
+    - hyaluronic
+    - retinol
+    - beauty device
+    - home beauty
+    - at-home device
+    - led mask
+    - microneedling
+    - microcurrent
+    - radiofrequency
+    - dermal filler
+    - beauty tech
   sub:
     - 향수
     - 바디로션
@@ -52,8 +72,16 @@ topics:
     - 색조화장품
     - 립스틱
     - 파운데이션
+    # --- 영문 ---
+    - fragrance
+    - perfume
+    - body lotion
+    - makeup
+    - colour cosmetics
+    - color cosmetics
+    - lipstick
+    - foundation
   trusted:
-    # 화장품·뷰티 용어로만 쓰이는 복합어 — 맥락 확인 없이 바로 채택
     - 더마코스메틱
     - 코스메슈티컬
     - 더마슈티컬
@@ -86,34 +114,57 @@ categories:
     - 엑소좀
     - 펩타이드
     - 콜라겐
+    - ingredient
+    - exosome
+    - peptide
+    - collagen
+    - skin booster
+    - hyaluronic
+    - retinol
   디바이스·기술:
     - 디바이스
     - LED마스크
     - 리프팅기기
     - 뷰티테크
     - 홈케어
-    - AI
+    - 인공지능
+    - device
+    - led mask
+    - microneedling
+    - microcurrent
+    - radiofrequency
+    - beauty tech
+    - artificial intelligence
   특허:
     - 특허
     - 키프리스
     - 출원
+    - patent
   패키지:
     - 패키지
     - 용기
     - 리필
     - 포장
+    - packaging
+    - refill
   마케팅:
     - 마케팅
     - 광고
     - 캠페인
     - 인플루언서
+    - marketing
+    - advertising
+    - influencer
   규제:
     - 식약처
     - 규제
     - 허가
     - 고시
     - 개정안
-
+    - regulation
+    - regulatory
+    - compliance
+    
 # 소스별 설정. enabled: false 인 항목은 이번 1차 구현에서 아직 코드가 없고,
 # config만 미리 잡아둔 상태입니다 (README의 로드맵 참고).
 sources:
