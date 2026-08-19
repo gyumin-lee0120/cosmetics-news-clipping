@@ -99,6 +99,8 @@
   .chip:hover { background: var(--surface-1); }
   .chip.active { background: var(--brand-orange-light); color: var(--brand-orange-dark); font-weight: 500; }
   .category-select { display: none; }
+  .origin-row { display: flex; gap: 4px; margin-top: 6px; }
+  .origin-row .chip { flex: 1; text-align: center; padding: 6px 4px; }
 
   /* 가운데: 브리핑 + 지표 + 뉴스 */
   .briefing { background: var(--brand-purple-light); border-radius: 12px; padding: 14px 18px; margin-bottom: 14px; }
@@ -224,6 +226,12 @@
         <span class="chip active" data-category="전체">전체</span>
       </div>
       <select class="category-select" id="categorySelect" aria-label="카테고리 선택"></select>
+            <p class="nav-label" style="margin-top:16px;">출처</p>
+      <div class="origin-row" id="originChips">
+        <span class="chip active" data-origin="all">전체</span>
+        <span class="chip" data-origin="domestic">국내</span>
+        <span class="chip" data-origin="overseas">해외</span>
+      </div>
     </div>
 
     <div>
@@ -320,7 +328,7 @@ const CATEGORY_COLORS = {
 };
 
 let allNews = [];
-let state = { topic: "main", periodDays: 1, category: "전체", search: "", mentionFilter: null };
+let state = { topic: "main", periodDays: 1, category: "전체", search: "", mentionFilter: null, origin: "all" };
 
 async function loadData() {
   try {
@@ -344,6 +352,7 @@ function filteredNews() {
     item.topic === state.topic &&
     withinPeriod(item, state.periodDays) &&
     (state.category === "전체" || (item.categories || []).includes(state.category)) &&
+    (state.origin === "all" || (state.origin === "overseas" ? !!item.is_overseas : !item.is_overseas)) &&
     (!state.search || (item.title || "").toLowerCase().includes(state.search.toLowerCase())) &&
     (!state.mentionFilter || (state.mentionFilter === "own" ? (item.own_brand_mentions || []).length > 0 : (item.competitor_mentions || []).length > 0))
   );
@@ -466,7 +475,7 @@ function renderNewsList(items) {
     el.innerHTML = '<p class="empty">해당 조건의 기사가 없습니다.</p>';
     return;
   }
-  items.slice(0, 50).forEach(item => {
+  items.slice(0, 100).forEach(item => {
     const a = document.createElement("a");
     a.className = "news-item";
     a.href = item.link;
@@ -836,7 +845,11 @@ loadProductionStats();
       특허는 출원 후 약 1년 6개월이 지나야 공개되므로 최근 2개 연도(연한 막대)는 실제보다 적게 집계됩니다. 추세 판단은 ${solidYear}년 이전 기준을 권장합니다.
     </p>`;
 }
-
+document.querySelectorAll("#originChips .chip").forEach(c => c.onclick = () => {
+  state.origin = c.dataset.origin;
+  document.querySelectorAll("#originChips .chip").forEach(x => x.classList.toggle("active", x === c));
+  render();
+});
 loadPatentTrend();
 </script>
 </body>
