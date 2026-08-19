@@ -1,12 +1,14 @@
-"""KIPRIS Plus getWordSearch 파라미터 진단용 임시 스크립트.
+"""KIPRIS Plus 2차 진단 — totalCount 위치와 연도 필터 방식 확인.
 
-여러 파라미터 조합으로 호출해보고 각각의 원본 응답을 출력합니다.
-어떤 조합이 통하는지 확인한 뒤에는 이 파일과 워크플로 스텝을 삭제하세요.
+1차 진단으로 word/docsStart/docsCount/patent/utility 가 유효함을 확인했습니다.
+이번에는 (1) 전체 건수 필드가 응답 어디에 있는지, (2) 연도(출원일자) 필터를
+어떤 파라미터로 거는지를 확인합니다.
 
 필요 환경변수: KIPRIS_SERVICE_KEY
-호출 횟수: 아래 CASES 개수만큼 (기본 7회) — 월 1,000회 한도에 거의 영향 없음
+호출 횟수: 6회
 """
 import os
+import re
 import sys
 
 import requests
@@ -14,17 +16,20 @@ import requests
 BASE = "https://plus.kipris.or.kr/kipo-api/kipi/patUtiModInfoSearchSevice"
 
 CASES = [
-    ("A. word만", f"{BASE}/getWordSearch", {"word": "엑소좀"}),
-    ("B. word + docsStart/docsCount", f"{BASE}/getWordSearch",
-     {"word": "엑소좀", "docsStart": "1", "docsCount": "10"}),
-    ("C. word + patent/utility", f"{BASE}/getWordSearch",
-     {"word": "엑소좀", "patent": "true", "utility": "true"}),
-    ("D. word + patent/utility + docsStart/docsCount", f"{BASE}/getWordSearch",
-     {"word": "엑소좀", "patent": "true", "utility": "true", "docsStart": "1", "docsCount": "10"}),
-    ("E. word + year", f"{BASE}/getWordSearch", {"word": "엑소좀", "year": "2024"}),
-    ("F. word + numOfRows/pageNo", f"{BASE}/getWordSearch",
-     {"word": "엑소좀", "numOfRows": "10", "pageNo": "1"}),
-    ("G. 영문 파라미터 searchWord", f"{BASE}/getWordSearch", {"searchWord": "엑소좀"}),
+    ("A. getWordSearch (기준)", f"{BASE}/getWordSearch",
+     {"word": "엑소좀", "docsStart": "1", "docsCount": "1"}),
+    ("B. getAdvancedSearch + inventionTitle", f"{BASE}/getAdvancedSearch",
+     {"inventionTitle": "엑소좀", "docsStart": "1", "docsCount": "1"}),
+    ("C. getAdvancedSearch + astrtCont", f"{BASE}/getAdvancedSearch",
+     {"astrtCont": "엑소좀", "docsStart": "1", "docsCount": "1"}),
+    ("D. getAdvancedSearch + applicationDate 범위", f"{BASE}/getAdvancedSearch",
+     {"astrtCont": "엑소좀", "applicationDate": "20240101~20241231",
+      "docsStart": "1", "docsCount": "1"}),
+    ("E. getAdvancedSearch + applicationDate 연도만", f"{BASE}/getAdvancedSearch",
+     {"astrtCont": "엑소좀", "applicationDate": "2024", "docsStart": "1", "docsCount": "1"}),
+    ("F. getWordSearch + patent/utility 조합", f"{BASE}/getWordSearch",
+     {"word": "엑소좀", "patent": "true", "utility": "false",
+      "docsStart": "1", "docsCount": "1"}),
 ]
 
 
@@ -33,7 +38,6 @@ def probe(label, url, params, service_key):
     params["ServiceKey"] = service_key
     print("=" * 70)
     print(label)
-    # 키가 로그에 노출되지 않도록 마스킹해서 출력
     shown = {k: ("***" if k == "ServiceKey" else v) for k, v in params.items()}
     print(f"  파라미터: {shown}")
     try:
@@ -41,10 +45,20 @@ def probe(label, url, params, service_key):
     except requests.exceptions.RequestException as e:
         print(f"  요청 실패: {e}")
         return
-    print(f"  HTTP {resp.status_code}")
     body = resp.text.replace(service_key, "***")
-    print("  응답(앞 800자):")
-    print("  " + body[:800].replace("\n", "\n  "))
+    print(f"  HTTP {resp.status_code} / 응답 길이 {len(body)}자")
+
+    # 건수로 보이는 태그를 전부 뽑아본다
+    counts = re.findall(r"<(\w*[Cc]ount\w*)>([^<]*)</\1>", body)
+    print(f"  count 계열 태그: {counts if counts else '없음'}")
+
+    # resultCode / resultMsg
+    for tag in ("resultCode", "resultMsg", "successYN"):
+        m = re.search(rf"<{tag}>([^<]*)</{tag}>", body)
+        print(f"  {tag}: {m.group(1) if m else '(없음)'}")
+
+    print("  응답 마지막 600자:")
+    print("  " + body[-600:].replace("\n", "\n  "))
     print()
 
 
