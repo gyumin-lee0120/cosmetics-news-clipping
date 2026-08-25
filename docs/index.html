@@ -63,7 +63,12 @@
   /* 헤더 */
   .header { padding-bottom: 12px; border-bottom: 1px solid var(--border); margin-bottom: 14px; }
   .brand { display: flex; align-items: center; gap: 10px; }
-  .brand-logo { flex-shrink: 0; }
+  .brand-lockup { display: flex; align-items: center; gap: 7px; background: none; border: none; padding: 4px 7px; border-radius: 8px; cursor: pointer; flex-shrink: 0; }
+  .brand-lockup:hover { background: var(--surface-1); }
+  .brand-lockup img { display: block; width: auto; }
+  .brand-lockup img:first-child { height: 17px; }
+  .brand-lockup img:last-child { height: 14px; }
+  .brand-divider { width: 1px; height: 22px; background: var(--border); flex-shrink: 0; }
   h1 { font-size: 17px; font-weight: 600; margin: 0; }
   .muted { color: var(--text-secondary); font-size: 12px; margin: 2px 0 0; }
   button, .btn {
@@ -173,7 +178,10 @@
   <div class="header">
     <div class="row">
       <div class="brand">
-        <img class="brand-logo" src="logo-wontech-icon.png" width="30" height="30" alt="원텍 로고">
+          <img src="logo-wontech-icon.png" alt="원텍">
+          <img src="logo-wontech-wordmark.png" alt="WONTECH">
+        </button>
+        <span class="brand-divider"></span>
         <div>
           <h1>화장품 시장 뉴스 클리핑</h1>
           <p class="muted" id="lastUpdated">불러오는 중...</p>
