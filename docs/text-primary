@@ -63,11 +63,10 @@
   /* 헤더 */
   .header { padding-bottom: 12px; border-bottom: 1px solid var(--border); margin-bottom: 14px; }
   .brand { display: flex; align-items: center; gap: 10px; }
-  .brand-lockup { display: flex; align-items: center; gap: 7px; background: none; border: none; padding: 4px 7px; border-radius: 8px; cursor: pointer; flex-shrink: 0; }
+  .brand-lockup { display: flex; align-items: center; gap: 8px; background: none; border: none; padding: 5px 8px; border-radius: 8px; cursor: pointer; flex-shrink: 0; }
   .brand-lockup:hover { background: var(--surface-1); }
-  .brand-lockup img { display: block; width: auto; }
-  .brand-lockup img:first-child { height: 17px; }
-  .brand-lockup img:last-child { height: 14px; }
+  .brand-lockup img { display: block; width: auto; height: 22px; }
+  .brand-wordmark { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; color: var(--brand-orange); line-height: 1; }
   .brand-divider { width: 1px; height: 22px; background: var(--border); flex-shrink: 0; }
   h1 { font-size: 17px; font-weight: 600; margin: 0; }
   .muted { color: var(--text-secondary); font-size: 12px; margin: 2px 0 0; }
@@ -180,7 +179,7 @@
         <div class="brand">
           <button class="brand-lockup" type="button" onclick="location.reload()" title="새로고침" aria-label="새로고침">
             <img src="logo-wontech-icon.png" alt="원텍">
-            <img src="logo-wontech-wordmark.png" alt="WONTECH">
+            <span class="brand-wordmark">WONTECH</span>
           </button>
         <span class="brand-divider"></span>
         <div>
